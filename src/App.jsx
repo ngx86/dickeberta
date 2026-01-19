@@ -115,7 +115,7 @@ export default function App() {
           </div>
 
           {/* Center: Album Details */}
-          <div className="flex justify-center">
+          <div className="lg:flex lg:justify-center">
             <AlbumDetail
               album={currentAlbum}
               selectedTrack={selectedTrack}

@@ -59,16 +59,18 @@ export default function Navigation({ albums, currentSlot, onSlotChange, onGenreF
       {/* Mobile Accordion Header */}
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="lg:hidden w-full flex items-center justify-between text-left mb-2"
+        className="lg:hidden w-full flex items-center justify-between py-1"
       >
         <span className="text-gray-400 text-sm">
-          View quick jump and filters
+          {isOpen ? 'Hide filters' : 'Quick jump & filters'}
         </span>
-        <ChevronIcon open={isOpen} />
+        <span className="text-gray-500">
+          <ChevronIcon open={isOpen} />
+        </span>
       </button>
 
       {/* Collapsible Content - always visible on lg, toggle on mobile */}
-      <div className={`${isOpen ? 'block' : 'hidden'} lg:block`}>
+      <div className={`${isOpen ? 'block pt-3' : 'hidden'} lg:block`}>
         {/* Quick Jump Pills */}
         <div className="mb-4">
           <label className="text-xs text-gray-500 uppercase tracking-widest block mb-2">
