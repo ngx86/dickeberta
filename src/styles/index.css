@@ -1,0 +1,187 @@
+/* DSEG7 LCD Font - loaded from CDN for simplicity */
+@import url('https://cdn.jsdelivr.net/npm/dseg@0.46.0/css/dseg.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom scrollbar for dark theme */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1a1a1a;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #444;
+}
+
+/* Base styles */
+body {
+  background-color: #0a0a0a;
+  color: #fff;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+  overflow-x: hidden;
+}
+
+/* LCD Display styling */
+.lcd-display {
+  font-family: 'DSEG7Classic', monospace;
+  text-shadow:
+    0 0 10px rgba(255, 149, 0, 0.8),
+    0 0 20px rgba(255, 149, 0, 0.6),
+    0 0 30px rgba(255, 149, 0, 0.4);
+}
+
+.lcd-background {
+  font-family: 'DSEG7Classic', monospace;
+  color: rgba(255, 149, 0, 0.1);
+}
+
+/* Glassmorphism panel */
+.glass-panel {
+  background: rgba(26, 26, 26, 0.8);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Album cover reflection effect */
+.album-reflection {
+  position: relative;
+}
+
+.album-reflection::after {
+  content: '';
+  position: absolute;
+  bottom: -50%;
+  left: 0;
+  right: 0;
+  height: 50%;
+  background: linear-gradient(to bottom, rgba(255,255,255,0.1), transparent);
+  transform: scaleY(-1);
+  opacity: 0.3;
+  pointer-events: none;
+}
+
+/* Swiper customizations */
+.swiper-slide {
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.swiper-slide-active {
+  z-index: 10;
+}
+
+/* Genre badge */
+.genre-badge {
+  background: linear-gradient(135deg, rgba(255, 149, 0, 0.2), rgba(255, 149, 0, 0.1));
+  border: 1px solid rgba(255, 149, 0, 0.3);
+}
+
+/* Track list item hover */
+.track-item {
+  transition: all 0.2s ease;
+}
+
+.track-item:hover {
+  background: rgba(255, 149, 0, 0.1);
+  padding-left: 1rem;
+}
+
+.track-item.selected {
+  background: rgba(255, 149, 0, 0.2);
+  border-left: 3px solid #ff9500;
+}
+
+/* Navigation button */
+.nav-button {
+  transition: all 0.2s ease;
+}
+
+.nav-button:hover {
+  background: rgba(255, 149, 0, 0.2);
+  transform: scale(1.1);
+}
+
+.nav-button:active {
+  transform: scale(0.95);
+}
+
+/* Slot input styling */
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+}
+
+input[type="range"]::-webkit-slider-track {
+  height: 4px;
+  background: #333;
+  border-radius: 2px;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #ff9500;
+  cursor: pointer;
+  margin-top: -6px;
+  box-shadow: 0 0 10px rgba(255, 149, 0, 0.5);
+}
+
+input[type="range"]::-moz-range-track {
+  height: 4px;
+  background: #333;
+  border-radius: 2px;
+}
+
+input[type="range"]::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #ff9500;
+  cursor: pointer;
+  border: none;
+  box-shadow: 0 0 10px rgba(255, 149, 0, 0.5);
+}
+
+/* Animation keyframes */
+@keyframes pulse-glow {
+  0%, 100% {
+    text-shadow:
+      0 0 10px rgba(255, 149, 0, 0.8),
+      0 0 20px rgba(255, 149, 0, 0.6),
+      0 0 30px rgba(255, 149, 0, 0.4);
+  }
+  50% {
+    text-shadow:
+      0 0 15px rgba(255, 149, 0, 1),
+      0 0 30px rgba(255, 149, 0, 0.8),
+      0 0 45px rgba(255, 149, 0, 0.6);
+  }
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .glass-panel {
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+  }
+}

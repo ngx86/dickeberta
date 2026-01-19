@@ -1,0 +1,7741 @@
+[
+  {
+    "id": 1,
+    "artist": "Nas",
+    "album": "Illmatic",
+    "slot": 1,
+    "genre": "Hip-Hop",
+    "coverArtUrl": "https://i.discogs.com/Dk3joX5_aVaDasrSTxk_U-K_ru5y6kYWnfpiTNp0HoQ/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjcx/MDItMTIwMjA5ODQ4/NC5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "The Genesis",
+        "duration": "1:45"
+      },
+      {
+        "number": 2,
+        "title": "N.Y. State Of Mind",
+        "duration": "4:54"
+      },
+      {
+        "number": 3,
+        "title": "Life's A Bitch",
+        "duration": "3:31"
+      },
+      {
+        "number": 4,
+        "title": "The World Is Yours",
+        "duration": "4:51"
+      },
+      {
+        "number": 5,
+        "title": "Halftime",
+        "duration": "4:21"
+      },
+      {
+        "number": 6,
+        "title": "Memory Lane (Sittin' In Da Park)",
+        "duration": "4:08"
+      },
+      {
+        "number": 7,
+        "title": "One Love",
+        "duration": "5:26"
+      },
+      {
+        "number": 8,
+        "title": "One Time 4 Your Mind",
+        "duration": "3:19"
+      },
+      {
+        "number": 9,
+        "title": "Represent",
+        "duration": "4:12"
+      },
+      {
+        "number": 10,
+        "title": "It Ain't Hard To Tell",
+        "duration": "3:23"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "artist": "A Tribe Called Quest",
+    "album": "Midnight Marauders",
+    "slot": 2,
+    "genre": "Hip-Hop",
+    "coverArtUrl": "https://i.discogs.com/TwwQcNIpgi5_dGe4O5nwMR-ceqesgFrLRU3c4eiX6-E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzE4/Ni0xNzEyMDgwNTYy/LTM2MTYuanBlZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Midnight Marauders Tour Guide",
+        "duration": "0:45"
+      },
+      {
+        "number": 2,
+        "title": "Steve Biko (Stir It Up)",
+        "duration": "3:11"
+      },
+      {
+        "number": 3,
+        "title": "Award Tour",
+        "duration": "3:46"
+      },
+      {
+        "number": 4,
+        "title": "8 Million Stories",
+        "duration": "4:21"
+      },
+      {
+        "number": 5,
+        "title": "Sucka Nigga",
+        "duration": "4:05"
+      },
+      {
+        "number": 6,
+        "title": "Midnight",
+        "duration": "4:25"
+      },
+      {
+        "number": 7,
+        "title": "We Can Get Down",
+        "duration": "4:19"
+      },
+      {
+        "number": 8,
+        "title": "Electric Relaxation",
+        "duration": "4:04"
+      },
+      {
+        "number": 9,
+        "title": "Clap Your Hands",
+        "duration": "3:16"
+      },
+      {
+        "number": 10,
+        "title": "Oh My God",
+        "duration": "3:29"
+      },
+      {
+        "number": 11,
+        "title": "Keep It Rollin'",
+        "duration": "3:05"
+      },
+      {
+        "number": 12,
+        "title": "The Chase, Part 2",
+        "duration": "4:02"
+      },
+      {
+        "number": 13,
+        "title": "Lyrics To Go",
+        "duration": "4:09"
+      },
+      {
+        "number": 14,
+        "title": "God Live Through",
+        "duration": "4:15"
+      },
+      {
+        "number": 15,
+        "title": "Hot Sex",
+        "duration": "2:45"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "artist": "A Tribe Called Quest",
+    "album": "The Love Movement CD 1",
+    "slot": 3,
+    "genre": "Hip-Hop",
+    "coverArtUrl": "https://i.discogs.com/o-TyrKtHKMjDoRUtPUnaZ7lJ202v_Ev-3iT5rs3dSOU/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTYy/NS0xNDY2MzU1Mzk0/LTU1MDcucG5n.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Start It Up",
+        "duration": "3:18"
+      },
+      {
+        "number": 2,
+        "title": "Find A Way",
+        "duration": "3:23"
+      },
+      {
+        "number": 3,
+        "title": "Da Booty",
+        "duration": "3:20"
+      },
+      {
+        "number": 4,
+        "title": "Steppin' It Up",
+        "duration": "3:22"
+      },
+      {
+        "number": 5,
+        "title": "Like It Like That",
+        "duration": "2:46"
+      },
+      {
+        "number": 6,
+        "title": "Common Ground (Get It Goin' On)",
+        "duration": "2:49"
+      },
+      {
+        "number": 7,
+        "title": "4 Moms",
+        "duration": "1:49"
+      },
+      {
+        "number": 8,
+        "title": "His Name Is Mutty Ranks",
+        "duration": "1:56"
+      },
+      {
+        "number": 9,
+        "title": "Give Me",
+        "duration": "3:52"
+      },
+      {
+        "number": 10,
+        "title": "Pad & Pen",
+        "duration": "3:23"
+      },
+      {
+        "number": 11,
+        "title": "Busta's Lament",
+        "duration": "2:39"
+      },
+      {
+        "number": 12,
+        "title": "Hot 4 U",
+        "duration": "3:15"
+      },
+      {
+        "number": 13,
+        "title": "Against The World",
+        "duration": "3:59"
+      },
+      {
+        "number": 14,
+        "title": "The Love",
+        "duration": "4:02"
+      },
+      {
+        "number": 15,
+        "title": "Rock Rock Y'all",
+        "duration": "4:17"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "artist": "A Tribe Called Quest",
+    "album": "The Love Movement CD 2",
+    "slot": 4,
+    "genre": "Hip-Hop",
+    "coverArtUrl": "https://i.discogs.com/o-TyrKtHKMjDoRUtPUnaZ7lJ202v_Ev-3iT5rs3dSOU/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTYy/NS0xNDY2MzU1Mzk0/LTU1MDcucG5n.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Scenario (Remix)",
+        "duration": "5:17"
+      },
+      {
+        "number": 2,
+        "title": "Money Maker",
+        "duration": "4:22"
+      },
+      {
+        "number": 3,
+        "title": "Hot Sex",
+        "duration": "2:45"
+      },
+      {
+        "number": 4,
+        "title": "Oh My God (Remix)",
+        "duration": "4:02"
+      },
+      {
+        "number": 5,
+        "title": "Jazz (We've Got) (Re-recording Radio)",
+        "duration": "4:19"
+      },
+      {
+        "number": 6,
+        "title": "One Two S**t",
+        "duration": "4:33"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "artist": "Gang Starr",
+    "album": "Daily Operation",
+    "slot": 5,
+    "genre": "Hip-Hop",
+    "coverArtUrl": "https://i.discogs.com/ZMOqIdR25ZKpH8WuJjaAPB5PxOQWOVv8ICWycq62izs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzQz/OS0xMzkyNTc0NjY4/LTYwNzUucG5n.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Daily Operation (Intro)",
+        "duration": "0:27"
+      },
+      {
+        "number": 2,
+        "title": "The Place Where We Dwell",
+        "duration": "2:27"
+      },
+      {
+        "number": 3,
+        "title": "Flip The Script",
+        "duration": "4:02"
+      },
+      {
+        "number": 4,
+        "title": "Ex Girl To Next Girl",
+        "duration": "4:40"
+      },
+      {
+        "number": 5,
+        "title": "Soliloquy Of Chaos",
+        "duration": "3:13"
+      },
+      {
+        "number": 6,
+        "title": "I'm The Man",
+        "duration": "4:05"
+      },
+      {
+        "number": 7,
+        "title": "92 Interlude",
+        "duration": "0:28"
+      },
+      {
+        "number": 8,
+        "title": "Take It Personal",
+        "duration": "3:07"
+      },
+      {
+        "number": 9,
+        "title": "2 Deep",
+        "duration": "3:38"
+      },
+      {
+        "number": 10,
+        "title": "24-7/365",
+        "duration": "0:24"
+      },
+      {
+        "number": 11,
+        "title": "No Shame In My Game",
+        "duration": "3:55"
+      },
+      {
+        "number": 12,
+        "title": "Conspiracy",
+        "duration": "2:48"
+      },
+      {
+        "number": 13,
+        "title": "The Illest Brother",
+        "duration": "4:44"
+      },
+      {
+        "number": 14,
+        "title": "Hardcore Composer",
+        "duration": "3:16"
+      },
+      {
+        "number": 15,
+        "title": "B. Y. S.",
+        "duration": "3:06"
+      },
+      {
+        "number": 16,
+        "title": "Much Too Much (Mack A Mil)",
+        "duration": "3:31"
+      },
+      {
+        "number": 17,
+        "title": "Take Two And Pass",
+        "duration": "3:15"
+      },
+      {
+        "number": 18,
+        "title": "Stay Tuned",
+        "duration": "2:31"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "artist": "Gang Starr",
+    "album": "Hard to Earn",
+    "slot": 6,
+    "genre": "Hip-Hop",
+    "coverArtUrl": "https://i.discogs.com/3MYHzjn47L_fnSRbrsqeKkbTpDebLwjB9q4vNwug6Rc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTEw/LTExNjI0ODg5ODEu/anBlZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Intro (The First Step)",
+        "duration": "0:54"
+      },
+      {
+        "number": 2,
+        "title": "ALONGWAYTOGO",
+        "duration": "4:13"
+      },
+      {
+        "number": 3,
+        "title": "Code Of The Streets",
+        "duration": "3:29"
+      },
+      {
+        "number": 4,
+        "title": "Brainstorm",
+        "duration": "3:02"
+      },
+      {
+        "number": 5,
+        "title": "Tonz 'O' Gunz",
+        "duration": "3:55"
+      },
+      {
+        "number": 6,
+        "title": "The Planet",
+        "duration": "5:16"
+      },
+      {
+        "number": 7,
+        "title": "Aiiight Chill...",
+        "duration": "3:13"
+      },
+      {
+        "number": 8,
+        "title": "Speak Ya Clout",
+        "duration": "3:35"
+      },
+      {
+        "number": 9,
+        "title": "DWYCK",
+        "duration": "4:03"
+      },
+      {
+        "number": 10,
+        "title": "Words From The Nutcracker",
+        "duration": "1:29"
+      },
+      {
+        "number": 11,
+        "title": "Mass Appeal",
+        "duration": "3:41"
+      },
+      {
+        "number": 12,
+        "title": "Blowin' Up The Spot",
+        "duration": "3:10"
+      },
+      {
+        "number": 13,
+        "title": "Suckas Need Bodyguards",
+        "duration": "4:05"
+      },
+      {
+        "number": 14,
+        "title": "Now You're Mine",
+        "duration": "2:55"
+      },
+      {
+        "number": 15,
+        "title": "Mostly Tha Voice",
+        "duration": "3:38"
+      },
+      {
+        "number": 16,
+        "title": "F.A.L.A.",
+        "duration": "4:17"
+      },
+      {
+        "number": 17,
+        "title": "Comin' For Datazz",
+        "duration": "4:02"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "artist": "Gang Starr",
+    "album": "Moment of Truth",
+    "slot": 7,
+    "genre": "Hip-Hop",
+    "coverArtUrl": "https://i.discogs.com/Y6rWgaKHNsSAa3uQ6VOI3Y08KqYcRnS-yQd0xOSpJ5c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg5/OC0xMzU4Mzk1NDMy/LTc5NzguanBlZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "You Know My Steez",
+        "duration": "4:07"
+      },
+      {
+        "number": 2,
+        "title": "Robbin Hood Theory",
+        "duration": "3:44"
+      },
+      {
+        "number": 3,
+        "title": "Work",
+        "duration": "2:57"
+      },
+      {
+        "number": 4,
+        "title": "Royalty",
+        "duration": "5:11"
+      },
+      {
+        "number": 5,
+        "title": "Above The Clouds",
+        "duration": "3:41"
+      },
+      {
+        "number": 6,
+        "title": "JFK 2 LAX",
+        "duration": "3:34"
+      },
+      {
+        "number": 7,
+        "title": "Itz A Set Up",
+        "duration": "3:49"
+      },
+      {
+        "number": 8,
+        "title": "Moment Of Truth",
+        "duration": "4:07"
+      },
+      {
+        "number": 9,
+        "title": "B.I. Vs Friendship",
+        "duration": "4:37"
+      },
+      {
+        "number": 10,
+        "title": "The Militia",
+        "duration": "4:48"
+      },
+      {
+        "number": 11,
+        "title": "The Rep Grows Bigga",
+        "duration": "4:55"
+      },
+      {
+        "number": 12,
+        "title": "What I'm Here 4",
+        "duration": "2:45"
+      },
+      {
+        "number": 13,
+        "title": "She Knowz What She Wantz",
+        "duration": "3:00"
+      },
+      {
+        "number": 14,
+        "title": "New York Strait Talk",
+        "duration": "4:14"
+      },
+      {
+        "number": 15,
+        "title": "My Advice 2 You",
+        "duration": "2:31"
+      },
+      {
+        "number": 16,
+        "title": "Make 'Em Pay",
+        "duration": "4:21"
+      },
+      {
+        "number": 17,
+        "title": "The Mall",
+        "duration": "3:40"
+      },
+      {
+        "number": 18,
+        "title": "Betrayal",
+        "duration": "5:29"
+      },
+      {
+        "number": 19,
+        "title": "Next Time",
+        "duration": "3:06"
+      },
+      {
+        "number": 20,
+        "title": "In Memory Of...",
+        "duration": "3:50"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "artist": "Mobb Deep",
+    "album": "The Infamous",
+    "slot": 8,
+    "genre": "Hip-Hop",
+    "coverArtUrl": "https://i.discogs.com/dZCkbf1PWM1Nll2_k18V_pot4_fUtMtK_RIsHOTHYwQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODE0/OC0xNTQwMTM5NDYz/LTM5NzYuanBlZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "The Start Of Your Ending (41st Side)",
+        "duration": "4:24"
+      },
+      {
+        "number": 2,
+        "title": "[The Infamous Prelude]",
+        "duration": "2:12"
+      },
+      {
+        "number": 3,
+        "title": "Survival Of The Fittest",
+        "duration": "3:43"
+      },
+      {
+        "number": 4,
+        "title": "Eye For A Eye (Your Beef Is Mines)",
+        "duration": "4:54"
+      },
+      {
+        "number": 5,
+        "title": "[Just Step Prelude]",
+        "duration": "1:06"
+      },
+      {
+        "number": 6,
+        "title": "Give Up The Goods (Just Step)",
+        "duration": "4:02"
+      },
+      {
+        "number": 7,
+        "title": "Temperature's Rising",
+        "duration": "5:00"
+      },
+      {
+        "number": 8,
+        "title": "Up North Trip",
+        "duration": "4:58"
+      },
+      {
+        "number": 9,
+        "title": "Trife Life",
+        "duration": "5:19"
+      },
+      {
+        "number": 10,
+        "title": "Q.U.—Hectic",
+        "duration": "4:55"
+      },
+      {
+        "number": 11,
+        "title": "Right Back At You",
+        "duration": "4:52"
+      },
+      {
+        "number": 12,
+        "title": "[The Grave Prelude]",
+        "duration": "0:30"
+      },
+      {
+        "number": 13,
+        "title": "Cradle To The Grave",
+        "duration": "5:16"
+      },
+      {
+        "number": 14,
+        "title": "Drink Away The Pain (Situations)",
+        "duration": "4:44"
+      },
+      {
+        "number": 15,
+        "title": "Shook Ones Pt. II",
+        "duration": "5:24"
+      },
+      {
+        "number": 16,
+        "title": "Party Over",
+        "duration": "5:40"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "artist": "Mobb Deep",
+    "album": "Hell on Earth",
+    "slot": 9,
+    "genre": "Hip-Hop",
+    "coverArtUrl": "https://i.discogs.com/4WxJom3p07RVJsMVbu30wuQVZb275ER8h0USZqGGPSc/rs:fit/g:sm/q:90/h:300/w:301/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODE0/Ni0xMDk5MTkyNDEy/LmpwZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Animal Instinct",
+        "duration": "3:29"
+      },
+      {
+        "number": 2,
+        "title": "Drop A Gem On 'Em",
+        "duration": "4:18"
+      },
+      {
+        "number": 3,
+        "title": "Bloodsport",
+        "duration": "3:34"
+      },
+      {
+        "number": 4,
+        "title": "Extortion",
+        "duration": "3:31"
+      },
+      {
+        "number": 5,
+        "title": "More Trife Life",
+        "duration": "3:44"
+      },
+      {
+        "number": 6,
+        "title": "Man Down",
+        "duration": "5:02"
+      },
+      {
+        "number": 7,
+        "title": "Can't Get Enough Of It",
+        "duration": "4:50"
+      },
+      {
+        "number": 8,
+        "title": "Nighttime Vultures",
+        "duration": "4:27"
+      },
+      {
+        "number": 9,
+        "title": "G.O.D. Pt. III",
+        "duration": "5:17"
+      },
+      {
+        "number": 10,
+        "title": "Get Dealt With",
+        "duration": "3:55"
+      },
+      {
+        "number": 11,
+        "title": "Hell On Earth (Front Lines)",
+        "duration": "4:36"
+      },
+      {
+        "number": 12,
+        "title": "Give It Up Fast",
+        "duration": "4:02"
+      },
+      {
+        "number": 13,
+        "title": "Still Shinin'",
+        "duration": "4:11"
+      },
+      {
+        "number": 14,
+        "title": "Apostle's Warning",
+        "duration": "4:01"
+      },
+      {
+        "number": 15,
+        "title": "In The Long Run",
+        "duration": "2:38"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "artist": "Cypress Hill",
+    "album": "Greatest Hits from the Bong",
+    "slot": 10,
+    "genre": "Hip-Hop",
+    "coverArtUrl": "https://i.discogs.com/wZL24yhBvE6KK64DG0BgxWMJ9audBsyNCorH8HfsW4A/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NjI4/NC0xNDk3Mzc2NzQx/LTIxOTQuanBlZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "How I Could Just Kill A Man",
+        "duration": "4:07"
+      },
+      {
+        "number": 2,
+        "title": "Hand On The Pump",
+        "duration": "4:02"
+      },
+      {
+        "number": 3,
+        "title": "Latin Lingo",
+        "duration": "3:59"
+      },
+      {
+        "number": 4,
+        "title": "Insane In The Brain",
+        "duration": "3:26"
+      },
+      {
+        "number": 5,
+        "title": "I Ain't Goin' Out Like That",
+        "duration": "4:24"
+      },
+      {
+        "number": 6,
+        "title": "Throw Your Set In The Air",
+        "duration": "4:05"
+      },
+      {
+        "number": 7,
+        "title": "Dr. Greenthumb",
+        "duration": "4:25"
+      },
+      {
+        "number": 8,
+        "title": "(Rock) Superstar",
+        "duration": "4:35"
+      },
+      {
+        "number": 9,
+        "title": "Latin Thugs",
+        "duration": "3:46"
+      },
+      {
+        "number": 10,
+        "title": "The Only Way",
+        "duration": "3:41"
+      },
+      {
+        "number": 11,
+        "title": "EZ Come EZ Go",
+        "duration": "4:04"
+      },
+      {
+        "number": 12,
+        "title": "Latin Thugs (Reggaeton Mix)",
+        "duration": "3:37"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "artist": "Grand Puba",
+    "album": "2000",
+    "slot": 11,
+    "genre": "Hip-Hop",
+    "coverArtUrl": "https://i.discogs.com/16HuMIpHF_2MjVtDucm6uENRkalBz7XgWtDTB3KVTRA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjYx/NTUtMTUyODA0MzQ3/MC0zMDU1LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Very Special",
+        "duration": "5:15"
+      },
+      {
+        "number": 2,
+        "title": "I Like It (I Wanna Be Where You Are)",
+        "duration": "4:23"
+      },
+      {
+        "number": 3,
+        "title": "A Little Of This",
+        "duration": "4:23"
+      },
+      {
+        "number": 4,
+        "title": "Keep On",
+        "duration": "5:04"
+      },
+      {
+        "number": 5,
+        "title": "Back Stabbers",
+        "duration": "5:05"
+      },
+      {
+        "number": 6,
+        "title": "2000",
+        "duration": "3:25"
+      },
+      {
+        "number": 7,
+        "title": "Amazing",
+        "duration": "4:02"
+      },
+      {
+        "number": 8,
+        "title": "Don't Waste My Time",
+        "duration": "4:28"
+      },
+      {
+        "number": 9,
+        "title": "Play It Cool",
+        "duration": "4:12"
+      },
+      {
+        "number": 10,
+        "title": "Playin' The Game",
+        "duration": "3:25"
+      },
+      {
+        "number": 11,
+        "title": "Change Gonna Come",
+        "duration": "4:32"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "artist": "Camp Lo",
+    "album": "Uptown Saturday Night",
+    "slot": 12,
+    "genre": "Hip-Hop",
+    "coverArtUrl": "https://i.discogs.com/VeSiYJ5eTMle4kMBScFmNK4Jd_SkSImucWVYYj9rS1E/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTEw/Mi0xMjk5OTYyMjY4/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Krystal Karrington",
+        "duration": "3:24"
+      },
+      {
+        "number": 2,
+        "title": "Luchini AKA This Is It",
+        "duration": "3:59"
+      },
+      {
+        "number": 3,
+        "title": "Park Joint",
+        "duration": "3:28"
+      },
+      {
+        "number": 4,
+        "title": "B-Side To Hollywood",
+        "duration": "3:46"
+      },
+      {
+        "number": 5,
+        "title": "Killin' Em Softly",
+        "duration": "3:44"
+      },
+      {
+        "number": 6,
+        "title": "Sparkle",
+        "duration": "3:40"
+      },
+      {
+        "number": 7,
+        "title": "Black Connection",
+        "duration": "4:07"
+      },
+      {
+        "number": 8,
+        "title": "Swing",
+        "duration": "2:50"
+      },
+      {
+        "number": 9,
+        "title": "Rockin' It AKA Spanish Harlem",
+        "duration": "3:37"
+      },
+      {
+        "number": 10,
+        "title": "Say Word",
+        "duration": "3:14"
+      },
+      {
+        "number": 11,
+        "title": "Negro League",
+        "duration": "3:23"
+      },
+      {
+        "number": 12,
+        "title": "Nicky Barnes AKA It's Alright",
+        "duration": "3:14"
+      },
+      {
+        "number": 13,
+        "title": "Black Nostaljack AKA Come On",
+        "duration": "4:12"
+      },
+      {
+        "number": 14,
+        "title": "Coolie High",
+        "duration": "4:00"
+      },
+      {
+        "number": 15,
+        "title": "Sparkle (Mr. Midnight Mix)",
+        "duration": "3:50"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "artist": "Lauryn Hill",
+    "album": "The Miseducation of Lauryn Hill",
+    "slot": 13,
+    "genre": "Hip-Hop",
+    "coverArtUrl": "https://i.discogs.com/V5BsUDFUJ7nr4DA1-R-_8gM_gSbAHom4JK-UxIe7UWk/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODIw/MS0xNDE5NjIwODI4/LTEyODkuanBlZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Intro",
+        "duration": "0:47"
+      },
+      {
+        "number": 2,
+        "title": "Lost Ones",
+        "duration": "5:33"
+      },
+      {
+        "number": 3,
+        "title": "Ex-Factor",
+        "duration": "5:26"
+      },
+      {
+        "number": 4,
+        "title": "To Zion",
+        "duration": "6:09"
+      },
+      {
+        "number": 5,
+        "title": "Doo Wop (That Thing)",
+        "duration": "5:20"
+      },
+      {
+        "number": 6,
+        "title": "Superstar",
+        "duration": "4:57"
+      },
+      {
+        "number": 7,
+        "title": "Final Hour",
+        "duration": "4:16"
+      },
+      {
+        "number": 8,
+        "title": "When It Hurts So Bad",
+        "duration": "5:42"
+      },
+      {
+        "number": 9,
+        "title": "I Used To Love Him",
+        "duration": "5:39"
+      },
+      {
+        "number": 10,
+        "title": "Forgive Them Father",
+        "duration": "5:15"
+      },
+      {
+        "number": 11,
+        "title": "Every Ghetto, Every City",
+        "duration": "5:14"
+      },
+      {
+        "number": 12,
+        "title": "Nothing Even Matters",
+        "duration": "5:50"
+      },
+      {
+        "number": 13,
+        "title": "Everything Is Everything",
+        "duration": "4:53"
+      },
+      {
+        "number": 14,
+        "title": "The Miseducation Of Lauryn Hill",
+        "duration": "4:17"
+      },
+      {
+        "number": 15,
+        "title": "Can't Take My Eyes Off Of You",
+        "duration": "3:41"
+      },
+      {
+        "number": 16,
+        "title": "Tell Him (Live)",
+        "duration": "4:40"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "artist": "Beastie Boys",
+    "album": "Check Your Head",
+    "slot": 14,
+    "genre": "Hip-Hop",
+    "coverArtUrl": "https://i.discogs.com/WLlu8-T8lx5b6R1oJaeKUHEgTrxBBVjiIV7wdKLcAzI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDQ0/LTExNTk2NDIyOTgu/anBlZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Jimmy James",
+        "duration": "3:14"
+      },
+      {
+        "number": 2,
+        "title": "Funky Boss",
+        "duration": "1:35"
+      },
+      {
+        "number": 3,
+        "title": "Pass The Mic",
+        "duration": "4:17"
+      },
+      {
+        "number": 4,
+        "title": "Gratitude",
+        "duration": "2:45"
+      },
+      {
+        "number": 5,
+        "title": "Lighten Up",
+        "duration": "2:41"
+      },
+      {
+        "number": 6,
+        "title": "Finger Lickin' Good",
+        "duration": "3:39"
+      },
+      {
+        "number": 7,
+        "title": "So What'cha Want",
+        "duration": "3:37"
+      },
+      {
+        "number": 8,
+        "title": "The Biz Vs. The Nuge",
+        "duration": "0:33"
+      },
+      {
+        "number": 9,
+        "title": "Time For Livin'",
+        "duration": "1:48"
+      },
+      {
+        "number": 10,
+        "title": "Something's Got To Give",
+        "duration": "3:28"
+      },
+      {
+        "number": 11,
+        "title": "The Blue Nun",
+        "duration": "0:32"
+      },
+      {
+        "number": 12,
+        "title": "Stand Together",
+        "duration": "2:47"
+      },
+      {
+        "number": 13,
+        "title": "Pow",
+        "duration": "2:13"
+      },
+      {
+        "number": 14,
+        "title": "The Maestro",
+        "duration": "2:52"
+      },
+      {
+        "number": 15,
+        "title": "Groove Holmes",
+        "duration": "2:33"
+      },
+      {
+        "number": 16,
+        "title": "Live At P.J.'s",
+        "duration": "3:18"
+      },
+      {
+        "number": 17,
+        "title": "Mark On The Bus",
+        "duration": "1:05"
+      },
+      {
+        "number": 18,
+        "title": "Professor Booty",
+        "duration": "4:13"
+      },
+      {
+        "number": 19,
+        "title": "In 3's",
+        "duration": "2:23"
+      },
+      {
+        "number": 20,
+        "title": "Namasté",
+        "duration": "4:01"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "artist": "Beastie Boys",
+    "album": "Ill Communication",
+    "slot": 15,
+    "genre": "Hip-Hop",
+    "coverArtUrl": "https://i.discogs.com/fxLAm4pbgx0GSf0BUklAevtkRN0hm-nEq4FDLLnav5E/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjY2/LTEyNzUxODM4NjYu/anBlZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Sure Shot",
+        "duration": "3:19"
+      },
+      {
+        "number": 2,
+        "title": "Tough Guy",
+        "duration": "0:57"
+      },
+      {
+        "number": 3,
+        "title": "B-Boys Makin' With The Freak Freak",
+        "duration": "3:53"
+      },
+      {
+        "number": 4,
+        "title": "Bobo On The Corner",
+        "duration": "1:13"
+      },
+      {
+        "number": 5,
+        "title": "Root Down",
+        "duration": "3:32"
+      },
+      {
+        "number": 6,
+        "title": "Sabotage",
+        "duration": "2:58"
+      },
+      {
+        "number": 7,
+        "title": "Get It Together",
+        "duration": "4:05"
+      },
+      {
+        "number": 8,
+        "title": "Sabrosa",
+        "duration": "3:29"
+      },
+      {
+        "number": 9,
+        "title": "The Update",
+        "duration": "3:15"
+      },
+      {
+        "number": 10,
+        "title": "Futterman's Rule",
+        "duration": "3:42"
+      },
+      {
+        "number": 11,
+        "title": "Alright Hear This",
+        "duration": "3:07"
+      },
+      {
+        "number": 12,
+        "title": "Eugene's Lament",
+        "duration": "2:12"
+      },
+      {
+        "number": 13,
+        "title": "Flute Loop",
+        "duration": "1:54"
+      },
+      {
+        "number": 14,
+        "title": "Do It",
+        "duration": "3:16"
+      },
+      {
+        "number": 15,
+        "title": "Ricky's Theme",
+        "duration": "3:43"
+      },
+      {
+        "number": 16,
+        "title": "Heart Attack Man",
+        "duration": "2:15"
+      },
+      {
+        "number": 17,
+        "title": "The Scoop",
+        "duration": "3:36"
+      },
+      {
+        "number": 18,
+        "title": "Shambala",
+        "duration": "3:40"
+      },
+      {
+        "number": 19,
+        "title": "Bodhisattva Vow",
+        "duration": "3:08"
+      },
+      {
+        "number": 20,
+        "title": "Transitions",
+        "duration": "2:31"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "artist": "Stereo MCs",
+    "album": "33-45-78",
+    "slot": 16,
+    "genre": "Hip-Hop",
+    "coverArtUrl": "https://i.discogs.com/e3v2HcGLCdycy1CnEnrHhQOR53ohOeGlo_TIVajmePE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODE4/Ny0xMzg2MDUzMDk4/LTI1MzAuanBlZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "On 33",
+        "duration": "5:07"
+      },
+      {
+        "number": 2,
+        "title": "Use It",
+        "duration": "3:08"
+      },
+      {
+        "number": 3,
+        "title": "Gee Street",
+        "duration": "4:21"
+      },
+      {
+        "number": 4,
+        "title": "Neighbourhood",
+        "duration": "4:22"
+      },
+      {
+        "number": 5,
+        "title": "Toe To Toe",
+        "duration": "4:44"
+      },
+      {
+        "number": 6,
+        "title": "What Is Soul?",
+        "duration": "4:47"
+      },
+      {
+        "number": 7,
+        "title": "Part 2",
+        "duration": "4:28"
+      },
+      {
+        "number": 8,
+        "title": "Bring It On",
+        "duration": "4:39"
+      },
+      {
+        "number": 9,
+        "title": "Outta Touch",
+        "duration": "4:17"
+      },
+      {
+        "number": 10,
+        "title": "Sunday 19th March",
+        "duration": "4:15"
+      },
+      {
+        "number": 11,
+        "title": "This Ain't A Love Song",
+        "duration": "4:43"
+      },
+      {
+        "number": 12,
+        "title": "Ancient Concept",
+        "duration": "1:32"
+      },
+      {
+        "number": 13,
+        "title": "On The Mike",
+        "duration": "4:55"
+      },
+      {
+        "number": 14,
+        "title": "Move",
+        "duration": "3:54"
+      },
+      {
+        "number": 15,
+        "title": "Back To The Future",
+        "duration": "6:04"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "artist": "Quasimoto",
+    "album": "The Further Adventures of Lord Quas",
+    "slot": 17,
+    "genre": "Hip-Hop",
+    "coverArtUrl": "https://i.discogs.com/ORT3vJ0lxziSUuvi5O7NpRN62yq70hl4Am5hEKqE1ew/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDU3/NS0xMzY3MDU2Mjg2/LTc4NTQuanBlZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Bullyshit",
+        "duration": "3:07"
+      },
+      {
+        "number": 2,
+        "title": "Greenery",
+        "duration": "3:14"
+      },
+      {
+        "number": 3,
+        "title": "Crime",
+        "duration": "1:20"
+      },
+      {
+        "number": 4,
+        "title": "Hydrant",
+        "duration": "3:25"
+      },
+      {
+        "number": 5,
+        "title": "Don't Blink",
+        "duration": "2:06"
+      },
+      {
+        "number": 6,
+        "title": "Players Of The Game",
+        "duration": "2:35"
+      },
+      {
+        "number": 7,
+        "title": "Bus Ride",
+        "duration": "2:58"
+      },
+      {
+        "number": 8,
+        "title": "Closer",
+        "duration": "3:02"
+      },
+      {
+        "number": 9,
+        "title": "Maingirl",
+        "duration": "4:01"
+      },
+      {
+        "number": 10,
+        "title": "Civilization Day",
+        "duration": "1:50"
+      },
+      {
+        "number": 11,
+        "title": "Bartender Say",
+        "duration": "2:46"
+      },
+      {
+        "number": 12,
+        "title": "1994",
+        "duration": "2:22"
+      },
+      {
+        "number": 13,
+        "title": "Another Demo Tape",
+        "duration": "1:46"
+      },
+      {
+        "number": 14,
+        "title": "Raw Deal",
+        "duration": "2:17"
+      },
+      {
+        "number": 15,
+        "title": "Mr. Two-Faced",
+        "duration": "1:34"
+      },
+      {
+        "number": 16,
+        "title": "The Exclusive",
+        "duration": "2:36"
+      },
+      {
+        "number": 17,
+        "title": "Fatbacks",
+        "duration": "3:51"
+      },
+      {
+        "number": 18,
+        "title": "J.A.N. (Jive Ass Niggaz)",
+        "duration": "1:54"
+      },
+      {
+        "number": 19,
+        "title": "Shroom Music",
+        "duration": "3:01"
+      },
+      {
+        "number": 20,
+        "title": "Rappcats Pt. 3",
+        "duration": "2:26"
+      },
+      {
+        "number": 21,
+        "title": "Strange Piano",
+        "duration": "2:00"
+      },
+      {
+        "number": 22,
+        "title": "Life Is...",
+        "duration": "2:19"
+      },
+      {
+        "number": 23,
+        "title": "The Clown (Episode C)",
+        "duration": "2:59"
+      },
+      {
+        "number": 24,
+        "title": "Raw Addict Pt. 2",
+        "duration": "2:34"
+      },
+      {
+        "number": 25,
+        "title": "Tomorrow Never Knows",
+        "duration": "2:39"
+      },
+      {
+        "number": 26,
+        "title": "Privacy",
+        "duration": "1:36"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "artist": "Madlib",
+    "album": "Mind Fusion Vol. 3",
+    "slot": 18,
+    "genre": "Brazil / Latin",
+    "coverArtUrl": "https://i.discogs.com/5iP0MKFWFglH66LW4KU6nGTMpO6VbFaYoTzkRNxELYI/rs:fit/g:sm/q:90/h:512/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDA4/NjUtMTE4MjYzMzc1/Ny5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Just A",
+        "duration": "5:25"
+      },
+      {
+        "number": 2,
+        "title": "Collection",
+        "duration": "6:33"
+      },
+      {
+        "number": 3,
+        "title": "Of The",
+        "duration": "8:25"
+      },
+      {
+        "number": 4,
+        "title": "Hottest",
+        "duration": "5:02"
+      },
+      {
+        "number": 5,
+        "title": "Shit",
+        "duration": "11:49"
+      },
+      {
+        "number": 6,
+        "title": "Madlib",
+        "duration": "10:07"
+      },
+      {
+        "number": 7,
+        "title": "Has Ever",
+        "duration": "7:02"
+      },
+      {
+        "number": 8,
+        "title": "Produced!",
+        "duration": "3:23"
+      }
+    ],
+    "cdNotes": "01 Just A (5:25)\n\n0:00 – Orquestra Afro Brasileira – Xangô\n1:45 – Marília Medalha – Água Escondida\n4:07 – Anamaria & Mauricio – Freio Aerodinâmico\n\n02 Collection (6:33)\n\n0:00 – Sérgio Mendes Trio, Wanda De Sá, Rosinha De Valença – Tristeza Em Mim\n1:42 – O Terço – Adormeceu\n2:21 – Leny Andrade – Canto De Chegar\n4:51 – Antonio Adolfo E A Brazuca – Grilopus Nº 1 (2ª Parte)\n5:07 – Luis Agudo & Afonso Vieira – Sumaré\n\n03 Of The (8:25)\n\n0:00 – Jards Macalé – Jards Anet Da Vida / Dois Corações / No Meio Do Mato / O Faquir Da Dor\n0:08 – Unidentified\n0:37 – Wagner Tiso – Os Pássaros\n2:30 – Sambalanço Trio – Sambinha\n4:40 – Djalma Corrêa – Banjilógrafo\n6:36 – José Mauro – Apocalipse\n\n04 Hottest (5:02)\n\n0:00 – Unidentified\n0:21 – Jards Macalé – Pam Pam Pam\n1:07 – Anamaria & Mauricio – O Trem Azul\n2:24 – Djalma Corrêa – Os Quatro Elementos\n\n05 Shit (11:49)\n\n0:00 – John Thomas & Lifeforce – Like A Samba\n2:02 – Edu Lobo – Incelensa\n4:20 – Claudette Soares – Os Grilos\n6:02 – Pedro dos Santos, Sebastião Tapajós, Jorginho – Gurungungô\n8:42 – Edu Lobo – Porto Do Sol\n9:32 – João Bosco – Quem Será?\n\n06 Madlib (10:07)\n\n0:00 – Eduardo Araújo & Silvinha – Girassol\n2:33 – Victor Assis Brasil – Puzzle\n4:09 – Gal Costa – Pontos De Luz\n6:00 – Unidentified\n7:44 – Tânia Maria – Bobeou, Não Vai Entender\n\n07 Has Ever (7:02)\n\n0:00 – José Mauro – Obnóxius\n2:02 – Azymuth – Circo Marimbondo\n3:40 – Caju & Castanha – Unidentified\n4:56 – Heraldo Do Monte – Chuva Morna\n5:20 – Heraldo Do Monte – Forrozin\n\n08 Produced! (3:23)\n\n0:00 – Jaime & Nair – Zabumba Do Nego\n0:42 – Unidentified\n2:31 – Chet Baker Meets Novos Tempos – Salsamba"
+  },
+  {
+    "id": 19,
+    "artist": "Madlib",
+    "album": "Speto da Rua",
+    "slot": 19,
+    "genre": "Brazil / Latin",
+    "coverArtUrl": "https://i.discogs.com/k6Znfq2OTEuTFt_rtLHmmxR1SkQwzPavTjHWqTazHVw/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM0/NzUtMTYzODk0MTQ3/MS05MjUzLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Speto Da Rua",
+        "duration": "61:08"
+      }
+    ],
+    "cdNotes": "[00:00] Orquestra Afro-Brasileira - Xangô\n[01:45] Marilia Medalha - Água Escondida\n[04:07] Anamaria e Mauricio - Freio Aerodinâmico\n[06:08] Wanda de Sá & Rosinha de Valença - Tristeza em Mim\n[07:50] O Terço - Adormeceu\n[08:29] Leny Andrade - Canto de Chegar\n[10:59] Antonio Adolfo e A Brazuca - Grilopus Nº 1 (2ª Parte)\n[11:15] Luis Agudo & Afonzo Vieira - Sumaré\n[13:05] Jards Macalé - Jards Anet da Vida / Dois Corações / No Meio do Mato / O Faquir da Dor\n[13:13] Antonio Adolfo - Terminado Esse Disco\n[13:42] Wagner Tiso - Os Pássaros\n[15:35] Sambalanço Trio - Sambinha\n[17:45] Djalma Corrêa - Banjilógrafo\n[19:41] José Mauro - Apocalipse\n[22:19] Stone Alliance - Amigos\n[22:40] Jards Macalé - Pam Pam Pam\n[23:26] Anamaria e Mauricio - O Trem Azul\n[24:43] Djalma Corrêa - Os Quatro Elementos\n[26:34] John Thomas & Lifeforce - Like a Samba\n[28:36] Edu Lobo - Incelença\n[30:54] Claudette Soares - Os Grilos\n[32:36] Sebastião Tapajós - Gurugungô\n[35:16] Edu Lobo - Porto do Sol\n[36:06] João Bosco - Quem Será?\n[38:29] ?\n[38:49] Eduardo Araújo & Silvinha - Girassol\n[41:22] Victor Assis Brasil - Puzzle\n[42:58] Gal Costa - Pontos de Luz\n[44:49] ?\n[46:33] Tania Maria - Bobeou, Não Vai Entender\n[47:59] José Mauro - Obnóxius\n[50:01] Azymuth - Circo Marimbondo\n[51:39] ? Possibly Caju e Castanha or unknown forró artist\n[52:55] Heraldo do Monte - Chuva Morna\n[53:19] Heraldo do Monte - Forrozin\n[56:04] Jaime & Nair - Zabumba do Nego\n[56:46] Paulinho Nogueira - O Velho Gurú\n[58:35] Chet Baker Meets Novos Tempos - Salsamba"
+  },
+  {
+    "id": 20,
+    "artist": "Madlib",
+    "album": "Mind Fusion Vol. 2",
+    "slot": 20,
+    "genre": "Jazz",
+    "coverArtUrl": "https://i.discogs.com/IVmIw4yt0TKOrUaDEbJ3QVAja9iJyOLkSpKR617jkes/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjQ4/NS0xNzM3NTY4OTM4/LTgxMTQuanBlZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Track 1",
+        "duration": ""
+      },
+      {
+        "number": 2,
+        "title": "Track 2",
+        "duration": ""
+      },
+      {
+        "number": 3,
+        "title": "Track 3",
+        "duration": ""
+      }
+    ],
+    "cdNotes": "01 Track 1\n\n0:00 - Nat Adderley “Song of the Valdez Diamond” from Double Exposure (Prestige, 1975)\n0:30 - Brian Auger “Beginning Again” from Straight Ahead (RCA Victor, 1974)\n2:51 - Johnny Hammond “Back To The Projects” from Gambler's Life (Salvation Records, 1974)\n5:31 - Cesar Mariano and Cia “Metropole” from São Paulo Brasil (RCA, 1977)\n7:25 - Human Egg “Love Like This” from Human Egg (Lizard, 1978) and Jean-Pierre Massiera's Psychoses Discoïd (2007)\n9:09 - Michal Urbaniak's Fusion “Ilex” from ATMA (Columbia, 1974)\n11:47 - Peter Lipa “My Album” from Moanin' (Opus, 1984)\n13:45 - Mary Lou Williams “Pale Blue” from Free Spirits\n\n02 Track 2\n\n0:00 - Henry Franklin “Cosmos Dwellers” from Tribal Dance\n1:53 - Azymuth “Pertido Alto” from Light as a Feather\n3:44 - Elvin Jones “Moon Dance” from Time Capsule\n6:24 - Patrice Rushen “Before The Dawn” from Before the Dawn\n8:29 - JuJu (Oneness of Juju) “Nia” from Chapter Two, Nia\n10:04 - Marcos Valle “Não Tem Nada Não” from Previsão do Tempo\n11:13 - Azar Lawrence “Theme for a New Day from People Moving (Prestige, 1975)\n\n03 Track 3\n\n0:00 - Inspector Clouseau “L'Automne” from Teenage Troupeau Bleu (Frog Note, 1988)\n1:45 - Joyce “Longe do Tempo from Encontro Marcado (1969)\n2:44 - Jackie McLean “Soul” from ‘Bout Soul (Blue Note, 1967)\n3:00 - Ennio Morricone “Dies Irae Psichedelico” from Escalation (Cam, 1968)\n4:00 - Ken Rhodes “Profile” from Profile (Amayana, 1974)\n5:27 - Stefano Torossi “Fearing Much” from Feelings (Carosello, 1975)\n6:11 - Duke Ellington “Didjeridoo” from The Afro-Eurasian Eclipse\n7:31 - Marcos Valle “Azimuth” from Mustang Côr de Sangue (1969)\n9:22 - Bayete “Let The Music Take Your Mind” from Seeking Other Beauty (1972)\n10:24 - Azymuth “Nothing Will Be As It Was (Nada Será Como Antes)” from Telecommunication (Milestone, 1982)\n11:30 - Jackie McClean “Soul” from ‘Bout Soul (Blue Note, 1967)\n11:55 - Lorez Alexandria “Baltimore Oriole” from For Swingers Only\n14:02 - Pharoah Sanders “Casino Latino” from Beyond a Dream\n17:50 - George Duke “Nigerian Numberuma” from The Inner Source\n18:33 - George Duke “Feels So Good” from The Inner Source\n20:12 - Jackie McLean “Soul” from ‘Bout Soul\n20:24 - Willie Tee & The Gaturs “Concentrate” from Wasted (1970)\n21:33 - Egberto Gismonti “Janela de Ouro” from Sonho 70 (Polydor, 1970)\n22:49 - Cal Green “Revolution Rap” (Mutt & Jeff, 1972), also released on Super Cool California Soul Vol. 2 (Luv N Haight)"
+  },
+  {
+    "id": 21,
+    "artist": "Various Artists",
+    "album": "Yesterdays Universe: Prepare For A New Yesterday (Vol. 1)",
+    "slot": 21,
+    "genre": "Jazz",
+    "coverArtUrl": "https://i.discogs.com/k3NdRVNKU6Xrq9gwXb_hWpPGdPAkvkeY5FsLAmjvDh8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDEw/MTY1LTE3NjU0OTM0/MjUtMjAxNS5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Bitches Brew",
+        "duration": ""
+      },
+      {
+        "number": 2,
+        "title": "Umoja (Unity)",
+        "duration": ""
+      },
+      {
+        "number": 3,
+        "title": "Slave Riot",
+        "duration": ""
+      },
+      {
+        "number": 4,
+        "title": "One For The Monica Lingas Band",
+        "duration": ""
+      },
+      {
+        "number": 5,
+        "title": "Street Talkin'",
+        "duration": ""
+      },
+      {
+        "number": 6,
+        "title": "Marcus, Martin & Malcolm",
+        "duration": ""
+      },
+      {
+        "number": 7,
+        "title": "Two For Strata East",
+        "duration": ""
+      },
+      {
+        "number": 8,
+        "title": "She's Gonna Stay",
+        "duration": ""
+      },
+      {
+        "number": 9,
+        "title": "Cold Nights And Rainy Days",
+        "duration": ""
+      },
+      {
+        "number": 10,
+        "title": "Free Son",
+        "duration": ""
+      },
+      {
+        "number": 11,
+        "title": "Barumba",
+        "duration": ""
+      },
+      {
+        "number": 12,
+        "title": "Sunny C (California)",
+        "duration": ""
+      },
+      {
+        "number": 13,
+        "title": "Mtume's Song",
+        "duration": ""
+      },
+      {
+        "number": 14,
+        "title": "Vibes From The Tribes Suite (For Phil)",
+        "duration": ""
+      },
+      {
+        "number": 15,
+        "title": "Upa Neguinho",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "artist": "Miles Davis Quintet",
+    "album": "Workin'",
+    "slot": 22,
+    "genre": "Jazz",
+    "coverArtUrl": "https://i.discogs.com/JshDF20vGJG8NZ1GofN_iGA4EuIHZkgVRXmCQRr9U8I/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjUx/MzItMTM5OTgxNDgx/My01MDA2LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "It Never Entered My Mind",
+        "duration": "5:23"
+      },
+      {
+        "number": 2,
+        "title": "Four",
+        "duration": "7:12"
+      },
+      {
+        "number": 3,
+        "title": "In Your Own Sweet Way",
+        "duration": "5:42"
+      },
+      {
+        "number": 4,
+        "title": "The Theme (Take 1)",
+        "duration": "1:58"
+      },
+      {
+        "number": 5,
+        "title": "Trane's Blues",
+        "duration": "8:33"
+      },
+      {
+        "number": 6,
+        "title": "Ahmad's Blues",
+        "duration": "7:23"
+      },
+      {
+        "number": 7,
+        "title": "Half Nelson",
+        "duration": "4:46"
+      },
+      {
+        "number": 8,
+        "title": "The Theme (Take 2)",
+        "duration": "1:05"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "artist": "Miles Davis",
+    "album": "Bitches Brew CD 1",
+    "slot": 23,
+    "genre": "Jazz",
+    "coverArtUrl": "https://i.discogs.com/IJ-B9g4KVYpwCCa755cZXc4Mz9sJZohjdrAkM5cz0yY/rs:fit/g:sm/q:90/h:508/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODg1/OS0xMjUwMzcwNTUw/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Pharaoh's Dance",
+        "duration": "20:00"
+      },
+      {
+        "number": 2,
+        "title": "Bitches Brew",
+        "duration": "26:59"
+      },
+      {
+        "number": 1,
+        "title": "Spanish Key",
+        "duration": "17:29"
+      },
+      {
+        "number": 2,
+        "title": "John McLaughlin",
+        "duration": "4:26"
+      },
+      {
+        "number": 3,
+        "title": "Miles Runs The Voodoo Down",
+        "duration": "14:04"
+      },
+      {
+        "number": 4,
+        "title": "Sanctuary",
+        "duration": "10:52"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "artist": "Miles Davis",
+    "album": "Bitches Brew CD 2",
+    "slot": 24,
+    "genre": "Jazz",
+    "coverArtUrl": "https://i.discogs.com/IJ-B9g4KVYpwCCa755cZXc4Mz9sJZohjdrAkM5cz0yY/rs:fit/g:sm/q:90/h:508/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODg1/OS0xMjUwMzcwNTUw/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Pharaoh's Dance",
+        "duration": "20:00"
+      },
+      {
+        "number": 2,
+        "title": "Bitches Brew",
+        "duration": "26:59"
+      },
+      {
+        "number": 1,
+        "title": "Spanish Key",
+        "duration": "17:29"
+      },
+      {
+        "number": 2,
+        "title": "John McLaughlin",
+        "duration": "4:26"
+      },
+      {
+        "number": 3,
+        "title": "Miles Runs The Voodoo Down",
+        "duration": "14:04"
+      },
+      {
+        "number": 4,
+        "title": "Sanctuary",
+        "duration": "10:52"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "artist": "Django Reinhardt",
+    "album": "Swing de Paris CD 2",
+    "slot": 25,
+    "genre": "Jazz",
+    "coverArtUrl": "https://i.discogs.com/CD0yOl1nT4oSKZRCHnWscRcCnVbNnyJWTXWXqk0w5p0/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTk4/ODM2LTE1NTcyNDY3/NTUtNjMyNC5wbmc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Swing De Paris",
+        "duration": ""
+      },
+      {
+        "number": 2,
+        "title": "Hungaria",
+        "duration": ""
+      },
+      {
+        "number": 3,
+        "title": "Swing 42",
+        "duration": ""
+      },
+      {
+        "number": 4,
+        "title": "Improvisation No. 2",
+        "duration": ""
+      },
+      {
+        "number": 5,
+        "title": "De Nulle Part",
+        "duration": ""
+      },
+      {
+        "number": 6,
+        "title": "Dinette",
+        "duration": ""
+      },
+      {
+        "number": 7,
+        "title": "Belleville",
+        "duration": ""
+      },
+      {
+        "number": 8,
+        "title": "Studio 24",
+        "duration": ""
+      },
+      {
+        "number": 9,
+        "title": "Djangology",
+        "duration": ""
+      },
+      {
+        "number": 10,
+        "title": "Douce Ambiance",
+        "duration": ""
+      },
+      {
+        "number": 11,
+        "title": "Cavalerie",
+        "duration": ""
+      },
+      {
+        "number": 12,
+        "title": "Fleur D'ennui",
+        "duration": ""
+      },
+      {
+        "number": 13,
+        "title": "Bleu Clair",
+        "duration": ""
+      },
+      {
+        "number": 14,
+        "title": "Improvisation No. 3 [Part 1]",
+        "duration": ""
+      },
+      {
+        "number": 15,
+        "title": "Improvisation No. 3 [Part 2]",
+        "duration": ""
+      },
+      {
+        "number": 16,
+        "title": "I Love You",
+        "duration": ""
+      },
+      {
+        "number": 17,
+        "title": "Blues Primitif",
+        "duration": ""
+      },
+      {
+        "number": 18,
+        "title": "Night And Day",
+        "duration": ""
+      },
+      {
+        "number": 19,
+        "title": "Insensiblement",
+        "duration": ""
+      },
+      {
+        "number": 20,
+        "title": "Brasil (2nd Version)",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "artist": "Django Reinhardt",
+    "album": "Swing de Paris CD 3",
+    "slot": 26,
+    "genre": "Jazz",
+    "coverArtUrl": "https://i.discogs.com/CD0yOl1nT4oSKZRCHnWscRcCnVbNnyJWTXWXqk0w5p0/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTk4/ODM2LTE1NTcyNDY3/NTUtNjMyNC5wbmc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Duke And Dukie",
+        "duration": ""
+      },
+      {
+        "number": 2,
+        "title": "Just One Of Those Things",
+        "duration": ""
+      },
+      {
+        "number": 3,
+        "title": "Swing 48",
+        "duration": ""
+      },
+      {
+        "number": 4,
+        "title": "Impromptu",
+        "duration": ""
+      },
+      {
+        "number": 5,
+        "title": "Vamp",
+        "duration": ""
+      },
+      {
+        "number": 6,
+        "title": "Anouman",
+        "duration": ""
+      },
+      {
+        "number": 7,
+        "title": "D.R. Blues",
+        "duration": ""
+      },
+      {
+        "number": 8,
+        "title": "Deccaphonie",
+        "duration": ""
+      },
+      {
+        "number": 9,
+        "title": "Avalon",
+        "duration": ""
+      },
+      {
+        "number": 10,
+        "title": "I Can't Give You Anything But Love",
+        "duration": ""
+      },
+      {
+        "number": 11,
+        "title": "After You've Gone",
+        "duration": ""
+      },
+      {
+        "number": 12,
+        "title": "Nagasaki",
+        "duration": ""
+      },
+      {
+        "number": 13,
+        "title": "Georgia On My Mind",
+        "duration": ""
+      },
+      {
+        "number": 14,
+        "title": "Shine",
+        "duration": ""
+      },
+      {
+        "number": 15,
+        "title": "Swing Guitars",
+        "duration": ""
+      },
+      {
+        "number": 16,
+        "title": "Viper's Dream",
+        "duration": ""
+      },
+      {
+        "number": 17,
+        "title": "Minor Swing",
+        "duration": ""
+      },
+      {
+        "number": 18,
+        "title": "Ol' Man River",
+        "duration": ""
+      },
+      {
+        "number": 19,
+        "title": "Tiger Rag",
+        "duration": ""
+      },
+      {
+        "number": 20,
+        "title": "Daphné",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "artist": "Chet Baker",
+    "album": "Chet",
+    "slot": 27,
+    "genre": "Jazz",
+    "coverArtUrl": "https://i.discogs.com/zuWOqt1KqOIgSr4R0AhnZ7hXYSQHqfTYkbphxtry7wk/rs:fit/g:sm/q:90/h:333/w:342/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTAw/MDQtMTMyODIxODY5/OC5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Alone Together",
+        "duration": "6:46"
+      },
+      {
+        "number": 2,
+        "title": "How High The Moon",
+        "duration": "3:31"
+      },
+      {
+        "number": 3,
+        "title": "It Never Entered My Mind",
+        "duration": "4:36"
+      },
+      {
+        "number": 4,
+        "title": "'Tis Autumn",
+        "duration": "5:12"
+      },
+      {
+        "number": 5,
+        "title": "If You Could See Me Now",
+        "duration": "5:11"
+      },
+      {
+        "number": 6,
+        "title": "September Song",
+        "duration": "3:00"
+      },
+      {
+        "number": 7,
+        "title": "You'd Be So Nice To Come Home To",
+        "duration": "4:38"
+      },
+      {
+        "number": 8,
+        "title": "Time On My Hands (You In My Arms)",
+        "duration": "4:27"
+      },
+      {
+        "number": 9,
+        "title": "You And The Night And The Music",
+        "duration": "3:50"
+      },
+      {
+        "number": 10,
+        "title": "Early Morning Mood",
+        "duration": "9:00"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "artist": "Various Artists",
+    "album": "Standards on Impulse!",
+    "slot": 28,
+    "genre": "Jazz",
+    "coverArtUrl": "https://i.discogs.com/2KMa3d7cdrFblkwlMNxlrgRF9ZZ6X_VDhSClurUiL_c/rs:fit/g:sm/q:90/h:544/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzkz/MDktMTI2ODM4ODY1/MC5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Art Blakey Quartet - Summertime",
+        "duration": "4:40"
+      },
+      {
+        "number": 2,
+        "title": "Duke Ellington & John Coltrane - In a Sentimental Mood",
+        "duration": "4:15"
+      },
+      {
+        "number": 3,
+        "title": "J.J. Johnson & Kai Winding - Concentrate on You",
+        "duration": "4:01"
+      },
+      {
+        "number": 4,
+        "title": "Benny Carter and His Orchestra - Body & Soul",
+        "duration": "4:11"
+      },
+      {
+        "number": 5,
+        "title": "The Gil Evans Orchestra - Sister Sadie",
+        "duration": "6:57"
+      },
+      {
+        "number": 6,
+        "title": "Johnny Hartman - Unforgettable",
+        "duration": "2:36"
+      },
+      {
+        "number": 7,
+        "title": "Count Basie - Oh, Lady Be Good",
+        "duration": "4:39"
+      },
+      {
+        "number": 8,
+        "title": "Charles Mingus - Mood Indigo",
+        "duration": "4:44"
+      },
+      {
+        "number": 9,
+        "title": "Roy Haynes Quartet - Fly Me to the Moon (In Other Words)",
+        "duration": "6:39"
+      },
+      {
+        "number": 10,
+        "title": "John Coltrane Quartet - What's New",
+        "duration": "3:44"
+      },
+      {
+        "number": 11,
+        "title": "McCoy Tyner - Satin Doll",
+        "duration": "5:36"
+      },
+      {
+        "number": 12,
+        "title": "Ben Webster - Stardust",
+        "duration": "2:25"
+      },
+      {
+        "number": 13,
+        "title": "Shelly Manne - Cherokee",
+        "duration": "3:26"
+      },
+      {
+        "number": 14,
+        "title": "Clark Terry - Do Nothin' 'Till You Hear from Me",
+        "duration": "3:34"
+      },
+      {
+        "number": 15,
+        "title": "Duke Ellington & Coleman Hawkins - Solitude",
+        "duration": "5:51"
+      },
+      {
+        "number": 16,
+        "title": "Archie Shepp - The Girl from Ipanema",
+        "duration": "8:33"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "artist": "Clifford Jordan Quartet",
+    "album": "Glass Bead Games",
+    "slot": 29,
+    "genre": "Jazz",
+    "coverArtUrl": "https://i.discogs.com/aFd0vuY4zM2mn2xDyiUyeW7qQXLh2pdWMQwPswKeMZ4/rs:fit/g:sm/q:90/h:351/w:349/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDg5/NDctMTI0NTA0OTg2/My5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Powerful Paul Robeson",
+        "duration": "5:40"
+      },
+      {
+        "number": 2,
+        "title": "The Glass Bead Games",
+        "duration": "3:50"
+      },
+      {
+        "number": 3,
+        "title": "Prayer To The People",
+        "duration": "4:10"
+      },
+      {
+        "number": 4,
+        "title": "Cal Massey",
+        "duration": "2:40"
+      },
+      {
+        "number": 5,
+        "title": "John Coltrane",
+        "duration": "6:45"
+      },
+      {
+        "number": 6,
+        "title": "Eddie Harris",
+        "duration": "4:23"
+      },
+      {
+        "number": 7,
+        "title": "Biskit",
+        "duration": "5:30"
+      },
+      {
+        "number": 8,
+        "title": "Shoulders",
+        "duration": "5:18"
+      },
+      {
+        "number": 9,
+        "title": "Bridgework",
+        "duration": "4:46"
+      },
+      {
+        "number": 10,
+        "title": "Maimoun",
+        "duration": "5:37"
+      },
+      {
+        "number": 11,
+        "title": "Alias Buster Henry",
+        "duration": "8:18"
+      },
+      {
+        "number": 12,
+        "title": "One For Amos",
+        "duration": "7:48"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "artist": "Paco de Lucía",
+    "album": "Siroco",
+    "slot": 30,
+    "genre": "Brazil / Latin",
+    "coverArtUrl": "https://i.discogs.com/_4LCUIFyT5yqRCjRmgnhupnpCUdmfSauytG9y87fzug/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTY0/MDI0LTE2NDgyODg5/NDYtMTc1Ni5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "La Cañada (Tangos)",
+        "duration": "5:15"
+      },
+      {
+        "number": 2,
+        "title": "Mi Niño Curro (Rondeña)",
+        "duration": "3:29"
+      },
+      {
+        "number": 3,
+        "title": "La Barrosa (Alegrías)",
+        "duration": "4:36"
+      },
+      {
+        "number": 4,
+        "title": "Caña De Azucar (Rumba)",
+        "duration": "4:19"
+      },
+      {
+        "number": 5,
+        "title": "El Pañuelo (Bulerías)",
+        "duration": "5:28"
+      },
+      {
+        "number": 6,
+        "title": "Callejón Del Muro (Minera)",
+        "duration": "3:55"
+      },
+      {
+        "number": 7,
+        "title": "Casilda (Tanguillos)",
+        "duration": "3:46"
+      },
+      {
+        "number": 8,
+        "title": "Gloria Al Niño Ricardo (Soléa)",
+        "duration": "5:07"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "artist": "Ella Fitzgerald",
+    "album": "Ella Fitzgerald in Hamburg",
+    "slot": 31,
+    "genre": "Jazz",
+    "coverArtUrl": "https://i.discogs.com/xMvjk33sBEmZSdlFNMD3EsVscSK5O3SxQJy5Monk9ac/rs:fit/g:sm/q:90/h:498/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzkz/MzAtMTI3MzkxOTgw/Ni5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Walk Right In",
+        "duration": "3:35"
+      },
+      {
+        "number": 2,
+        "title": "That Old Black Magic",
+        "duration": "4:15"
+      },
+      {
+        "number": 3,
+        "title": "Body And Soul",
+        "duration": "4:38"
+      },
+      {
+        "number": 4,
+        "title": "Here's That Rainy Day",
+        "duration": "3:23"
+      },
+      {
+        "number": 5,
+        "title": "And The Angels Sing",
+        "duration": "3:40"
+      },
+      {
+        "number": 6,
+        "title": "A Hard Day's Night",
+        "duration": "3:03"
+      },
+      {
+        "number": 8,
+        "title": "The Boy From Ipanema",
+        "duration": "2:54"
+      },
+      {
+        "number": 9,
+        "title": "Don't Rain On My Parade",
+        "duration": "3:01"
+      },
+      {
+        "number": 10,
+        "title": "Angel Eyes",
+        "duration": "3:26"
+      },
+      {
+        "number": 11,
+        "title": "Smooth Sailing",
+        "duration": "3:49"
+      },
+      {
+        "number": 12,
+        "title": "Old McDonald Had A Farm",
+        "duration": "2:05"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "artist": "Sarah Vaughan",
+    "album": "Sarah + 2",
+    "slot": 32,
+    "genre": "Jazz",
+    "coverArtUrl": "https://i.discogs.com/dVpuEvoTzxyf1zkEn4Qaiuf4uV0YklW_6glfFC-g07o/rs:fit/g:sm/q:90/h:591/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTY5/NDgtMTM3Njg2NDky/OS04ODYwLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Just In Time",
+        "duration": "2:17"
+      },
+      {
+        "number": 2,
+        "title": "When Sunny Gets Blue",
+        "duration": "3:48"
+      },
+      {
+        "number": 3,
+        "title": "All I Do Is Dream Of You",
+        "duration": "2:54"
+      },
+      {
+        "number": 4,
+        "title": "I Understand",
+        "duration": "4:25"
+      },
+      {
+        "number": 5,
+        "title": "Goodnight Sweetheart",
+        "duration": "3:32"
+      },
+      {
+        "number": 6,
+        "title": "Baby, Won't You Please Come Home",
+        "duration": "2:34"
+      },
+      {
+        "number": 7,
+        "title": "When Lights Are Low",
+        "duration": "2:55"
+      },
+      {
+        "number": 8,
+        "title": "Key Largo",
+        "duration": "3:26"
+      },
+      {
+        "number": 9,
+        "title": "Just Squeeze Me",
+        "duration": "4:11"
+      },
+      {
+        "number": 10,
+        "title": "All Or Nothing At All",
+        "duration": "3:10"
+      },
+      {
+        "number": 11,
+        "title": "The Very Thought Of You",
+        "duration": "4:10"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "artist": "Dee Dee Bridgewater",
+    "album": "Red Earth",
+    "slot": 33,
+    "genre": "Jazz",
+    "coverArtUrl": "https://i.discogs.com/vx-ZVc1qqoEEV4FxtAhxEt5BT3MdDAxxIN5K8vT9VjY/rs:fit/g:sm/q:90/h:450/w:454/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDky/MDItMTMyNTEyMzI5/MS5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Afro Blue",
+        "duration": "5:11"
+      },
+      {
+        "number": 2,
+        "title": "Bad Spirits (Bani)",
+        "duration": "5:48"
+      },
+      {
+        "number": 3,
+        "title": "Dee Dee",
+        "duration": "2:56"
+      },
+      {
+        "number": 4,
+        "title": "Mama Don't Ever Go Away (Mama Digna Sara Yé)",
+        "duration": "5:39"
+      },
+      {
+        "number": 5,
+        "title": "Long Time Ago",
+        "duration": "6:47"
+      },
+      {
+        "number": 6,
+        "title": "Children Go 'Round (Demissènw)",
+        "duration": "6:05"
+      },
+      {
+        "number": 7,
+        "title": "The Griots (Sakhodougou)",
+        "duration": "6:03"
+      },
+      {
+        "number": 8,
+        "title": "Oh My Love (Djarabi)",
+        "duration": "6:03"
+      },
+      {
+        "number": 9,
+        "title": "Four Women",
+        "duration": "5:23"
+      },
+      {
+        "number": 10,
+        "title": "No More (Bambo)",
+        "duration": "4:45"
+      },
+      {
+        "number": 11,
+        "title": "Red Earth (Massane Cissè)",
+        "duration": "5:16"
+      },
+      {
+        "number": 12,
+        "title": "Meanwhile",
+        "duration": "4:24"
+      },
+      {
+        "number": 13,
+        "title": "Compared To What",
+        "duration": "5:22"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "artist": "Della Reese",
+    "album": "Cha-Cha-Cha",
+    "slot": 34,
+    "genre": "Jazz",
+    "coverArtUrl": "https://i.discogs.com/r0UtNv5buWSxNXC5pDtv8FnDjQvaVJH7uqRayu8UkJI/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDQ4/OTgtMTM2NTU4NTg5/NC0yNzc5LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Diamonds Are Girl's Best Friends",
+        "duration": "2:52"
+      },
+      {
+        "number": 2,
+        "title": "Come On-A My House",
+        "duration": "2:48"
+      },
+      {
+        "number": 3,
+        "title": "Why Don't You Do Right",
+        "duration": "2:45"
+      },
+      {
+        "number": 4,
+        "title": "My Heart Belongs To Daddy",
+        "duration": "2:39"
+      },
+      {
+        "number": 5,
+        "title": "Let's Do It",
+        "duration": "2:27"
+      },
+      {
+        "number": 6,
+        "title": "Whatever Lola Wants",
+        "duration": "3:12"
+      },
+      {
+        "number": 7,
+        "title": "Daddy",
+        "duration": "2:39"
+      },
+      {
+        "number": 8,
+        "title": "Tea For Two",
+        "duration": "2:09"
+      },
+      {
+        "number": 9,
+        "title": "Always True To You In My Fashion",
+        "duration": "3:14"
+      },
+      {
+        "number": 10,
+        "title": "It's So Nice To Have A Man Around The House",
+        "duration": "2:37"
+      },
+      {
+        "number": 11,
+        "title": "There's A Small Hotel",
+        "duration": "2:13"
+      },
+      {
+        "number": 12,
+        "title": "Love For Sale",
+        "duration": "2:21"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "artist": "Etta James",
+    "album": "Come a Little Closer",
+    "slot": 35,
+    "genre": "Jazz",
+    "coverArtUrl": "https://i.discogs.com/4WX6AJZQTA27Zt-kYvXaZIU-w0SigtjDX9bLGanh3Zc/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzg0/NDktMTQxNzc4MDY5/Mi00MjkxLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Out On The Street Again",
+        "duration": ""
+      },
+      {
+        "number": 2,
+        "title": "Mama Told Me",
+        "duration": ""
+      },
+      {
+        "number": 3,
+        "title": "You Give Me What I Want",
+        "duration": ""
+      },
+      {
+        "number": 4,
+        "title": "Come A Little Closer",
+        "duration": ""
+      },
+      {
+        "number": 5,
+        "title": "Let's Burn Down The Cornfield",
+        "duration": ""
+      },
+      {
+        "number": 6,
+        "title": "Power Play",
+        "duration": ""
+      },
+      {
+        "number": 7,
+        "title": "Feeling Uneasy",
+        "duration": ""
+      },
+      {
+        "number": 8,
+        "title": "St.Louis Blues",
+        "duration": ""
+      },
+      {
+        "number": 9,
+        "title": "Gon'na Have Some Fun Tonight",
+        "duration": ""
+      },
+      {
+        "number": 10,
+        "title": "Sooki Sooki",
+        "duration": ""
+      },
+      {
+        "number": 11,
+        "title": "Lovin' Arms",
+        "duration": ""
+      },
+      {
+        "number": 12,
+        "title": "Out On The Streets Again (Single Edit)",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "artist": "Various Artists",
+    "album": "Kennny Dope Mixes: P&P Records CD 1",
+    "slot": 36,
+    "genre": "Soul / Funk / Disco",
+    "coverArtUrl": "https://i.discogs.com/gKM2yWfYlmRwezk_GDTBaaCEvxzZ_qRt4YJs90El2Uk/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3OTM2/MS0xMTMzOTUxMDg3/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Fly Guy - Fly Guy Rap",
+        "duration": "2:39"
+      },
+      {
+        "number": 2,
+        "title": "Margo's Kool Out Crew - Death Rap",
+        "duration": "1:36"
+      },
+      {
+        "number": 3,
+        "title": "Willie Wood & Willie Wood Crew - Willie Rap",
+        "duration": "0:29"
+      },
+      {
+        "number": 4,
+        "title": "Licky - African Rock",
+        "duration": "3:31"
+      },
+      {
+        "number": 5,
+        "title": "Queen Yahna - Ain't It Time",
+        "duration": "2:55"
+      },
+      {
+        "number": 6,
+        "title": "Chain Reaction - Dance Freak",
+        "duration": "1:20"
+      },
+      {
+        "number": 7,
+        "title": "Foster Jackson Group - Feel The Spirit",
+        "duration": "1:57"
+      },
+      {
+        "number": 8,
+        "title": "Foster Jackson Group - Feel The Spirit (Kenny Dope Scratch Breakdown)",
+        "duration": "2:02"
+      },
+      {
+        "number": 9,
+        "title": "Paper Doll - Get Down Boy",
+        "duration": "3:27"
+      },
+      {
+        "number": 10,
+        "title": "High Fidelity - Magic Carpet",
+        "duration": "3:40"
+      },
+      {
+        "number": 11,
+        "title": "Gary Davis - Gotta Get Your Love (Kenny Dope Edit)",
+        "duration": "5:16"
+      },
+      {
+        "number": 12,
+        "title": "Clyde Alexander & Sanction - Gotta Get Your Love",
+        "duration": "4:14"
+      },
+      {
+        "number": 13,
+        "title": "Ahzz - New York Is Moving",
+        "duration": "3:46"
+      },
+      {
+        "number": 14,
+        "title": "Personal Touch - It Ain't No Big Thing",
+        "duration": "3:29"
+      },
+      {
+        "number": 15,
+        "title": "LaVaba & E. Mallison - Game Of Life",
+        "duration": "0:42"
+      },
+      {
+        "number": 16,
+        "title": "Troy Rainey - Trick Tee Rap",
+        "duration": "0:07"
+      },
+      {
+        "number": 17,
+        "title": "Family - Family Rap",
+        "duration": "1:25"
+      },
+      {
+        "number": 18,
+        "title": "Cloud One - Patty Duke",
+        "duration": "0:33"
+      },
+      {
+        "number": 19,
+        "title": "Shift - Roller Rink Funk",
+        "duration": "3:10"
+      },
+      {
+        "number": 20,
+        "title": "Florence Miller - The Groove I'm In",
+        "duration": "2:41"
+      },
+      {
+        "number": 21,
+        "title": "Lanier - 25 Hours",
+        "duration": "9:14"
+      },
+      {
+        "number": 22,
+        "title": "Cloud One - Disco Juice",
+        "duration": "3:37"
+      },
+      {
+        "number": 23,
+        "title": "Jesse Gould - Out Of Work",
+        "duration": "2:29"
+      },
+      {
+        "number": 24,
+        "title": "Caress - Opportunity",
+        "duration": "3:12"
+      },
+      {
+        "number": 25,
+        "title": "Cloud One - Atmosphere Strut",
+        "duration": "4:04"
+      },
+      {
+        "number": 26,
+        "title": "Cloud One - Dust To Dust",
+        "duration": "4:17"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "artist": "Kool & The Gang",
+    "album": "Best Of Kool & The Gang",
+    "slot": 37,
+    "genre": "Soul / Funk / Disco",
+    "coverArtUrl": "https://i.discogs.com/OqB32p8RH1wp0ZGixuBi-abDq1d1ChJAH976zz9VYu8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNzU1/MDQtMTYzMjkzOTc3/NS04NDI0LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Fresh/Misled (Special Mix)",
+        "duration": "6:10"
+      },
+      {
+        "number": 2,
+        "title": "Straight Ahead",
+        "duration": "3:31"
+      },
+      {
+        "number": 3,
+        "title": "Steppin' Out",
+        "duration": "4:51"
+      },
+      {
+        "number": 4,
+        "title": "Tonight",
+        "duration": "3:53"
+      },
+      {
+        "number": 5,
+        "title": "Ladies' Night",
+        "duration": "6:38"
+      },
+      {
+        "number": 6,
+        "title": "Cherish",
+        "duration": "4:45"
+      },
+      {
+        "number": 7,
+        "title": "Good Time Tonight",
+        "duration": "4:59"
+      },
+      {
+        "number": 8,
+        "title": "Joanna",
+        "duration": "4:20"
+      },
+      {
+        "number": 9,
+        "title": "Celebration",
+        "duration": "5:00"
+      },
+      {
+        "number": 10,
+        "title": "Stand Up And Sing",
+        "duration": "4:35"
+      },
+      {
+        "number": 11,
+        "title": "September Love",
+        "duration": "4:39"
+      },
+      {
+        "number": 12,
+        "title": "Emergency (Dance Mix)",
+        "duration": "5:30"
+      },
+      {
+        "number": 13,
+        "title": "Get Down On It",
+        "duration": "4:58"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "artist": "Gotan Project / James Brown",
+    "album": "Mixed CD",
+    "slot": 38,
+    "genre": "Soul / Funk / Disco",
+    "coverArtUrl": "https://i.discogs.com/U0S62sj3FZGttuDp6LLK9TEmOhpRbvQTIz3JFgeFTvU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTYy/LTE2NDQ2MDI5MTYt/NTg0OS5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Queremos Paz",
+        "duration": ""
+      },
+      {
+        "number": 2,
+        "title": "Época",
+        "duration": ""
+      },
+      {
+        "number": 3,
+        "title": "Chunga's Revenge",
+        "duration": ""
+      },
+      {
+        "number": 4,
+        "title": "Tríptico",
+        "duration": ""
+      },
+      {
+        "number": 5,
+        "title": "Santa Maria (Del Buen Ayre)",
+        "duration": ""
+      },
+      {
+        "number": 6,
+        "title": "Una Música Brutal",
+        "duration": ""
+      },
+      {
+        "number": 7,
+        "title": "El Capitalismo Foráneo",
+        "duration": ""
+      },
+      {
+        "number": 8,
+        "title": "Last Tango in Paris",
+        "duration": ""
+      },
+      {
+        "number": 9,
+        "title": "La Del Ruso",
+        "duration": ""
+      },
+      {
+        "number": 10,
+        "title": "Vuelvo al Sur",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "artist": "Manfred Krug",
+    "album": "Das war nur ein Moment / Ein Hauch von Frühling",
+    "slot": 39,
+    "genre": "Soul / Funk / Disco",
+    "coverArtUrl": "https://i.discogs.com/YdvElRlZ5AfwAI7k6QBD_if9PmLqPBFrtJfqq386Rro/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzU4/MC0xNTAzMTczODgy/LTgwODYuanBlZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Das War Nur Ein Moment - Du sagtest leider nur „Gut Nacht“",
+        "duration": "2:38"
+      },
+      {
+        "number": 2,
+        "title": "Das War Nur Ein Moment - Frag mich, warum",
+        "duration": "3:37"
+      },
+      {
+        "number": 3,
+        "title": "Das War Nur Ein Moment - Der Tag beginnt",
+        "duration": "3:16"
+      },
+      {
+        "number": 4,
+        "title": "Das War Nur Ein Moment - Gestern war der Ball",
+        "duration": "3:03"
+      },
+      {
+        "number": 5,
+        "title": "Das War Nur Ein Moment - Unser Abend war wunderbar",
+        "duration": "2:46"
+      },
+      {
+        "number": 6,
+        "title": "Das War Nur Ein Moment - Das war nur ein Moment",
+        "duration": "4:45"
+      },
+      {
+        "number": 7,
+        "title": "Das War Nur Ein Moment - Hör auf!",
+        "duration": "3:39"
+      },
+      {
+        "number": 8,
+        "title": "Das War Nur Ein Moment - Du gehst",
+        "duration": "4:25"
+      },
+      {
+        "number": 9,
+        "title": "Das War Nur Ein Moment - Nacht, ich träume düster",
+        "duration": "5:39"
+      },
+      {
+        "number": 10,
+        "title": "Das War Nur Ein Moment - Als ich rief nach dir",
+        "duration": "4:11"
+      },
+      {
+        "number": 11,
+        "title": "Das War Nur Ein Moment - Ende der Platte (—)",
+        "duration": ""
+      },
+      {
+        "number": 12,
+        "title": "Ein Hauch Von Frühling - Wenn's draußen grün wird",
+        "duration": "2:17"
+      },
+      {
+        "number": 13,
+        "title": "Ein Hauch Von Frühling - Laß mich nicht gehn",
+        "duration": "5:19"
+      },
+      {
+        "number": 14,
+        "title": "Ein Hauch Von Frühling - Komm und spiel mit mir",
+        "duration": "4:17"
+      },
+      {
+        "number": 15,
+        "title": "Ein Hauch Von Frühling - Schau nicht hin",
+        "duration": "6:11"
+      },
+      {
+        "number": 16,
+        "title": "Ein Hauch Von Frühling - Jeder Mann, der dich sah",
+        "duration": "4:17"
+      },
+      {
+        "number": 17,
+        "title": "Ein Hauch Von Frühling - Kalt und weiß",
+        "duration": "4:33"
+      },
+      {
+        "number": 18,
+        "title": "Ein Hauch Von Frühling - Sonntag",
+        "duration": "2:45"
+      },
+      {
+        "number": 19,
+        "title": "Ein Hauch Von Frühling - Danke für den Abend",
+        "duration": "3:58"
+      },
+      {
+        "number": 20,
+        "title": "Ein Hauch Von Frühling - Baden gehn",
+        "duration": "3:40"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "artist": "Manfred Krug",
+    "album": "Greens / Du bist heute wie neu",
+    "slot": 40,
+    "genre": "Soul / Funk / Disco",
+    "coverArtUrl": "https://i.discogs.com/Fr39nsunezlP0EoVMBh2eiEYgrp-tuHzVHYzH53kUMs/rs:fit/g:sm/q:90/h:501/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDQx/MC0xMTI1NjA3NDQ2/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Greens - Que Será",
+        "duration": "3:32"
+      },
+      {
+        "number": 2,
+        "title": "Greens - The More I See You",
+        "duration": "3:47"
+      },
+      {
+        "number": 3,
+        "title": "Greens - I Can't Give You Anything But Love",
+        "duration": "4:35"
+      },
+      {
+        "number": 4,
+        "title": "Greens - Mame",
+        "duration": "3:37"
+      },
+      {
+        "number": 5,
+        "title": "Greens - Niemand Liebt Dich So Wie Ich",
+        "duration": "3:48"
+      },
+      {
+        "number": 6,
+        "title": "Greens - Alone Again (Naturally)",
+        "duration": "3:33"
+      },
+      {
+        "number": 7,
+        "title": "Greens - Parlez Moi D'Amour",
+        "duration": "3:17"
+      },
+      {
+        "number": 8,
+        "title": "Greens - Greensleeves",
+        "duration": "3:13"
+      },
+      {
+        "number": 9,
+        "title": "Greens - Machs Gut, Ich Muß Gehn (Baby, It's Cold Outside)",
+        "duration": "4:16"
+      },
+      {
+        "number": 10,
+        "title": "Greens - There's A Boat That's Leavin' Soon For New York",
+        "duration": "2:16"
+      },
+      {
+        "number": 11,
+        "title": "Greens - Alles Geht Einmal Zu Ende (When It's Sleepy Time Down South)",
+        "duration": "1:46"
+      },
+      {
+        "number": 12,
+        "title": "Du Bist Heute Wie Neu - Du Bist Heute Wie Neu",
+        "duration": "5:00"
+      },
+      {
+        "number": 13,
+        "title": "Du Bist Heute Wie Neu - Alles Vorbei",
+        "duration": "5:28"
+      },
+      {
+        "number": 14,
+        "title": "Du Bist Heute Wie Neu - Verdammt",
+        "duration": "4:02"
+      },
+      {
+        "number": 15,
+        "title": "Du Bist Heute Wie Neu - Sie",
+        "duration": "4:28"
+      },
+      {
+        "number": 16,
+        "title": "Du Bist Heute Wie Neu - Als Der Opa Von Uns Ging",
+        "duration": "4:03"
+      },
+      {
+        "number": 17,
+        "title": "Du Bist Heute Wie Neu - Damals, Weißt Du Noch",
+        "duration": "4:22"
+      },
+      {
+        "number": 18,
+        "title": "Du Bist Heute Wie Neu - Wenn Der Urlaub Kommt",
+        "duration": "4:12"
+      },
+      {
+        "number": 19,
+        "title": "Du Bist Heute Wie Neu - In Einem Regen",
+        "duration": "4:06"
+      },
+      {
+        "number": 20,
+        "title": "Du Bist Heute Wie Neu - Das Geht Mir Ans Herz",
+        "duration": "3:33"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "artist": "Marvin Gaye",
+    "album": "What's Going On (Special Edition) CD 1",
+    "slot": 41,
+    "genre": "Soul / Funk / Disco",
+    "coverArtUrl": "https://i.discogs.com/wHQo-9Q5W6BO_Ry3KwewGg4RyM4e7aKAdDqslpCPbxQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODQ3/MTktMTYwODUwMjE4/OC0zMDEwLnBuZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "What's Going On",
+        "duration": "3:53"
+      },
+      {
+        "number": 2,
+        "title": "What's Happening Brother",
+        "duration": "2:44"
+      },
+      {
+        "number": 3,
+        "title": "Flyin' High (In The Friendly Sky)",
+        "duration": "3:49"
+      },
+      {
+        "number": 4,
+        "title": "Save The Children",
+        "duration": "4:03"
+      },
+      {
+        "number": 5,
+        "title": "God Is Love",
+        "duration": "1:42"
+      },
+      {
+        "number": 6,
+        "title": "Mercy Mercy Me (The Ecology)",
+        "duration": "3:13"
+      },
+      {
+        "number": 7,
+        "title": "Right On",
+        "duration": "7:32"
+      },
+      {
+        "number": 8,
+        "title": "Wholy Holy",
+        "duration": "3:08"
+      },
+      {
+        "number": 9,
+        "title": "Inner City Blues (Make Me Wanna Holler)",
+        "duration": "5:27"
+      },
+      {
+        "number": 10,
+        "title": "What's Going On",
+        "duration": "4:08"
+      },
+      {
+        "number": 11,
+        "title": "What's Happening Brother",
+        "duration": "2:43"
+      },
+      {
+        "number": 12,
+        "title": "Flyin' High (In The Friendly Sky)",
+        "duration": "3:49"
+      },
+      {
+        "number": 13,
+        "title": "Save The Children",
+        "duration": "4:01"
+      },
+      {
+        "number": 14,
+        "title": "God Is Love",
+        "duration": "1:47"
+      },
+      {
+        "number": 15,
+        "title": "Mercy Mercy Me (The Ecology)",
+        "duration": "3:04"
+      },
+      {
+        "number": 16,
+        "title": "Right On",
+        "duration": "7:32"
+      },
+      {
+        "number": 17,
+        "title": "Wholy Holy",
+        "duration": "3:07"
+      },
+      {
+        "number": 18,
+        "title": "Inner City Blues (Make Me Wanna Holler)",
+        "duration": "5:33"
+      },
+      {
+        "number": 19,
+        "title": "What's Going On (Rhythm And Strings Mix)",
+        "duration": "3:50"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "artist": "Marvin Gaye",
+    "album": "What's Going On (Special Edition) CD 2",
+    "slot": 42,
+    "genre": "Soul / Funk / Disco",
+    "coverArtUrl": "https://i.discogs.com/wHQo-9Q5W6BO_Ry3KwewGg4RyM4e7aKAdDqslpCPbxQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODQ3/MTktMTYwODUwMjE4/OC0zMDEwLnBuZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Sixties Medley",
+        "duration": "13:23"
+      },
+      {
+        "number": 2,
+        "title": "Right On",
+        "duration": "7:33"
+      },
+      {
+        "number": 3,
+        "title": "Wholy Holy",
+        "duration": "3:32"
+      },
+      {
+        "number": 4,
+        "title": "Inner City Blues (Make Me Wanna Holler)",
+        "duration": "9:06"
+      },
+      {
+        "number": 5,
+        "title": "What's Going On",
+        "duration": "5:42"
+      },
+      {
+        "number": 6,
+        "title": "What's Happening Brother",
+        "duration": "2:55"
+      },
+      {
+        "number": 7,
+        "title": "Flyin' High (In The Friendly Sky)",
+        "duration": "3:51"
+      },
+      {
+        "number": 8,
+        "title": "Save The Children",
+        "duration": "4:22"
+      },
+      {
+        "number": 9,
+        "title": "God Is Love",
+        "duration": "1:43"
+      },
+      {
+        "number": 10,
+        "title": "Stage Dialogue",
+        "duration": "2:35"
+      },
+      {
+        "number": 11,
+        "title": "Inner City Blues (Make Me Wanna Holler)",
+        "duration": "5:12"
+      },
+      {
+        "number": 12,
+        "title": "What's Going On",
+        "duration": "4:01"
+      },
+      {
+        "number": 13,
+        "title": "What's Going On",
+        "duration": "3:54"
+      },
+      {
+        "number": 14,
+        "title": "God Is Love",
+        "duration": "2:48"
+      },
+      {
+        "number": 15,
+        "title": "Sad Tomorrows",
+        "duration": "2:22"
+      },
+      {
+        "number": 16,
+        "title": "\"Head Title\" Aka Distant Lover",
+        "duration": "4:08"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "artist": "Stevie Wonder",
+    "album": "At the Close of a Century CD 1",
+    "slot": 43,
+    "genre": "Soul / Funk / Disco",
+    "coverArtUrl": "https://i.discogs.com/WKd3P8hRnH3zhxGu_YAyPgnPBFuhFCSx6VEAoUHQYSo/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODMw/Ni0xNjg3NzU1MDYx/LTYyMTUuanBlZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Fingertips Pts. 1 & 2",
+        "duration": "6:58"
+      },
+      {
+        "number": 2,
+        "title": "Uptight (Everything's Alright)",
+        "duration": "2:56"
+      },
+      {
+        "number": 3,
+        "title": "Nothing's Too Good For My Baby",
+        "duration": "2:46"
+      },
+      {
+        "number": 4,
+        "title": "Blowin' In The Wind",
+        "duration": "3:08"
+      },
+      {
+        "number": 5,
+        "title": "A Place In The Sun",
+        "duration": "2:53"
+      },
+      {
+        "number": 6,
+        "title": "Hey Love",
+        "duration": "2:47"
+      },
+      {
+        "number": 7,
+        "title": "I Was Made To Love Her",
+        "duration": "2:40"
+      },
+      {
+        "number": 8,
+        "title": "Until You Come Back To Me (That's What I'm Gonna Do)",
+        "duration": "3:03"
+      },
+      {
+        "number": 9,
+        "title": "I'm Wondering",
+        "duration": "2:58"
+      },
+      {
+        "number": 10,
+        "title": "Shoo-Be-Doo-Be-Doo-Da-Day",
+        "duration": "2:49"
+      },
+      {
+        "number": 11,
+        "title": "You Met Your Match",
+        "duration": "2:41"
+      },
+      {
+        "number": 12,
+        "title": "For Once In My Life",
+        "duration": "2:51"
+      },
+      {
+        "number": 13,
+        "title": "I Don't Know Why",
+        "duration": "2:51"
+      },
+      {
+        "number": 14,
+        "title": "My Cherie Amour",
+        "duration": "2:55"
+      },
+      {
+        "number": 15,
+        "title": "Yester-Me, Yester-You, Yesterday",
+        "duration": "3:05"
+      },
+      {
+        "number": 16,
+        "title": "Never Had A Dream Come True",
+        "duration": "3:14"
+      },
+      {
+        "number": 17,
+        "title": "Signed, Sealed, Delivered I'm Yours",
+        "duration": "2:40"
+      },
+      {
+        "number": 18,
+        "title": "Heaven Help Us All",
+        "duration": "3:14"
+      },
+      {
+        "number": 19,
+        "title": "We Can Work It Out",
+        "duration": "3:18"
+      },
+      {
+        "number": 20,
+        "title": "If You Really Love Me",
+        "duration": "3:00"
+      },
+      {
+        "number": 21,
+        "title": "Never Dreamed You'd Leave In Summer",
+        "duration": "2:56"
+      },
+      {
+        "number": 22,
+        "title": "Superwoman (Where Were You When I Needed You)",
+        "duration": "8:08"
+      },
+      {
+        "number": 23,
+        "title": "I Love Every Little Thing About You",
+        "duration": "3:56"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "artist": "Stevie Wonder",
+    "album": "At the Close of a Century CD 2",
+    "slot": 44,
+    "genre": "Soul / Funk / Disco",
+    "coverArtUrl": "https://i.discogs.com/WKd3P8hRnH3zhxGu_YAyPgnPBFuhFCSx6VEAoUHQYSo/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODMw/Ni0xNjg3NzU1MDYx/LTYyMTUuanBlZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Superstition",
+        "duration": "4:28"
+      },
+      {
+        "number": 2,
+        "title": "You Are The Sunshine Of My Life",
+        "duration": "2:59"
+      },
+      {
+        "number": 3,
+        "title": "You And I",
+        "duration": "4:39"
+      },
+      {
+        "number": 4,
+        "title": "I Believe (When I Fall In Love It Will Be Forever)",
+        "duration": "4:52"
+      },
+      {
+        "number": 5,
+        "title": "Too High",
+        "duration": "4:36"
+      },
+      {
+        "number": 6,
+        "title": "Visions",
+        "duration": "5:23"
+      },
+      {
+        "number": 7,
+        "title": "Living For The City",
+        "duration": "7:23"
+      },
+      {
+        "number": 8,
+        "title": "Golden Lady",
+        "duration": "4:59"
+      },
+      {
+        "number": 9,
+        "title": "Higher Ground",
+        "duration": "3:42"
+      },
+      {
+        "number": 10,
+        "title": "All In Love Is Fair",
+        "duration": "3:42"
+      },
+      {
+        "number": 11,
+        "title": "Don't You Worry 'Bout A Thing",
+        "duration": "4:45"
+      },
+      {
+        "number": 12,
+        "title": "He's Misstra Know It All",
+        "duration": "5:36"
+      },
+      {
+        "number": 13,
+        "title": "You Haven't Done Nothin'",
+        "duration": "3:25"
+      },
+      {
+        "number": 14,
+        "title": "Heaven Is 10 Zillion Light Years Away",
+        "duration": "5:02"
+      },
+      {
+        "number": 15,
+        "title": "Too Shy To Say",
+        "duration": "3:29"
+      },
+      {
+        "number": 16,
+        "title": "Boogie On Reggae Woman",
+        "duration": "5:14"
+      },
+      {
+        "number": 17,
+        "title": "Creepin'",
+        "duration": "4:20"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "artist": "The Police",
+    "album": "The Police Disc 1",
+    "slot": 45,
+    "genre": "Pop",
+    "coverArtUrl": "https://i.discogs.com/khNT5gmicMfKcsU_kni2rRNsGsQwnd2WfdeMAMPQIhc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTQ4/MjY0LTE3Njc5ODQ5/MjktNDIwNS5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Fall Out",
+        "duration": "2:04"
+      },
+      {
+        "number": 2,
+        "title": "Can't Stand Losing You",
+        "duration": "2:58"
+      },
+      {
+        "number": 3,
+        "title": "Next To You",
+        "duration": "2:52"
+      },
+      {
+        "number": 4,
+        "title": "Roxanne",
+        "duration": "3:11"
+      },
+      {
+        "number": 5,
+        "title": "Truth Hits Everybody",
+        "duration": "2:56"
+      },
+      {
+        "number": 6,
+        "title": "Hole In My Life",
+        "duration": "4:49"
+      },
+      {
+        "number": 7,
+        "title": "So Lonely",
+        "duration": "4:49"
+      },
+      {
+        "number": 8,
+        "title": "Message In A Bottle",
+        "duration": "4:49"
+      },
+      {
+        "number": 9,
+        "title": "Reggatta De Blanc",
+        "duration": "3:05"
+      },
+      {
+        "number": 10,
+        "title": "Bring On The Night",
+        "duration": "4:15"
+      },
+      {
+        "number": 11,
+        "title": "Walking On The Moon",
+        "duration": "5:01"
+      },
+      {
+        "number": 12,
+        "title": "The Bed's Too Big Without You",
+        "duration": "4:25"
+      },
+      {
+        "number": 13,
+        "title": "Don't Stand So Close To Me",
+        "duration": "4:02"
+      },
+      {
+        "number": 14,
+        "title": "Driven To Tears",
+        "duration": "3:22"
+      },
+      {
+        "number": 15,
+        "title": "Canary In A Coalmine",
+        "duration": "2:28"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "artist": "The Police",
+    "album": "The Police Disc 2",
+    "slot": 46,
+    "genre": "Pop",
+    "coverArtUrl": "https://i.discogs.com/khNT5gmicMfKcsU_kni2rRNsGsQwnd2WfdeMAMPQIhc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTQ4/MjY0LTE3Njc5ODQ5/MjktNDIwNS5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "De Do Do Do, De Da Da Da",
+        "duration": "4:09"
+      },
+      {
+        "number": 2,
+        "title": "Voices Inside My Head",
+        "duration": "3:50"
+      },
+      {
+        "number": 3,
+        "title": "Invisible Sun",
+        "duration": "3:45"
+      },
+      {
+        "number": 4,
+        "title": "Every Little Thing She Does Is Magic",
+        "duration": "4:21"
+      },
+      {
+        "number": 5,
+        "title": "Spirits In The Material World",
+        "duration": "2:59"
+      },
+      {
+        "number": 6,
+        "title": "Demolition Man",
+        "duration": "5:56"
+      },
+      {
+        "number": 7,
+        "title": "Rehumanize Yourself",
+        "duration": "3:11"
+      },
+      {
+        "number": 8,
+        "title": "Every Breath You Take",
+        "duration": "4:16"
+      },
+      {
+        "number": 9,
+        "title": "Synchronicity I",
+        "duration": "3:25"
+      },
+      {
+        "number": 10,
+        "title": "Wrapped Around Your Finger",
+        "duration": "5:16"
+      },
+      {
+        "number": 11,
+        "title": "Walking In Your Footsteps",
+        "duration": "3:37"
+      },
+      {
+        "number": 12,
+        "title": "Synchronicity II",
+        "duration": "5:02"
+      },
+      {
+        "number": 13,
+        "title": "King Of Pain",
+        "duration": "5:00"
+      },
+      {
+        "number": 14,
+        "title": "Murder By Numbers",
+        "duration": "4:37"
+      },
+      {
+        "number": 15,
+        "title": "Tea In The Sahara",
+        "duration": "4:13"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "artist": "Cream",
+    "album": "The Very Best of Cream",
+    "slot": 47,
+    "genre": "Indie / Psych / Rock",
+    "coverArtUrl": "https://i.discogs.com/ETDsnD53O8RyR0vZPKvy5fQOx4XbDraQOlrIDt_JNlw/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4Njk5/MTktMTU2NzUxMDUz/Ni05Mzg0LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Badge",
+        "duration": "2:44"
+      },
+      {
+        "number": 2,
+        "title": "Sunshine Of Your Love",
+        "duration": "4:10"
+      },
+      {
+        "number": 3,
+        "title": "Crossroads",
+        "duration": "4:13"
+      },
+      {
+        "number": 4,
+        "title": "White Room",
+        "duration": "4:58"
+      },
+      {
+        "number": 5,
+        "title": "Born Under A Bad Sign",
+        "duration": "3:09"
+      },
+      {
+        "number": 6,
+        "title": "Swlabr",
+        "duration": "2:31"
+      },
+      {
+        "number": 7,
+        "title": "Strange Brew",
+        "duration": "2:45"
+      },
+      {
+        "number": 8,
+        "title": "Anyone For Tennis? (The Savage Seven Theme)",
+        "duration": "2:37"
+      },
+      {
+        "number": 9,
+        "title": "I Feel Free",
+        "duration": "2:51"
+      },
+      {
+        "number": 10,
+        "title": "Politician",
+        "duration": "4:11"
+      },
+      {
+        "number": 11,
+        "title": "Tales Of Brave Ulysees",
+        "duration": "2:46"
+      },
+      {
+        "number": 12,
+        "title": "Spoonful",
+        "duration": "6:29"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "artist": "Jimi Hendrix",
+    "album": "Crash Landing",
+    "slot": 48,
+    "genre": "Indie / Psych / Rock",
+    "coverArtUrl": "https://i.discogs.com/yD7Xsv8VBgZL30D6c5_rlb_xtm5ab0RL7y5GfVQIHZU/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE3/NzEtMTU2MzQ0NDc5/MS03NDU4LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Message To Love",
+        "duration": "3:14"
+      },
+      {
+        "number": 2,
+        "title": "Somewhere Over The Rainbow",
+        "duration": "3:31"
+      },
+      {
+        "number": 3,
+        "title": "Crash Landing",
+        "duration": "4:16"
+      },
+      {
+        "number": 4,
+        "title": "Come Down Hard On Me",
+        "duration": "3:17"
+      },
+      {
+        "number": 5,
+        "title": "Peace In Mississippi",
+        "duration": "4:21"
+      },
+      {
+        "number": 6,
+        "title": "With The Power",
+        "duration": "3:57"
+      },
+      {
+        "number": 7,
+        "title": "Stone Free Again",
+        "duration": "3:25"
+      },
+      {
+        "number": 8,
+        "title": "Captain Coconut",
+        "duration": "4:05"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "artist": "Elvis Presley",
+    "album": "Elvis 2nd To None",
+    "slot": 49,
+    "genre": "Indie / Psych / Rock",
+    "coverArtUrl": "https://i.discogs.com/0MXsbrEoIFakOmjNkXskSR2swQHX2rYMlmC8_upIZGY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDAw/ODItMTIzMzkyNDI4/MS5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "That's All Right",
+        "duration": "1:57"
+      },
+      {
+        "number": 2,
+        "title": "I Forgot To Remember To Forget",
+        "duration": "2:29"
+      },
+      {
+        "number": 3,
+        "title": "Blue Suede Shoes",
+        "duration": "2:00"
+      },
+      {
+        "number": 4,
+        "title": "I Want You, I Need You, I Love You",
+        "duration": "2:40"
+      },
+      {
+        "number": 5,
+        "title": "Love Me",
+        "duration": "2:44"
+      },
+      {
+        "number": 6,
+        "title": "Mean Woman Blues",
+        "duration": "2:16"
+      },
+      {
+        "number": 7,
+        "title": "Loving You",
+        "duration": "2:16"
+      },
+      {
+        "number": 8,
+        "title": "Treat Me Nice",
+        "duration": "2:12"
+      },
+      {
+        "number": 9,
+        "title": "Wear My Ring Around Your Neck",
+        "duration": "2:15"
+      },
+      {
+        "number": 10,
+        "title": "King Creole",
+        "duration": "2:09"
+      },
+      {
+        "number": 11,
+        "title": "Trouble",
+        "duration": "2:18"
+      },
+      {
+        "number": 12,
+        "title": "I Got Stung",
+        "duration": "1:51"
+      },
+      {
+        "number": 13,
+        "title": "I Need Your Love Tonight",
+        "duration": "2:06"
+      },
+      {
+        "number": 14,
+        "title": "A Mess Of Blues",
+        "duration": "2:41"
+      },
+      {
+        "number": 15,
+        "title": "I Feel So Bad",
+        "duration": "2:55"
+      },
+      {
+        "number": 16,
+        "title": "Little Sister",
+        "duration": "2:32"
+      },
+      {
+        "number": 17,
+        "title": "Rock-A-Hula Baby",
+        "duration": "2:00"
+      },
+      {
+        "number": 18,
+        "title": "Bossa Nova Baby",
+        "duration": "2:07"
+      },
+      {
+        "number": 19,
+        "title": "Viva Las Vegas",
+        "duration": "2:25"
+      },
+      {
+        "number": 20,
+        "title": "If I Can Dream",
+        "duration": "3:10"
+      },
+      {
+        "number": 21,
+        "title": "Memories",
+        "duration": "3:07"
+      },
+      {
+        "number": 22,
+        "title": "Don't Cry Daddy",
+        "duration": "2:47"
+      },
+      {
+        "number": 23,
+        "title": "Kentucky Rain",
+        "duration": "3:19"
+      },
+      {
+        "number": 24,
+        "title": "You Don't Have To Say You Love Me",
+        "duration": "2:31"
+      },
+      {
+        "number": 25,
+        "title": "An American Trilogy",
+        "duration": "4:39"
+      },
+      {
+        "number": 26,
+        "title": "Always On My Mind",
+        "duration": "3:38"
+      },
+      {
+        "number": 27,
+        "title": "Promised Land",
+        "duration": "2:58"
+      },
+      {
+        "number": 28,
+        "title": "Moody Blue",
+        "duration": "2:49"
+      },
+      {
+        "number": 29,
+        "title": "I'm A Roustabout (Previously Unreleased)",
+        "duration": "2:11"
+      },
+      {
+        "number": 30,
+        "title": "Rubberneckin' (Paul Oakenfold Remix - Radio Edit)",
+        "duration": "3:31"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "artist": "Nirvana",
+    "album": "MTV Unplugged in New York",
+    "slot": 50,
+    "genre": "Indie / Psych / Rock",
+    "coverArtUrl": "https://i.discogs.com/IhvZBnGgGA2vPBN_bVUE37FVtoe74QgnRm0Sn4Gj0_A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI4/MzA2LTE2MTExMzE0/NTQtNzY4MS5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "About A Girl",
+        "duration": "3:38"
+      },
+      {
+        "number": 2,
+        "title": "Come As You Are",
+        "duration": "4:14"
+      },
+      {
+        "number": 3,
+        "title": "Jesus Doesn't Want Me For A Sunbeam",
+        "duration": "4:37"
+      },
+      {
+        "number": 4,
+        "title": "The Man Who Sold The World",
+        "duration": "4:21"
+      },
+      {
+        "number": 5,
+        "title": "Pennyroyal Tea",
+        "duration": "3:41"
+      },
+      {
+        "number": 6,
+        "title": "Dumb",
+        "duration": "2:53"
+      },
+      {
+        "number": 7,
+        "title": "Polly",
+        "duration": "3:16"
+      },
+      {
+        "number": 8,
+        "title": "On A Plain",
+        "duration": "3:45"
+      },
+      {
+        "number": 9,
+        "title": "Something In The Way",
+        "duration": "4:01"
+      },
+      {
+        "number": 10,
+        "title": "Plateau",
+        "duration": "3:39"
+      },
+      {
+        "number": 11,
+        "title": "Oh Me",
+        "duration": "3:26"
+      },
+      {
+        "number": 12,
+        "title": "Lake Of Fire",
+        "duration": "2:56"
+      },
+      {
+        "number": 13,
+        "title": "All Apologies",
+        "duration": "4:23"
+      },
+      {
+        "number": 14,
+        "title": "Where Did You Sleep Last Night",
+        "duration": "5:06"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "artist": "Hole",
+    "album": "Live Through This",
+    "slot": 51,
+    "genre": "Indie / Psych / Rock",
+    "coverArtUrl": "https://i.discogs.com/EaC_jDnMcGCQWJD82kP-W8Lvi_NQtrDedi0kNbg4oGI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzcz/My0xMjkxMTU4NzI2/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Violet",
+        "duration": "3:24"
+      },
+      {
+        "number": 2,
+        "title": "Miss World",
+        "duration": "2:58"
+      },
+      {
+        "number": 3,
+        "title": "Plump",
+        "duration": "2:34"
+      },
+      {
+        "number": 4,
+        "title": "Asking For It",
+        "duration": "3:29"
+      },
+      {
+        "number": 5,
+        "title": "Jennifers Body",
+        "duration": "3:40"
+      },
+      {
+        "number": 6,
+        "title": "Doll Parts",
+        "duration": "3:31"
+      },
+      {
+        "number": 7,
+        "title": "Credit In The Straight World",
+        "duration": "3:10"
+      },
+      {
+        "number": 8,
+        "title": "Softer, Softest",
+        "duration": "3:28"
+      },
+      {
+        "number": 9,
+        "title": "She Walks On Me",
+        "duration": "3:24"
+      },
+      {
+        "number": 10,
+        "title": "I Think That I Would Die",
+        "duration": "3:36"
+      },
+      {
+        "number": 11,
+        "title": "Gutless",
+        "duration": "2:15"
+      },
+      {
+        "number": 12,
+        "title": "Rock Star",
+        "duration": "2:42"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "artist": "The Wedding Present",
+    "album": "Seamonsters",
+    "slot": 52,
+    "genre": "Indie / Psych / Rock",
+    "coverArtUrl": "https://i.discogs.com/DsxpQpShifFw5gN7gT8FNUytjHUAKhY14-cjQBVf7Bg/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzE5/Ni0xMjQxMzc4MjAw/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Dalliance",
+        "duration": "4:24"
+      },
+      {
+        "number": 2,
+        "title": "Dare",
+        "duration": "3:43"
+      },
+      {
+        "number": 3,
+        "title": "Suck",
+        "duration": "3:57"
+      },
+      {
+        "number": 4,
+        "title": "Blonde",
+        "duration": "5:06"
+      },
+      {
+        "number": 5,
+        "title": "Rotterdam",
+        "duration": "3:14"
+      },
+      {
+        "number": 6,
+        "title": "Lovenest",
+        "duration": "5:11"
+      },
+      {
+        "number": 7,
+        "title": "Corduroy",
+        "duration": "3:29"
+      },
+      {
+        "number": 8,
+        "title": "Carolyn",
+        "duration": "3:36"
+      },
+      {
+        "number": 9,
+        "title": "Heather",
+        "duration": "3:31"
+      },
+      {
+        "number": 10,
+        "title": "Octopussy",
+        "duration": "6:17"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "artist": "Working for a Nuclear Free City",
+    "album": "Working for a Nuclear Free City",
+    "slot": 53,
+    "genre": "Indie / Psych / Rock",
+    "coverArtUrl": "https://i.discogs.com/Gqwm13R4Xqoy-9MS1G1RpyqSDVJiPH03TwGltiQ9Wgc/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODAy/OS0xNDkyMDAwMTM4/LTM3MzEuanBlZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "The 224th Day",
+        "duration": ""
+      },
+      {
+        "number": 2,
+        "title": "Troubled Son",
+        "duration": ""
+      },
+      {
+        "number": 3,
+        "title": "Dead Fingers Talking",
+        "duration": ""
+      },
+      {
+        "number": 4,
+        "title": "Pixelated Birds",
+        "duration": ""
+      },
+      {
+        "number": 5,
+        "title": "Quiet Place",
+        "duration": ""
+      },
+      {
+        "number": 6,
+        "title": "The Tape",
+        "duration": ""
+      },
+      {
+        "number": 7,
+        "title": "England",
+        "duration": ""
+      },
+      {
+        "number": 8,
+        "title": "Over",
+        "duration": ""
+      },
+      {
+        "number": 9,
+        "title": "So",
+        "duration": ""
+      },
+      {
+        "number": 10,
+        "title": "Innocence",
+        "duration": ""
+      },
+      {
+        "number": 11,
+        "title": "Home",
+        "duration": ""
+      },
+      {
+        "number": 12,
+        "title": "Fallout",
+        "duration": ""
+      },
+      {
+        "number": 13,
+        "title": "Forever",
+        "duration": ""
+      },
+      {
+        "number": 14,
+        "title": "The Tree",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "artist": "A Mountain of One",
+    "album": "Collected Works",
+    "slot": 54,
+    "genre": "Chill / Downbeat /Trip-Hop",
+    "coverArtUrl": "https://i.discogs.com/POvLyr-al72Ct65JxUBgDXOLVKGLGi15TrB3LIwvrz8/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTYz/MDYtMTQ4MzQ0MjQx/Ni00Njk0LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Ride",
+        "duration": "6:45"
+      },
+      {
+        "number": 2,
+        "title": "Warping Of The Clock",
+        "duration": "4:43"
+      },
+      {
+        "number": 3,
+        "title": "Freefall",
+        "duration": "6:13"
+      },
+      {
+        "number": 4,
+        "title": "Can't Be Serious",
+        "duration": "4:23"
+      },
+      {
+        "number": 5,
+        "title": "Our Eyes",
+        "duration": "3:33"
+      },
+      {
+        "number": 6,
+        "title": "Innocent Line",
+        "duration": "6:05"
+      },
+      {
+        "number": 7,
+        "title": "Innocent Reprise",
+        "duration": "6:36"
+      },
+      {
+        "number": 8,
+        "title": "Your Love Over Gold",
+        "duration": "6:38"
+      },
+      {
+        "number": 9,
+        "title": "People Without Love",
+        "duration": "7:29"
+      },
+      {
+        "number": 10,
+        "title": "Arc Of Abraham",
+        "duration": "7:11"
+      },
+      {
+        "number": 11,
+        "title": "Here Goes Nothing",
+        "duration": "3:33"
+      },
+      {
+        "number": 12,
+        "title": "Brown Piano",
+        "duration": "8:17"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "artist": "Omara Portuondo",
+    "album": "Omara Portuondo",
+    "slot": 55,
+    "genre": "Brazil / Latin",
+    "coverArtUrl": "https://i.discogs.com/lD3VxbCO51ICfJVr8inMFE1lhCoesnDrGXisGyaUUIY/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODQ4/OC0xMzExNDUyODI5/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "La Sitiera",
+        "duration": ""
+      },
+      {
+        "number": 2,
+        "title": "He Perdido Contigo",
+        "duration": ""
+      },
+      {
+        "number": 3,
+        "title": "¿Dónde Estabas Tú?",
+        "duration": ""
+      },
+      {
+        "number": 4,
+        "title": "Mariposita De Primavera",
+        "duration": ""
+      },
+      {
+        "number": 5,
+        "title": "Canta Lo Sentimental",
+        "duration": ""
+      },
+      {
+        "number": 6,
+        "title": "Ella Y Yo",
+        "duration": ""
+      },
+      {
+        "number": 7,
+        "title": "No Me Vayas A Engañar",
+        "duration": ""
+      },
+      {
+        "number": 8,
+        "title": "No Me Llores Más",
+        "duration": ""
+      },
+      {
+        "number": 9,
+        "title": "Veinte Años",
+        "duration": ""
+      },
+      {
+        "number": 10,
+        "title": "El Hombre Que Yo Amé (The Man I Love)",
+        "duration": ""
+      },
+      {
+        "number": 11,
+        "title": "Siempre En Mi Corazón",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "artist": "Astrud Gilberto",
+    "album": "Look to the Rainbow",
+    "slot": 56,
+    "genre": "Brazil / Latin",
+    "coverArtUrl": "https://i.discogs.com/s16ZNQag0Kz40WjRyO1R1Re9ZFUoLGY7iXScbviigUo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjMy/MTgtMTc1NDc0MjU2/NS0xNzg4LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Berimbau",
+        "duration": "2:23"
+      },
+      {
+        "number": 2,
+        "title": "Once Upon A Summertime",
+        "duration": "3:02"
+      },
+      {
+        "number": 3,
+        "title": "Felicidade",
+        "duration": "2:44"
+      },
+      {
+        "number": 4,
+        "title": "I Will Wait For You",
+        "duration": "4:38"
+      },
+      {
+        "number": 5,
+        "title": "Frevo",
+        "duration": "2:21"
+      },
+      {
+        "number": 6,
+        "title": "Maria Quiet (Maria Moite)",
+        "duration": "1:52"
+      },
+      {
+        "number": 7,
+        "title": "Look To The Rainbow",
+        "duration": "3:26"
+      },
+      {
+        "number": 8,
+        "title": "Bim Bom",
+        "duration": "1:49"
+      },
+      {
+        "number": 9,
+        "title": "Lugar Bonita (Pretty Place)",
+        "duration": "3:16"
+      },
+      {
+        "number": 10,
+        "title": "El Preciso Aprender A Ser So (Learn To Live Alone)",
+        "duration": "3:20"
+      },
+      {
+        "number": 11,
+        "title": "She's A Carioca",
+        "duration": "2:26"
+      },
+      {
+        "number": 12,
+        "title": "A Certain Smile",
+        "duration": "1:26"
+      },
+      {
+        "number": 13,
+        "title": "A Certain Sadness",
+        "duration": "3:07"
+      },
+      {
+        "number": 14,
+        "title": "Nega Do Cabelo Duro",
+        "duration": "2:17"
+      },
+      {
+        "number": 15,
+        "title": "So Nice (Summer Samba)",
+        "duration": "2:35"
+      },
+      {
+        "number": 16,
+        "title": "Voce Ja Foi A Bahia",
+        "duration": "2:14"
+      },
+      {
+        "number": 17,
+        "title": "Portuguese Washerwoman",
+        "duration": "1:30"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "artist": "Various Artists",
+    "album": "Secret Love 2",
+    "slot": 57,
+    "genre": "Chill / Downbeat /Trip-Hop",
+    "coverArtUrl": "https://i.discogs.com/1BblYb1pi-bCRTtXAvii1099YAj-fcgN_XEgmXdogUs/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTcw/My0xNjAxMTI4NzM3/LTExOTYuanBlZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Chungking - Making Music (4 Hero Remix)",
+        "duration": "5:07"
+      },
+      {
+        "number": 2,
+        "title": "Freeform Five - Slow",
+        "duration": "4:02"
+      },
+      {
+        "number": 3,
+        "title": "Roger Robinson - Dream Keepa",
+        "duration": "3:03"
+      },
+      {
+        "number": 4,
+        "title": "Psapp - Tiger, My Friend",
+        "duration": "3:15"
+      },
+      {
+        "number": 5,
+        "title": "Brooks - Tell Somebody About Us (Akufen Raconte Sa Version De Faits)",
+        "duration": "5:34"
+      },
+      {
+        "number": 6,
+        "title": "G-Litter - Seoul '88",
+        "duration": "3:59"
+      },
+      {
+        "number": 7,
+        "title": "1Luv - The Answer",
+        "duration": "3:40"
+      },
+      {
+        "number": 8,
+        "title": "Thief - Home",
+        "duration": "4:20"
+      },
+      {
+        "number": 9,
+        "title": "Fleck Fumie - From The Morning",
+        "duration": "3:50"
+      },
+      {
+        "number": 10,
+        "title": "Tunng - Tale From Black",
+        "duration": "5:31"
+      },
+      {
+        "number": 11,
+        "title": "Fat Freddy's Drop - Del Fuego",
+        "duration": "5:24"
+      },
+      {
+        "number": 12,
+        "title": "März - The River",
+        "duration": "5:14"
+      },
+      {
+        "number": 13,
+        "title": "Daft Punk - Make Love",
+        "duration": "4:54"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "artist": "Various Artists",
+    "album": "Secret Love 4",
+    "slot": 58,
+    "genre": "Chill / Downbeat /Trip-Hop",
+    "coverArtUrl": "https://i.discogs.com/XhZilca0xQlg54sBLT4z0LpodOk7S5vcXfsBu5o7jmc/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMjg0/NzMtMTQ5Mjk1ODI5/MC02MTY0LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "The Lawries - Sailboats",
+        "duration": "3:40"
+      },
+      {
+        "number": 2,
+        "title": "Midlake - Roscoe (Beyond The Wizards Sleeve Mix)",
+        "duration": "6:51"
+      },
+      {
+        "number": 3,
+        "title": "Clara Hill - About You",
+        "duration": "4:12"
+      },
+      {
+        "number": 4,
+        "title": "Andrew Bird - Imitosis",
+        "duration": "4:00"
+      },
+      {
+        "number": 5,
+        "title": "Breaks Co-Op - Duet",
+        "duration": "4:43"
+      },
+      {
+        "number": 6,
+        "title": "Roebeck - Atlantic",
+        "duration": "5:32"
+      },
+      {
+        "number": 7,
+        "title": "A Race Of Angels - Africa Displaced",
+        "duration": "4:07"
+      },
+      {
+        "number": 8,
+        "title": "Findlay Brown - Losing The Will To Survive (Beyond The Wizards Sleeve Reanimation)",
+        "duration": "6:39"
+      },
+      {
+        "number": 9,
+        "title": "Choir Of Young Believers - Riot",
+        "duration": "4:42"
+      },
+      {
+        "number": 10,
+        "title": "Thief - Down Down",
+        "duration": "4:21"
+      },
+      {
+        "number": 11,
+        "title": "Little Dragon - Twice",
+        "duration": "3:08"
+      },
+      {
+        "number": 12,
+        "title": "Kalabrese - Hide",
+        "duration": "4:31"
+      },
+      {
+        "number": 13,
+        "title": "Nostalgia 77 - Little Steps",
+        "duration": "4:58"
+      },
+      {
+        "number": 14,
+        "title": "Jamie Woon - Wayfaring Stranger",
+        "duration": "5:17"
+      },
+      {
+        "number": 15,
+        "title": "Eva Be feat. Pegah Ferydoni - She Walks Alone (Secret Lover Remix)",
+        "duration": "3:24"
+      },
+      {
+        "number": 16,
+        "title": "Paul Weller - The Loved",
+        "duration": "3:15"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "artist": "Various Artists",
+    "album": "Secret Love 5",
+    "slot": 59,
+    "genre": "Chill / Downbeat /Trip-Hop",
+    "coverArtUrl": "https://i.discogs.com/OwWqBR0zGqSYEqiYWws1ZUXYy740GMf-YfQxc-mWR14/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA0/ODUtMTI2NDkzODI5/My5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Nikolaj Grandjean - The First Picture",
+        "duration": "2:06"
+      },
+      {
+        "number": 2,
+        "title": "Choir Of Young Believers - Things I Stole (Evil Death Machine Cover)",
+        "duration": "4:34"
+      },
+      {
+        "number": 3,
+        "title": "Brent Cash - This Sea, These Waves",
+        "duration": "4:07"
+      },
+      {
+        "number": 4,
+        "title": "Quiet Village - Broken Promises",
+        "duration": "5:46"
+      },
+      {
+        "number": 5,
+        "title": "Recloose - Deeper Waters (Eva Be's Secret Lover Remix)",
+        "duration": "3:33"
+      },
+      {
+        "number": 6,
+        "title": "Pop Levi - Love You Straight (Astral Version)",
+        "duration": "3:19"
+      },
+      {
+        "number": 7,
+        "title": "Crowdpleaser & Ly Sander - Walking Home (Lexx' 7\" Version)",
+        "duration": "3:12"
+      },
+      {
+        "number": 8,
+        "title": "Boom Clap Bachelors - Combiner",
+        "duration": "5:45"
+      },
+      {
+        "number": 9,
+        "title": "Savath & Savalas - Estrellas De Dos Caras",
+        "duration": "4:31"
+      },
+      {
+        "number": 10,
+        "title": "Lars Bartkuhn - Harmony Of The Spheres",
+        "duration": "5:51"
+      },
+      {
+        "number": 11,
+        "title": "Woolfy vs. Projections - Absynth",
+        "duration": "5:58"
+      },
+      {
+        "number": 12,
+        "title": "The Rubies feat. Feist - I Feel Electric (Tiedeye Remix)",
+        "duration": "8:43"
+      },
+      {
+        "number": 13,
+        "title": "Thief - Down, Down (Owusu Remix)",
+        "duration": "4:22"
+      },
+      {
+        "number": 14,
+        "title": "Clutchy Hopkins - Song For Wolfie",
+        "duration": "4:36"
+      },
+      {
+        "number": 15,
+        "title": "Stee Downes - Destruction Of Ourselves",
+        "duration": "5:23"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "artist": "Jazzanova",
+    "album": "Broad Casting...",
+    "slot": 60,
+    "genre": "Chill / Downbeat /Trip-Hop",
+    "coverArtUrl": "https://i.discogs.com/-sf_ZRKbpftf2IVTDP_C6KEuyBszZ2l_sjXyw9sGoe0/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODg0/MS0xMjEwMDE0NjE1/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Wahoo - Candlelight",
+        "duration": "4:14"
+      },
+      {
+        "number": 2,
+        "title": "The Slapped Eyeballers - Or At Least",
+        "duration": "3:34"
+      },
+      {
+        "number": 3,
+        "title": "Soulphiction - Intermission",
+        "duration": "0:12"
+      },
+      {
+        "number": 4,
+        "title": "Âme - Excelsior",
+        "duration": "6:21"
+      },
+      {
+        "number": 5,
+        "title": "Fat Freddys Drop - Flashback (Jazzanova's Mashed Bag Mix)",
+        "duration": "3:32"
+      },
+      {
+        "number": 6,
+        "title": "Leroy & Darnell - Skitsophrenic Pt. 2",
+        "duration": "0:36"
+      },
+      {
+        "number": 7,
+        "title": "Capitol A - In The (Re)Mix (Starship Interpretation)",
+        "duration": "4:12"
+      },
+      {
+        "number": 8,
+        "title": "Norman Weeks & The Revelations - I Just Wanna Sing For You",
+        "duration": "2:55"
+      },
+      {
+        "number": 9,
+        "title": "Eva Be - No Memory Of Time (Reggae Version)",
+        "duration": "5:38"
+      },
+      {
+        "number": 10,
+        "title": "Studio R - Clapz (Trickski Remix)",
+        "duration": "5:42"
+      },
+      {
+        "number": 11,
+        "title": "Slope - Ain't Nothing Like This Feeling (Charles Webster's 115 BPM Mix)",
+        "duration": "3:42"
+      },
+      {
+        "number": 12,
+        "title": "Jazzanova - Boom Clicky Boom Klack (Mr. Scruff's Vocal Mix)",
+        "duration": "5:00"
+      },
+      {
+        "number": 13,
+        "title": "Clara Hill Meets Atjazz - Nowhere (I Can Go) (Atjazz' Astro Black Mix)",
+        "duration": "5:16"
+      },
+      {
+        "number": 14,
+        "title": "Agora Rhythm - My Vision (Dixon Edit)",
+        "duration": "7:33"
+      },
+      {
+        "number": 15,
+        "title": "Clyde & Capitol A - Serve It Up (Starship Mix)",
+        "duration": "3:50"
+      },
+      {
+        "number": 16,
+        "title": "Pharoah Roche - Sun Of A Beach (London Mix)",
+        "duration": "6:00"
+      },
+      {
+        "number": 17,
+        "title": "Jaslopski - Beatzeps",
+        "duration": "4:56"
+      },
+      {
+        "number": 18,
+        "title": "Arken - Step Off",
+        "duration": "4:09"
+      },
+      {
+        "number": 20,
+        "title": "Nicola Kramer - So Long",
+        "duration": "4:06"
+      },
+      {
+        "number": 21,
+        "title": "Jazzanova / Outlines - Just A Lil' Lovin' (Just A Lil' Outro)",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "artist": "The Whitest Boy Alive",
+    "album": "Dreams",
+    "slot": 61,
+    "genre": "Indie / Psych / Rock",
+    "coverArtUrl": "https://i.discogs.com/5ixH87W99HlRdQMgn96Z1bFo-tX7Oa5F5vPvOO1qtVo/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDkw/ODgtMTQyMDg5NTUy/MC05NjM5LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Burning",
+        "duration": "3:11"
+      },
+      {
+        "number": 2,
+        "title": "Golden Cage",
+        "duration": "4:02"
+      },
+      {
+        "number": 3,
+        "title": "Fireworks",
+        "duration": "3:12"
+      },
+      {
+        "number": 4,
+        "title": "Done With You",
+        "duration": "5:24"
+      },
+      {
+        "number": 5,
+        "title": "Don't Give Up",
+        "duration": "5:55"
+      },
+      {
+        "number": 6,
+        "title": "Above You",
+        "duration": "3:14"
+      },
+      {
+        "number": 7,
+        "title": "Inflation",
+        "duration": "3:49"
+      },
+      {
+        "number": 8,
+        "title": "Figures",
+        "duration": "3:57"
+      },
+      {
+        "number": 9,
+        "title": "Borders",
+        "duration": "5:30"
+      },
+      {
+        "number": 10,
+        "title": "All Ears",
+        "duration": "3:19"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "artist": "Little Dragon",
+    "album": "Machine Dreams",
+    "slot": 62,
+    "genre": "Indie / Psych / Rock",
+    "coverArtUrl": "https://i.discogs.com/Fp0yqK_aj1-OX9EsyOaWWDDCzXgW4SdjwOaZLwqjqtw/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTAy/ODItMTY2ODg1ODgy/NC02MzMwLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "A New",
+        "duration": "4:02"
+      },
+      {
+        "number": 2,
+        "title": "Looking Glass",
+        "duration": "4:55"
+      },
+      {
+        "number": 3,
+        "title": "My Step",
+        "duration": "3:27"
+      },
+      {
+        "number": 4,
+        "title": "Feather",
+        "duration": "4:54"
+      },
+      {
+        "number": 5,
+        "title": "Thunder Love",
+        "duration": "3:55"
+      },
+      {
+        "number": 6,
+        "title": "Never Never",
+        "duration": "3:37"
+      },
+      {
+        "number": 7,
+        "title": "Runabout",
+        "duration": "4:23"
+      },
+      {
+        "number": 8,
+        "title": "Swimming",
+        "duration": "3:39"
+      },
+      {
+        "number": 9,
+        "title": "Blinking Pigs",
+        "duration": "3:40"
+      },
+      {
+        "number": 10,
+        "title": "Come Home",
+        "duration": "4:13"
+      },
+      {
+        "number": 11,
+        "title": "Fortune",
+        "duration": "3:12"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "artist": "Thievery Corporation",
+    "album": "The Mirror Conspiracy",
+    "slot": 63,
+    "genre": "Chill / Downbeat /Trip-Hop",
+    "coverArtUrl": "https://i.discogs.com/-Jv74cYAqqtXrkc-uyUi09phrpIB9ZfNwY9SiXqX3LA/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzct/MTQ0ODE1MjQzMC05/MzcyLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Treasures",
+        "duration": "2:22"
+      },
+      {
+        "number": 2,
+        "title": "Le Monde",
+        "duration": "3:09"
+      },
+      {
+        "number": 3,
+        "title": "Indra",
+        "duration": "5:20"
+      },
+      {
+        "number": 4,
+        "title": "Lebanese Blonde",
+        "duration": "4:46"
+      },
+      {
+        "number": 5,
+        "title": "Focus On Sight",
+        "duration": "3:45"
+      },
+      {
+        "number": 6,
+        "title": "Air Batucada",
+        "duration": "4:44"
+      },
+      {
+        "number": 7,
+        "title": "So Com Voce",
+        "duration": "2:45"
+      },
+      {
+        "number": 8,
+        "title": "Samba Tranquille",
+        "duration": "3:04"
+      },
+      {
+        "number": 9,
+        "title": "Shadows Of Ourselves",
+        "duration": "3:35"
+      },
+      {
+        "number": 10,
+        "title": "The Hong Kong Triad",
+        "duration": "2:59"
+      },
+      {
+        "number": 11,
+        "title": "Illumination",
+        "duration": "4:36"
+      },
+      {
+        "number": 12,
+        "title": "The Mirror Conspiracy",
+        "duration": "3:43"
+      },
+      {
+        "number": 13,
+        "title": "Tomorrow",
+        "duration": "3:41"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "artist": "Goldfrapp",
+    "album": "Seventh Tree",
+    "slot": 64,
+    "genre": "Chill / Downbeat /Trip-Hop",
+    "coverArtUrl": "https://i.discogs.com/FKS0FhpLHtDmp9sKuL7Ik2CAWYAehdMZwG1MvKcn0hQ/rs:fit/g:sm/q:90/h:594/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTMz/MjgtMTIwNDI0MjM0/MC5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Clowns",
+        "duration": "4:08"
+      },
+      {
+        "number": 2,
+        "title": "Little Bird",
+        "duration": "4:25"
+      },
+      {
+        "number": 3,
+        "title": "Happiness",
+        "duration": "4:17"
+      },
+      {
+        "number": 4,
+        "title": "Road To Somewhere",
+        "duration": "3:52"
+      },
+      {
+        "number": 5,
+        "title": "Eat Yourself",
+        "duration": "4:06"
+      },
+      {
+        "number": 6,
+        "title": "Some People",
+        "duration": "4:40"
+      },
+      {
+        "number": 7,
+        "title": "A&E",
+        "duration": "3:18"
+      },
+      {
+        "number": 8,
+        "title": "Cologne Cerrone Houdini",
+        "duration": "4:26"
+      },
+      {
+        "number": 9,
+        "title": "Caravan Girl",
+        "duration": "4:05"
+      },
+      {
+        "number": 10,
+        "title": "Monster Love",
+        "duration": "4:23"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "artist": "Fat Freddy's Drop",
+    "album": "Based on a True Story",
+    "slot": 65,
+    "genre": "Chill / Downbeat /Trip-Hop",
+    "coverArtUrl": "https://i.discogs.com/YWqL_LjC1jFLA18Mnta9W1oE9lrYA4IDFd1IctWK7hM/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDMz/NS0xMzQyMjA0Mjcy/LTE0OTEuanBlZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Ernie",
+        "duration": "7:17"
+      },
+      {
+        "number": 2,
+        "title": "Cay's Crays",
+        "duration": "7:07"
+      },
+      {
+        "number": 3,
+        "title": "This Room",
+        "duration": "5:00"
+      },
+      {
+        "number": 4,
+        "title": "Ray Ray",
+        "duration": "7:38"
+      },
+      {
+        "number": 5,
+        "title": "Dark Days",
+        "duration": "6:40"
+      },
+      {
+        "number": 6,
+        "title": "Flashback",
+        "duration": "6:30"
+      },
+      {
+        "number": 7,
+        "title": "Roady",
+        "duration": "7:10"
+      },
+      {
+        "number": 8,
+        "title": "Wandering Eye",
+        "duration": "9:49"
+      },
+      {
+        "number": 9,
+        "title": "Del Fuego",
+        "duration": "5:24"
+      },
+      {
+        "number": 10,
+        "title": "Hope",
+        "duration": "7:19"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "artist": "Low Motion Disco",
+    "album": "Keep It Slow",
+    "slot": 66,
+    "genre": "Chill / Downbeat /Trip-Hop",
+    "coverArtUrl": "https://i.discogs.com/Dh_-EXcxTyHtpP_3eJnl4QyUpZY727xZbik0xrIi3k4/rs:fit/g:sm/q:90/h:400/w:384/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA4/MzgtMTIwMDMwMjMy/My5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Intro",
+        "duration": "0:38"
+      },
+      {
+        "number": 2,
+        "title": "Born On The Low Side",
+        "duration": "4:31"
+      },
+      {
+        "number": 3,
+        "title": "Things Are Gonna Get Easier",
+        "duration": "6:16"
+      },
+      {
+        "number": 4,
+        "title": "Talk Low When In Space",
+        "duration": "6:13"
+      },
+      {
+        "number": 5,
+        "title": "Love Knows Low",
+        "duration": "3:46"
+      },
+      {
+        "number": 6,
+        "title": "Frantic Low Moment",
+        "duration": "5:09"
+      },
+      {
+        "number": 7,
+        "title": "Love Love Love",
+        "duration": "6:04"
+      },
+      {
+        "number": 8,
+        "title": "The Low Murderer Is Out At Night",
+        "duration": "7:00"
+      },
+      {
+        "number": 9,
+        "title": "Low Italian Déssert (Try It Out)",
+        "duration": "4:58"
+      },
+      {
+        "number": 10,
+        "title": "East Mountain Low",
+        "duration": "4:46"
+      },
+      {
+        "number": 11,
+        "title": "People Come In Slowly",
+        "duration": "8:50"
+      },
+      {
+        "number": 12,
+        "title": "At Last I Am Low",
+        "duration": "7:10"
+      },
+      {
+        "number": 13,
+        "title": "Keep It Low",
+        "duration": "2:09"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "artist": "Tosca",
+    "album": "Fuck Dub",
+    "slot": 67,
+    "genre": "Chill / Downbeat /Trip-Hop",
+    "coverArtUrl": "https://i.discogs.com/ZLpoSOCgtPrpIS6xEXU5srsAF8EvDRtVvCrEOt5qfuQ/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTAy/LTE1Nzg5NjM4NDEt/MjkxMS5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Fucked Up Intro",
+        "duration": "0:30"
+      },
+      {
+        "number": 2,
+        "title": "Fuck Dub (Shantel Mix)",
+        "duration": "6:16"
+      },
+      {
+        "number": 3,
+        "title": "Worksong (Uptight Mix)",
+        "duration": "3:24"
+      },
+      {
+        "number": 4,
+        "title": "Fuck Dub (Baby Mammoth Mix Nr. 1)",
+        "duration": "4:56"
+      },
+      {
+        "number": 5,
+        "title": "Fuck Dub (Haaksman Mix)",
+        "duration": "4:59"
+      },
+      {
+        "number": 6,
+        "title": "Fuck Dub (Fila Brazillia Mix)",
+        "duration": "3:23"
+      },
+      {
+        "number": 7,
+        "title": "Fuck Dub (Fauna Flash \"The Night Before The Morning After\" Mix)",
+        "duration": "5:42"
+      },
+      {
+        "number": 8,
+        "title": "Fuck Dub (Baby Mammoth Mix Nr. 2)",
+        "duration": "4:41"
+      },
+      {
+        "number": 9,
+        "title": "Fuck Dub (Fuck Electro Beanfield Mix)",
+        "duration": "6:57"
+      },
+      {
+        "number": 10,
+        "title": "Fucked Up Voices",
+        "duration": "0:24"
+      },
+      {
+        "number": 11,
+        "title": "Fuck Dub (Baby Mammoth Mix Nr. 3)",
+        "duration": "6:02"
+      },
+      {
+        "number": 12,
+        "title": "Worksong (Rue D'Irlande Mix)",
+        "duration": "3:28"
+      },
+      {
+        "number": 13,
+        "title": "Fuck Dub (Gambusa Mix)",
+        "duration": "2:16"
+      },
+      {
+        "number": 14,
+        "title": "Fuck Dub (Pulsinger / Tunakan Mix)",
+        "duration": "4:40"
+      },
+      {
+        "number": 15,
+        "title": "Fuck Dub (Auinger Mix)",
+        "duration": "4:15"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "artist": "Various Artists",
+    "album": "G-Stone Master Series №1 Peter Kruder Private Collection",
+    "slot": 68,
+    "genre": "Chill / Downbeat /Trip-Hop",
+    "coverArtUrl": "https://i.discogs.com/y9SE7vK1dfdCnN73Nk0qL4NhJ9YAp349h7Q3n59sf1M/rs:fit/g:sm/q:90/h:592/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjQy/MzgtMTMxMjIyNTQ0/OS5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Talk Talk - The Rainbow",
+        "duration": "7:59"
+      },
+      {
+        "number": 2,
+        "title": "Tortoise - On the Chin",
+        "duration": "5:06"
+      },
+      {
+        "number": 3,
+        "title": "The Observatory - Waste Your Life",
+        "duration": "0:44"
+      },
+      {
+        "number": 4,
+        "title": "Milt Jackson with the Ray Brown Big Band - Enchanted Lady",
+        "duration": "5:05"
+      },
+      {
+        "number": 5,
+        "title": "Pierre Moerlen's Gong - Adrien",
+        "duration": "3:31"
+      },
+      {
+        "number": 6,
+        "title": "Charles Webster - Sweet Butterfly",
+        "duration": "5:23"
+      },
+      {
+        "number": 7,
+        "title": "Tom Waits - Clap Hands",
+        "duration": "3:43"
+      },
+      {
+        "number": 8,
+        "title": "Jan Hammer - Darkness / Earth in Search of a Sun",
+        "duration": "4:26"
+      },
+      {
+        "number": 9,
+        "title": "Peace Orchestra - Consequences (Private Edit)",
+        "duration": "6:08"
+      },
+      {
+        "number": 10,
+        "title": "Kruder & Dorfmeister - Sleazy Rider",
+        "duration": "6:15"
+      },
+      {
+        "number": 11,
+        "title": "Stargard - Three Girls",
+        "duration": "3:59"
+      },
+      {
+        "number": 12,
+        "title": "Craig Armstrong - In My Own Words",
+        "duration": "2:33"
+      },
+      {
+        "number": 13,
+        "title": "Japan - Ghosts",
+        "duration": "4:21"
+      },
+      {
+        "number": 14,
+        "title": "Bernard Herrmann - The Days Do Not End",
+        "duration": "4:00"
+      },
+      {
+        "number": 15,
+        "title": "Jon Brion - Here We Go",
+        "duration": "4:40"
+      },
+      {
+        "number": 16,
+        "title": "Château Flight - Superflight",
+        "duration": "6:18"
+      },
+      {
+        "number": 17,
+        "title": "Rokia Traoré - Mariama",
+        "duration": "5:35"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "artist": "Various Artists",
+    "album": "Protected Massive Samples",
+    "slot": 69,
+    "genre": "Mixed Compilation",
+    "coverArtUrl": "https://i.discogs.com/WauSsT85ug8q_edWzw4zgefgP074nr1teObOGECx9jk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTcz/MDctMTM4MjIzOTYz/NC02MDM2LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Wally Badarou - Mambo",
+        "duration": ""
+      },
+      {
+        "number": 2,
+        "title": "Lowrell - Mellow Mellow",
+        "duration": ""
+      },
+      {
+        "number": 3,
+        "title": "William DeVaughn - Be Thankful For What You've Got",
+        "duration": ""
+      },
+      {
+        "number": 4,
+        "title": "Al Green - I'm Glad You're Mine",
+        "duration": ""
+      },
+      {
+        "number": 5,
+        "title": "James Brown - Never Can Say Goodbye",
+        "duration": ""
+      },
+      {
+        "number": 6,
+        "title": "Isaac Hayes - Ike's Mood",
+        "duration": ""
+      },
+      {
+        "number": 7,
+        "title": "Billy Cobham - Stratus",
+        "duration": ""
+      },
+      {
+        "number": 8,
+        "title": "Lewin Bones Lock - Five Man Army Dub",
+        "duration": ""
+      },
+      {
+        "number": 9,
+        "title": "John Holt - Man Next Door",
+        "duration": ""
+      },
+      {
+        "number": 10,
+        "title": "The Blackbyrds - Rock Creek Park",
+        "duration": ""
+      },
+      {
+        "number": 11,
+        "title": "Pieces Of A Dream - It's Time For Love",
+        "duration": ""
+      },
+      {
+        "number": 12,
+        "title": "Rufus & Chaka Khan - Any Love",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "artist": "Massive Attack x Mad Professor",
+    "album": "No Protection",
+    "slot": 70,
+    "genre": "Chill / Downbeat /Trip-Hop",
+    "coverArtUrl": "https://i.discogs.com/M-fcGMceOqD_XlNz8dkeshX-puWUe-u5P317kbZQeMQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDE1/MzktMTQ3Mzc1ODc1/MC00NjAyLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Radiation Ruling The Nation (Protection)",
+        "duration": "8:35"
+      },
+      {
+        "number": 2,
+        "title": "Bumper Ball Dub (Karmacoma)",
+        "duration": "5:59"
+      },
+      {
+        "number": 3,
+        "title": "Trinity Dub (Three)",
+        "duration": "4:22"
+      },
+      {
+        "number": 4,
+        "title": "Cool Monsoon (Weather Storm)",
+        "duration": "7:10"
+      },
+      {
+        "number": 5,
+        "title": "Eternal Feedback (Sly)",
+        "duration": "6:26"
+      },
+      {
+        "number": 6,
+        "title": "Moving Dub (Better Things)",
+        "duration": "5:57"
+      },
+      {
+        "number": 7,
+        "title": "I Spy (Spying Glass)",
+        "duration": "5:07"
+      },
+      {
+        "number": 8,
+        "title": "Backward Sucking (Heat Miser)",
+        "duration": "6:16"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "artist": "Air",
+    "album": "Moon Safari",
+    "slot": 71,
+    "genre": "Chill / Downbeat /Trip-Hop",
+    "coverArtUrl": "https://i.discogs.com/gD0x8gcQCEC4KgTQMZ2A-ixu2exXVxS7mLQ3vfHXnsA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDk3/ODU0LTE0OTM4OTQ2/MzEtNzkyNC5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "La Femme D'Argent",
+        "duration": "7:09"
+      },
+      {
+        "number": 2,
+        "title": "Sexy Boy",
+        "duration": "4:57"
+      },
+      {
+        "number": 3,
+        "title": "All I Need",
+        "duration": "4:27"
+      },
+      {
+        "number": 4,
+        "title": "Kelly, Watch The Stars!",
+        "duration": "3:46"
+      },
+      {
+        "number": 5,
+        "title": "Talisman",
+        "duration": "4:16"
+      },
+      {
+        "number": 6,
+        "title": "Remember",
+        "duration": "2:34"
+      },
+      {
+        "number": 7,
+        "title": "You Make It Easy",
+        "duration": "4:01"
+      },
+      {
+        "number": 8,
+        "title": "Ce Matin Là",
+        "duration": "3:38"
+      },
+      {
+        "number": 9,
+        "title": "New Star In The Sky (Chanson Pour Solal)",
+        "duration": "5:40"
+      },
+      {
+        "number": 10,
+        "title": "Le Voyage De Pénélope",
+        "duration": "3:11"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "artist": "Various Artists",
+    "album": "Discovered (A Collection Of Daft Funk Samples)",
+    "slot": 72,
+    "genre": "Mixed Compilation",
+    "coverArtUrl": "https://i.discogs.com/Xh_K68TWEZ6Nk-bAI2xZdiQS2GWkVQg0jDS7xMroIEo/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkw/MjgtMTE5MjY5Njgx/My5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Breakwater - Release The Beast",
+        "duration": "4:55"
+      },
+      {
+        "number": 2,
+        "title": "George Duke - I Love You More",
+        "duration": "3:08"
+      },
+      {
+        "number": 3,
+        "title": "Edwin Birdsong - Cola Bottle Baby",
+        "duration": "5:13"
+      },
+      {
+        "number": 4,
+        "title": "Cerrone - Supernature",
+        "duration": "8:10"
+      },
+      {
+        "number": 5,
+        "title": "Tata Vega - Get It Up For Love",
+        "duration": "2:56"
+      },
+      {
+        "number": 6,
+        "title": "Karen Young - Hot Shot",
+        "duration": "8:37"
+      },
+      {
+        "number": 7,
+        "title": "Chaka Khan - Fate",
+        "duration": "5:32"
+      },
+      {
+        "number": 8,
+        "title": "Sister Sledge - Il Macquillage Lady",
+        "duration": "3:53"
+      },
+      {
+        "number": 9,
+        "title": "Oliver Cheatham - Get Down Saturday Night",
+        "duration": "5:39"
+      },
+      {
+        "number": 10,
+        "title": "Eddie Johns - I Put A Spell On You",
+        "duration": "5:07"
+      },
+      {
+        "number": 11,
+        "title": "Little Anthony & The Imperials - Can You Imagine",
+        "duration": "3:07"
+      },
+      {
+        "number": 12,
+        "title": "Jerry Goldsmith - The Rec Room",
+        "duration": "3:22"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "artist": "Various Artists",
+    "album": "Kitsuné Tabloid (Mixed by Phoenix)",
+    "slot": 73,
+    "genre": "Mixed Compilation",
+    "coverArtUrl": "https://i.discogs.com/jyvfzjpOE13HSuXKlpGEvHGNfpnok9LY3czw0ef_XIs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTg0/MDItMTIzNzcwMDcw/NS5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Kiss - Love Theme From Kiss",
+        "duration": "2:23"
+      },
+      {
+        "number": 2,
+        "title": "Dirty Projectors - Rise Above",
+        "duration": "5:00"
+      },
+      {
+        "number": 3,
+        "title": "The Red Crayola - Victory Garden",
+        "duration": "1:51"
+      },
+      {
+        "number": 4,
+        "title": "The Impressions - I've Been Trying",
+        "duration": "2:47"
+      },
+      {
+        "number": 5,
+        "title": "Chris Bell - I Am The Cosmos",
+        "duration": "3:45"
+      },
+      {
+        "number": 6,
+        "title": "Roxy Music - Pyjamarama",
+        "duration": "2:53"
+      },
+      {
+        "number": 7,
+        "title": "13th Floor Elevators - I Had To Tell You",
+        "duration": "2:27"
+      },
+      {
+        "number": 8,
+        "title": "Elvis Costello & The Attractions - Shipbuilding",
+        "duration": "4:48"
+      },
+      {
+        "number": 9,
+        "title": "D'Angelo - Send It On",
+        "duration": "5:58"
+      },
+      {
+        "number": 10,
+        "title": "Tangerine Dream - Love On A Real Train",
+        "duration": "3:56"
+      },
+      {
+        "number": 11,
+        "title": "Urge Overkill - Stull (Part 1)",
+        "duration": "5:26"
+      },
+      {
+        "number": 12,
+        "title": "Lô Borges - Aos Barões",
+        "duration": "2:32"
+      },
+      {
+        "number": 13,
+        "title": "Iggy Pop & James Williamson - Master Charge",
+        "duration": "4:31"
+      },
+      {
+        "number": 14,
+        "title": "Dennis Wilson - Lady (Falling In Love)",
+        "duration": "2:09"
+      },
+      {
+        "number": 15,
+        "title": "Irma Thomas - It's Raining",
+        "duration": "2:06"
+      },
+      {
+        "number": 16,
+        "title": "Ritchie Valens - In A Turkish Town",
+        "duration": "2:09"
+      },
+      {
+        "number": 17,
+        "title": "Dusty Springfield - I Think It's Gonna Rain Today",
+        "duration": "3:15"
+      },
+      {
+        "number": 18,
+        "title": "Lou Reed - Street Hassle",
+        "duration": "11:00"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "artist": "Various Artists",
+    "album": "Dirty Diamonds 2",
+    "slot": 74,
+    "genre": "Mixed Compilation",
+    "coverArtUrl": "https://i.discogs.com/RVmWNoUgMs5p3Iz2eKE3O-H4HLV4Pj6pQQ6klDb6P-w/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTE0/My0xMzE5NjgyODYz/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Moondog - Voices Of Spring",
+        "duration": "1:48"
+      },
+      {
+        "number": 2,
+        "title": "The Konki Duet - On Dort Mieux Quand Il Pleut",
+        "duration": "1:05"
+      },
+      {
+        "number": 3,
+        "title": "William Sheller - Lux Aeterna Introit",
+        "duration": "3:22"
+      },
+      {
+        "number": 4,
+        "title": "Sa-Ra - Glorious",
+        "duration": "4:39"
+      },
+      {
+        "number": 5,
+        "title": "Simon Dupree & The Big Sound - Kites",
+        "duration": "3:47"
+      },
+      {
+        "number": 6,
+        "title": "Nino Rota - O Venezia, Venaga, Venusia",
+        "duration": "3:40"
+      },
+      {
+        "number": 7,
+        "title": "Air - Alpha Beta Gaga (Jackson Remix)",
+        "duration": "4:18"
+      },
+      {
+        "number": 8,
+        "title": "John Foxx - Metal Beat",
+        "duration": "3:01"
+      },
+      {
+        "number": 9,
+        "title": "I Monster - These Are Our Children",
+        "duration": "4:07"
+      },
+      {
+        "number": 10,
+        "title": "Arthur Russell - See Through Love",
+        "duration": "2:08"
+      },
+      {
+        "number": 11,
+        "title": "The Pastels - Wilderness End Theme",
+        "duration": "3:35"
+      },
+      {
+        "number": 12,
+        "title": "Martin L. Gore - Compulsion",
+        "duration": "5:26"
+      },
+      {
+        "number": 13,
+        "title": "Frankie Knuckles feat. Jamie Principle - Your Love",
+        "duration": "6:43"
+      },
+      {
+        "number": 14,
+        "title": "Yello - Daily Disco",
+        "duration": "4:05"
+      },
+      {
+        "number": 15,
+        "title": "Chicken Lips - Do It Proper (Maurice Fulton Remix)",
+        "duration": "6:29"
+      },
+      {
+        "number": 16,
+        "title": "Out Hud - Hair Dude, You're Stepping On My Mystique",
+        "duration": "4:21"
+      },
+      {
+        "number": 17,
+        "title": "Money Penny Project - Le Cercle De Minuit (The Swizz Poney Remix by Octet)",
+        "duration": "7:07"
+      },
+      {
+        "number": 18,
+        "title": "Harry Nilsson - One",
+        "duration": "2:55"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "artist": "Life on Earth!",
+    "album": "Look!! There Is Life On Earth!",
+    "slot": 75,
+    "genre": "Indie / Psych / Rock",
+    "coverArtUrl": "https://i.discogs.com/jpgtrN_xA-S2qs3ilJxcy8sY5aGP2JPPMsmJvv5XSBc/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDg3/MTMtMTM2MTM1MjQw/Ni02NzI1LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Life On Earth",
+        "duration": "6:09"
+      },
+      {
+        "number": 2,
+        "title": "Sell Your Soul To Me",
+        "duration": "3:42"
+      },
+      {
+        "number": 3,
+        "title": "City By The Sea",
+        "duration": "5:13"
+      },
+      {
+        "number": 4,
+        "title": "Life Turns Fast",
+        "duration": "4:57"
+      },
+      {
+        "number": 5,
+        "title": "Endless Variety",
+        "duration": "2:34"
+      },
+      {
+        "number": 6,
+        "title": "Barefoot On Tiptoe",
+        "duration": "4:20"
+      },
+      {
+        "number": 7,
+        "title": "Bubble Of Magic",
+        "duration": "3:09"
+      },
+      {
+        "number": 8,
+        "title": "You Are There",
+        "duration": "9:22"
+      },
+      {
+        "number": 9,
+        "title": "After A Few Years We Settled Down, Got Kids And Bought Our First Car",
+        "duration": "4:21"
+      },
+      {
+        "number": 10,
+        "title": "Lost Chapter of Dreaming",
+        "duration": "1:08"
+      },
+      {
+        "number": 11,
+        "title": "Right in Between",
+        "duration": "4:26"
+      },
+      {
+        "number": 12,
+        "title": "(Untitled) (Bonus Track)",
+        "duration": "28:26"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "artist": "Quiet Village",
+    "album": "RA.104 Resident Advisor Mix",
+    "slot": 76,
+    "genre": "Chill / Downbeat /Trip-Hop",
+    "coverArtUrl": "https://i.discogs.com/n7StcXjLaC3NvoRu_0-yUyLx0zZmKD5-U7qrPnL2VyY/rs:fit/g:sm/q:90/h:400/w:312/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzI3/MTAtMTM0MjE3Njk2/Ni01NjEwLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Track 01",
+        "duration": ""
+      }
+    ],
+    "cdNotes": "01 Quiet Village – Victoria’s Secret\n02 Rhythm & Sound – Jah (Version)\n03 Jackie Mittoo – After Xmas\n04 Warp 69 – Natural High\n05 Led Zeppelin – Babe I’m Gonna Leave You\n06 Stelvio Cipriani – Main Theme From Blindman\n07 Quiet Village – Gold Rush\n08 Sérgio Mendes – Crystal Illusions\n09 Celestine Ukwu – Okwukwe Na Nchekwube\n10 US69 – On My Way"
+  },
+  {
+    "id": 77,
+    "artist": "Thomas Fehlmann",
+    "album": "Gute Luft",
+    "slot": 77,
+    "genre": "Chill / Downbeat /Trip-Hop",
+    "coverArtUrl": "https://i.discogs.com/oV7bVshth7RDSyJXft0VvtlkvtZwkhcIuE-k_vkmQNE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjA1/MDQtMTMyNjI1MDk1/MC5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Alles, Immer",
+        "duration": "6:18"
+      },
+      {
+        "number": 2,
+        "title": "Falling Into Your Eyes",
+        "duration": "4:08"
+      },
+      {
+        "number": 3,
+        "title": "Wasser Im Fluss",
+        "duration": "4:18"
+      },
+      {
+        "number": 4,
+        "title": "Schwerelos",
+        "duration": "6:18"
+      },
+      {
+        "number": 5,
+        "title": "Speeding",
+        "duration": "6:36"
+      },
+      {
+        "number": 6,
+        "title": "In The Wind II",
+        "duration": "3:35"
+      },
+      {
+        "number": 7,
+        "title": "Soft Park",
+        "duration": "3:05"
+      },
+      {
+        "number": 8,
+        "title": "Permanent Touch",
+        "duration": "3:23"
+      },
+      {
+        "number": 9,
+        "title": "Von Oben",
+        "duration": "6:25"
+      },
+      {
+        "number": 10,
+        "title": "Fluss Im Wasser",
+        "duration": "3:25"
+      },
+      {
+        "number": 11,
+        "title": "Cityscape",
+        "duration": "4:08"
+      },
+      {
+        "number": 12,
+        "title": "Berliner Luftikus",
+        "duration": "3:49"
+      },
+      {
+        "number": 13,
+        "title": "Darkspark",
+        "duration": "3:03"
+      },
+      {
+        "number": 14,
+        "title": "Im Überblick",
+        "duration": "4:53"
+      },
+      {
+        "number": 15,
+        "title": "Scheiben",
+        "duration": "5:56"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "artist": "St. Germain",
+    "album": "Tourist",
+    "slot": 78,
+    "genre": "House",
+    "coverArtUrl": "https://i.discogs.com/2fzF2TRtcJQqAvoNx9OXwLO5tjr5lU69SAuUKRFnPaE/rs:fit/g:sm/q:90/h:587/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYt/MTExNDYxNTk1OS5q/cGc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Rose Rouge",
+        "duration": "7:02"
+      },
+      {
+        "number": 2,
+        "title": "Montego Bay Spleen",
+        "duration": "5:41"
+      },
+      {
+        "number": 3,
+        "title": "So Flute",
+        "duration": "8:29"
+      },
+      {
+        "number": 4,
+        "title": "Land Of...",
+        "duration": "7:50"
+      },
+      {
+        "number": 5,
+        "title": "Latin Note",
+        "duration": "5:57"
+      },
+      {
+        "number": 6,
+        "title": "Sure Thing",
+        "duration": "6:22"
+      },
+      {
+        "number": 7,
+        "title": "Pont Des Arts",
+        "duration": "7:25"
+      },
+      {
+        "number": 8,
+        "title": "La Goutte D'Or",
+        "duration": "6:17"
+      },
+      {
+        "number": 9,
+        "title": "What You Think About...",
+        "duration": "4:48"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "artist": "Move D",
+    "album": "Kunststoff",
+    "slot": 79,
+    "genre": "House",
+    "coverArtUrl": "https://i.discogs.com/SMsOugqDgfZGHmhs9nxftzlpJ5gdfFiFxbMSzEHPOIU/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjU4/My0xMzYwOTYxODA2/LTE0NjUuanBlZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Eastman",
+        "duration": "6:34"
+      },
+      {
+        "number": 2,
+        "title": "Soap Bubbles",
+        "duration": "4:48"
+      },
+      {
+        "number": 3,
+        "title": "Sandmann",
+        "duration": "4:31"
+      },
+      {
+        "number": 4,
+        "title": "In/Out (Initial Mix)",
+        "duration": "7:36"
+      },
+      {
+        "number": 5,
+        "title": "Hood",
+        "duration": "7:38"
+      },
+      {
+        "number": 6,
+        "title": "Tribute To Mr. Fingers",
+        "duration": "3:27"
+      },
+      {
+        "number": 7,
+        "title": "77 Sunset Strip",
+        "duration": "6:30"
+      },
+      {
+        "number": 8,
+        "title": "Beyond The Machine",
+        "duration": "5:24"
+      },
+      {
+        "number": 9,
+        "title": "Nimm 2",
+        "duration": "7:46"
+      },
+      {
+        "number": 10,
+        "title": "Amazing Discoveries",
+        "duration": "8:34"
+      },
+      {
+        "number": 11,
+        "title": "Trist",
+        "duration": "5:07"
+      },
+      {
+        "number": 12,
+        "title": "Xing The Jordan / Seven",
+        "duration": "8:26"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "artist": "Roman Flügel",
+    "album": "Fatty Folders",
+    "slot": 80,
+    "genre": "House",
+    "coverArtUrl": "https://i.discogs.com/5kc-YerzaNGIoBA2wcS3_-zq1Nbd-zClwxrb7K_tJzg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjcx/MTYtMTMxNzE0MTc3/Mi5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "How To Spread Lies",
+        "duration": "6:32"
+      },
+      {
+        "number": 2,
+        "title": "Lush Life Libido",
+        "duration": "5:22"
+      },
+      {
+        "number": 3,
+        "title": "Deo",
+        "duration": "6:41"
+      },
+      {
+        "number": 4,
+        "title": "Bahia Blues Bootcamp",
+        "duration": "4:43"
+      },
+      {
+        "number": 5,
+        "title": "The Improviser",
+        "duration": "7:40"
+      },
+      {
+        "number": 6,
+        "title": "Krautus",
+        "duration": "2:21"
+      },
+      {
+        "number": 7,
+        "title": "Rude Awakening",
+        "duration": "7:17"
+      },
+      {
+        "number": 8,
+        "title": "Song With Blue",
+        "duration": "6:24"
+      },
+      {
+        "number": 9,
+        "title": "Softice",
+        "duration": "6:28"
+      },
+      {
+        "number": 10,
+        "title": "Don't Break My Heart",
+        "duration": "3:41"
+      },
+      {
+        "number": 11,
+        "title": "PianoPiano",
+        "duration": "4:03"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "artist": "DJ Sprinkles",
+    "album": "Midtown 120 Blues",
+    "slot": 81,
+    "genre": "House",
+    "coverArtUrl": "https://i.discogs.com/dSSb0A6OmwIFwXOvE7QJrHMORgBEL7ZvOqixsl2LuWA/rs:fit/g:sm/q:90/h:504/w:504/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzUy/MzgtMTIzNTg1OTY4/My5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Midtown 120 Intro",
+        "duration": "2:46"
+      },
+      {
+        "number": 2,
+        "title": "Midtown 120 Blues",
+        "duration": "8:06"
+      },
+      {
+        "number": 3,
+        "title": "Ball'r (Madonna-Free Zone)",
+        "duration": "8:18"
+      },
+      {
+        "number": 4,
+        "title": "Brenda's $20 Dilemma",
+        "duration": "7:47"
+      },
+      {
+        "number": 5,
+        "title": "House Music Is Controllable Desire You Can Own",
+        "duration": "7:09"
+      },
+      {
+        "number": 6,
+        "title": "Sisters, I Don't Know What This World Is Coming To",
+        "duration": "10:46"
+      },
+      {
+        "number": 7,
+        "title": "Reverse Rotation",
+        "duration": "7:19"
+      },
+      {
+        "number": 8,
+        "title": "Grand Central, Pt. I (Deep Into The Bowel Of House)",
+        "duration": "12:08"
+      },
+      {
+        "number": 9,
+        "title": "Grand Central, Pt. II (72 Hrs. By Rail From Missouri)",
+        "duration": "8:24"
+      },
+      {
+        "number": 10,
+        "title": "The Occasional Feel-Good",
+        "duration": "6:40"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "artist": "DJ Koze",
+    "album": "Music ist ok",
+    "slot": 82,
+    "genre": "House",
+    "coverArtUrl": "https://i.discogs.com/ixMXdk6J_gzNSbNdtwYySI_0OfPQNKw0F2HWxW0pXo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNDIw/LTExNjM4NDgzODAu/anBlZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Unknown Artist - Intro",
+        "duration": "0:27"
+      },
+      {
+        "number": 2,
+        "title": "DJ Koze präsentiert Blumfeld - Tausend Tränen Tief (Steve Bug Loverboy Remix)",
+        "duration": "5:59"
+      },
+      {
+        "number": 3,
+        "title": "Egoexpress - Telefunken (Adolf Noise Remix)",
+        "duration": "4:56"
+      },
+      {
+        "number": 4,
+        "title": "Fünf Sterne Deluxe - Happy Hip Hop",
+        "duration": "7:32"
+      },
+      {
+        "number": 5,
+        "title": "Station 17 - Lila Pause (feat. DJ Koze)",
+        "duration": "5:29"
+      },
+      {
+        "number": 6,
+        "title": "RAH Band - Clouds Across The Moon (Moonboots Kick Ass Mix)",
+        "duration": "5:35"
+      },
+      {
+        "number": 7,
+        "title": "Der Tobi & Das Bo - Is Mir Egal (Adolf Noise Meditation)",
+        "duration": "6:19"
+      },
+      {
+        "number": 8,
+        "title": "Jacques Palminger - Auf Meinem Anrufbeantworter",
+        "duration": "0:44"
+      },
+      {
+        "number": 9,
+        "title": "Die Fantastischen Vier - Le Smou (DJ Koze & Mario von Hacht Instrumental)",
+        "duration": "3:00"
+      },
+      {
+        "number": 10,
+        "title": "DJ Koze - KISS FM Zypern Funkspot",
+        "duration": "0:25"
+      },
+      {
+        "number": 11,
+        "title": "Visit Venus - The Big Tilt (DJ Koze Remix)",
+        "duration": "4:44"
+      },
+      {
+        "number": 12,
+        "title": "Die Goldenen Zitronen - Weil Wir Einverstanden Sind (Adolf Noise Remix)",
+        "duration": "5:02"
+      },
+      {
+        "number": 13,
+        "title": "Rocko Schamoni - Discoteer (DJ Koze Remix)",
+        "duration": "5:29"
+      },
+      {
+        "number": 14,
+        "title": "DJ Koze - Kosi In My Mind",
+        "duration": "1:33"
+      },
+      {
+        "number": 15,
+        "title": "Tocotronic - Jackpot (Fischmob | Erobique Remix)",
+        "duration": "12:45"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "artist": "Herbert",
+    "album": "Bodily Functions",
+    "slot": 83,
+    "genre": "House",
+    "coverArtUrl": "https://i.discogs.com/hrBzrC1MOYUmNIv1AfHNluTdvK74r8kT7t75Sz1f0w8/rs:fit/g:sm/q:90/h:536/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjkt/MTI1NzE4OTI0NC5q/cGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "You're Unknown To Me",
+        "duration": "2:13"
+      },
+      {
+        "number": 2,
+        "title": "It's Only",
+        "duration": "7:21"
+      },
+      {
+        "number": 3,
+        "title": "Foreign Bodies",
+        "duration": "5:37"
+      },
+      {
+        "number": 4,
+        "title": "Suddenly",
+        "duration": "6:29"
+      },
+      {
+        "number": 5,
+        "title": "I Know",
+        "duration": "4:24"
+      },
+      {
+        "number": 6,
+        "title": "Leave Me Now",
+        "duration": "6:36"
+      },
+      {
+        "number": 7,
+        "title": "The Last Beat",
+        "duration": "4:20"
+      },
+      {
+        "number": 8,
+        "title": "You Saw It All",
+        "duration": "7:04"
+      },
+      {
+        "number": 9,
+        "title": "On Reflection",
+        "duration": "4:29"
+      },
+      {
+        "number": 10,
+        "title": "About This Time Each Day",
+        "duration": "3:44"
+      },
+      {
+        "number": 11,
+        "title": "Addiction",
+        "duration": "6:44"
+      },
+      {
+        "number": 12,
+        "title": "I Miss You",
+        "duration": "4:52"
+      },
+      {
+        "number": 13,
+        "title": "It's Only A Reprise",
+        "duration": "1:57"
+      },
+      {
+        "number": 14,
+        "title": "The Audience",
+        "duration": "6:15"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "artist": "Solomun",
+    "album": "Dance Baby",
+    "slot": 84,
+    "genre": "House",
+    "coverArtUrl": "https://i.discogs.com/xjVNI7MzFYWfWF5v-EjziPlaTjE2RDL2MFXY0uqBdCs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjMy/NzEtMTI1NTMzNTQ3/OS5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Country Song",
+        "duration": "6:43"
+      },
+      {
+        "number": 2,
+        "title": "Boys In The Hood",
+        "duration": "5:32"
+      },
+      {
+        "number": 3,
+        "title": "Cloud Dancer",
+        "duration": "4:10"
+      },
+      {
+        "number": 4,
+        "title": "Hypnotize",
+        "duration": "6:42"
+      },
+      {
+        "number": 5,
+        "title": "After Rain Comes Sun",
+        "duration": "3:54"
+      },
+      {
+        "number": 6,
+        "title": "Midnight Snack",
+        "duration": "5:59"
+      },
+      {
+        "number": 7,
+        "title": "Blackout",
+        "duration": "6:28"
+      },
+      {
+        "number": 8,
+        "title": "Deep Circus",
+        "duration": "5:45"
+      },
+      {
+        "number": 9,
+        "title": "Deja - Vu",
+        "duration": "6:14"
+      },
+      {
+        "number": 10,
+        "title": "Forever",
+        "duration": "8:13"
+      },
+      {
+        "number": 11,
+        "title": "Story Of My Life",
+        "duration": "8:03"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "artist": "Cobblestone Jazz",
+    "album": "The Modern Deep Left Quartet",
+    "slot": 85,
+    "genre": "House",
+    "coverArtUrl": "https://i.discogs.com/dY20BslUxYTHqleaRu-LW7hZiQiamek-wt5Mxd2PeBQ/rs:fit/g:sm/q:90/h:236/w:239/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDg2/NjEtMTM1NTUwNjk3/NC02MjUwLnBuZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Chance Dub",
+        "duration": "7:42"
+      },
+      {
+        "number": 2,
+        "title": "Sun Child",
+        "duration": "7:40"
+      },
+      {
+        "number": 3,
+        "title": "Mr Polite",
+        "duration": "7:01"
+      },
+      {
+        "number": 4,
+        "title": "Cromagnon Man",
+        "duration": "5:03"
+      },
+      {
+        "number": 5,
+        "title": "Fiesta",
+        "duration": "5:52"
+      },
+      {
+        "number": 6,
+        "title": "Children",
+        "duration": "6:09"
+      },
+      {
+        "number": 7,
+        "title": "Chance",
+        "duration": "7:59"
+      },
+      {
+        "number": 8,
+        "title": "Midnight Sun",
+        "duration": "6:23"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "artist": "Hercules and Love Affair",
+    "album": "Hercules and Love Affair",
+    "slot": 86,
+    "genre": "House",
+    "coverArtUrl": "https://i.discogs.com/40G-s2WvQldzGwdT9iLIU98ppsB9P_5JYwEv6g-9ufs/rs:fit/g:sm/q:90/h:599/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODk4/NDUtMTIyNDgwNjE4/NC5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Time Will",
+        "duration": "4:34"
+      },
+      {
+        "number": 2,
+        "title": "Hercules Theme",
+        "duration": "4:30"
+      },
+      {
+        "number": 3,
+        "title": "You Belong",
+        "duration": "4:12"
+      },
+      {
+        "number": 4,
+        "title": "Athene",
+        "duration": "4:00"
+      },
+      {
+        "number": 5,
+        "title": "Blind",
+        "duration": "6:18"
+      },
+      {
+        "number": 6,
+        "title": "Iris",
+        "duration": "4:16"
+      },
+      {
+        "number": 7,
+        "title": "Easy",
+        "duration": "5:22"
+      },
+      {
+        "number": 8,
+        "title": "This Is My Love",
+        "duration": "4:58"
+      },
+      {
+        "number": 9,
+        "title": "Raise Me Up",
+        "duration": "3:52"
+      },
+      {
+        "number": 10,
+        "title": "True/False, Fake/Real",
+        "duration": "4:33"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "artist": "Various Artists",
+    "album": "The History Of The House Sound Of Chicago CD3",
+    "slot": 87,
+    "genre": "House",
+    "coverArtUrl": "https://i.discogs.com/IxlCHMO7RQNht9BupAHZoB3iTjmDUcwPYDU53rSga2I/rs:fit/g:sm/q:90/h:468/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzkx/LTE3MDE3MDM4MTkt/NDA5NC5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Chic - Jack Le Freak",
+        "duration": "8:25"
+      },
+      {
+        "number": 2,
+        "title": "Cerrone - Supernature '88",
+        "duration": "6:46"
+      },
+      {
+        "number": 3,
+        "title": "Freeez - I.O.U. (The Ultimate Club - Vocal Mix)",
+        "duration": "6:08"
+      },
+      {
+        "number": 4,
+        "title": "Criminal Element Orchestra - Put The Needle To The Record",
+        "duration": "6:39"
+      },
+      {
+        "number": 5,
+        "title": "Jellybean feat. Steven Dante - The Real Thing (West 26th Street Mix)",
+        "duration": "7:46"
+      },
+      {
+        "number": 6,
+        "title": "Kelly Charles - You're No Good For Me (Club Mix)",
+        "duration": "5:58"
+      },
+      {
+        "number": 7,
+        "title": "L.A. Mix - Don't Stop Jammin' (The Brutal Remix)",
+        "duration": "6:53"
+      },
+      {
+        "number": 8,
+        "title": "M.A.R.R.S. - Pump Up The Volume (Original Version)",
+        "duration": "5:09"
+      },
+      {
+        "number": 9,
+        "title": "Full House - Communicate (Club Mix)",
+        "duration": "6:12"
+      },
+      {
+        "number": 10,
+        "title": "The Beatmasters feat. The Cookie Crew - Rock Da House (Remix)",
+        "duration": "6:25"
+      },
+      {
+        "number": 11,
+        "title": "Various - The House Sound Of Chicago Megamix Volume II (The Classix Mix)",
+        "duration": "8:21"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "artist": "Soulphiction",
+    "album": "Do You Overstand?",
+    "slot": 88,
+    "genre": "House",
+    "coverArtUrl": "https://i.discogs.com/dh19-4IT41kS3ck5_2j0d4zb7OFc_Vzro4MtvdK72Ss/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTY0/MTctMTc0NDEzMzU5/NC0zNjY4LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Chevy Estate",
+        "duration": "3:06"
+      },
+      {
+        "number": 2,
+        "title": "Ghana Wadada",
+        "duration": "3:09"
+      },
+      {
+        "number": 3,
+        "title": "Velveteens",
+        "duration": "6:24"
+      },
+      {
+        "number": 4,
+        "title": "Touch From The Past",
+        "duration": "4:36"
+      },
+      {
+        "number": 5,
+        "title": "Cargo",
+        "duration": "3:37"
+      },
+      {
+        "number": 6,
+        "title": "Soul Print",
+        "duration": "2:31"
+      },
+      {
+        "number": 7,
+        "title": "Sun Children",
+        "duration": "5:36"
+      },
+      {
+        "number": 8,
+        "title": "Prison Song",
+        "duration": "5:11"
+      },
+      {
+        "number": 9,
+        "title": "Reclap",
+        "duration": "2:11"
+      },
+      {
+        "number": 10,
+        "title": "Darkest Berry",
+        "duration": "4:57"
+      },
+      {
+        "number": 11,
+        "title": "Reminisce All Over You",
+        "duration": "6:30"
+      },
+      {
+        "number": 12,
+        "title": "Whizzdom And Understanding",
+        "duration": "7:26"
+      },
+      {
+        "number": 13,
+        "title": "I Just Wait",
+        "duration": "3:24"
+      },
+      {
+        "number": 14,
+        "title": "So What",
+        "duration": "5:20"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "artist": "Motor City Drum Ensemble",
+    "album": "DJ-Kicks",
+    "slot": 89,
+    "genre": "House",
+    "coverArtUrl": "https://i.discogs.com/x94D1fVzRzM5jaa2W14UW5e7hAQhkRWAZR4IFgkES4c/rs:fit/g:sm/q:90/h:212/w:210/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzQ1/MTYtMTM0NzY5ODg0/Ni0yOTA2LnBuZw.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Sun Ra - Door To The Cosmos",
+        "duration": "1:27"
+      },
+      {
+        "number": 2,
+        "title": "Electric Wire Hustle - Again (Scratch 22 Remix)",
+        "duration": "1:45"
+      },
+      {
+        "number": 3,
+        "title": "Rhythm & Sound - Mango Drive",
+        "duration": "3:18"
+      },
+      {
+        "number": 4,
+        "title": "Tony Allen - Ariya",
+        "duration": "3:29"
+      },
+      {
+        "number": 5,
+        "title": "Peven Everett - Stuck (Original)",
+        "duration": "4:02"
+      },
+      {
+        "number": 6,
+        "title": "Bad Jazz Troupe - Breakdown Treat",
+        "duration": "2:57"
+      },
+      {
+        "number": 7,
+        "title": "Mr. Fingers - The Juice",
+        "duration": "2:33"
+      },
+      {
+        "number": 8,
+        "title": "Rick “Poppa” Howard - Can Your Love Find Its Way (Club Vocal)",
+        "duration": "4:00"
+      },
+      {
+        "number": 9,
+        "title": "Stone - Girl I Like The Way That You Move (Dub)",
+        "duration": "2:39"
+      },
+      {
+        "number": 10,
+        "title": "Fred P - On This Vibe",
+        "duration": "4:04"
+      },
+      {
+        "number": 11,
+        "title": "Creative Swing Alliance - Don't Forget Your Keyz",
+        "duration": "2:37"
+      },
+      {
+        "number": 12,
+        "title": "Geraldo Pino & The Heartbeats - Black Woman Experience",
+        "duration": "2:50"
+      },
+      {
+        "number": 13,
+        "title": "Philippe Sarde - Le Cortège Et Course",
+        "duration": "2:22"
+      },
+      {
+        "number": 14,
+        "title": "Robert Hood - The Pace",
+        "duration": "2:19"
+      },
+      {
+        "number": 15,
+        "title": "Loose Joints - Pop Your Funk (Vocal Version)",
+        "duration": "2:39"
+      },
+      {
+        "number": 16,
+        "title": "Arts & Crafts - I've Been Searching (Walter Gibbons 12\" Mix)",
+        "duration": "2:24"
+      },
+      {
+        "number": 17,
+        "title": "Motor City Drum Ensemble - L.O.V.E. (DJ-Kicks)",
+        "duration": "4:18"
+      },
+      {
+        "number": 18,
+        "title": "Aphex Twin - Actium",
+        "duration": "4:10"
+      },
+      {
+        "number": 19,
+        "title": "Recloose - Cardiology (Isolée Mix)",
+        "duration": "5:46"
+      },
+      {
+        "number": 20,
+        "title": "Latecomer - Cosmic Cart",
+        "duration": "3:11"
+      },
+      {
+        "number": 21,
+        "title": "Timo Lassy - African Rumble",
+        "duration": "6:30"
+      },
+      {
+        "number": 22,
+        "title": "James Mason - Sweet Power, Your Embrace",
+        "duration": "5:20"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "artist": "Tobias Thomas",
+    "album": "Please Please Please",
+    "slot": 90,
+    "genre": "Electronic",
+    "coverArtUrl": "https://i.discogs.com/gNaPIFvG6KOf7Vi-gg-Uqs1nG6L7Y6KxBC8-B6aQbmE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTk2/MjAtMTc2MzY2NTkz/My03ODUzLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Pantha Du Prince - Butterfly Girl (Pantha Lost The Beat Version)",
+        "duration": "4:15"
+      },
+      {
+        "number": 2,
+        "title": "Adolf Noise - Was Ist Zuviel Zeit? (Dub)",
+        "duration": "3:19"
+      },
+      {
+        "number": 3,
+        "title": "Pantha Du Prince - Reprise",
+        "duration": "3:13"
+      },
+      {
+        "number": 4,
+        "title": "Krause Duo - Kingpult",
+        "duration": "9:01"
+      },
+      {
+        "number": 5,
+        "title": "Johannes Heil - Aquarius",
+        "duration": "4:39"
+      },
+      {
+        "number": 6,
+        "title": "Vulva String Quartett - Wild Wild Berry",
+        "duration": "5:38"
+      },
+      {
+        "number": 7,
+        "title": "Ricardo Villalobos - The Contempt (Trip Tollsmix)",
+        "duration": "7:13"
+      },
+      {
+        "number": 8,
+        "title": "The Kooky Scientist - A Little Older, A Little Bolder",
+        "duration": "5:27"
+      },
+      {
+        "number": 9,
+        "title": "Thomas / Burger - My Favourite Dress (Theme 2006)",
+        "duration": "6:26"
+      },
+      {
+        "number": 10,
+        "title": "Reinhard Voigt - Suchtkultur",
+        "duration": "4:24"
+      },
+      {
+        "number": 11,
+        "title": "Pachulke Und Sohn - Läuft Gut",
+        "duration": "5:39"
+      },
+      {
+        "number": 12,
+        "title": "Brant feat. Mr. Roper - Last Night I Dreamt That Somebody Loved Me (Ada Mix)",
+        "duration": "5:47"
+      },
+      {
+        "number": 13,
+        "title": "International Pony - Gravity",
+        "duration": "4:31"
+      },
+      {
+        "number": 14,
+        "title": "Stella - Dreams (Thomas / Geiger Mix)",
+        "duration": "8:03"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "artist": "Supermayer",
+    "album": "Save the World",
+    "slot": 91,
+    "genre": "Electronic",
+    "coverArtUrl": "https://i.discogs.com/hzYrq2_jrL8jyQqjaQq5qj8dJICYkMP_o2nhzJWsX4o/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzMy/NTYtMTUyMDYwOTQy/NS02NjgxLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Hey!",
+        "duration": "1:03"
+      },
+      {
+        "number": 2,
+        "title": "The Art Of Letting Go",
+        "duration": "5:38"
+      },
+      {
+        "number": 3,
+        "title": "Saturndays",
+        "duration": "7:14"
+      },
+      {
+        "number": 4,
+        "title": "Superbrain Transmission",
+        "duration": "2:34"
+      },
+      {
+        "number": 5,
+        "title": "Us And Them",
+        "duration": "5:44"
+      },
+      {
+        "number": 6,
+        "title": "For Luzie",
+        "duration": "0:45"
+      },
+      {
+        "number": 7,
+        "title": "The Lonesome King",
+        "duration": "5:57"
+      },
+      {
+        "number": 8,
+        "title": "Don't Let The Sun Catch You Crying",
+        "duration": "1:08"
+      },
+      {
+        "number": 9,
+        "title": "Please Sunrise",
+        "duration": "7:55"
+      },
+      {
+        "number": 10,
+        "title": "Planet Of The Sick",
+        "duration": "6:46"
+      },
+      {
+        "number": 11,
+        "title": "Psychoprogs Attack!",
+        "duration": "1:25"
+      },
+      {
+        "number": 12,
+        "title": "Two Of Us (Extended Album Version)",
+        "duration": "9:49"
+      },
+      {
+        "number": 13,
+        "title": "Cocktails For Two",
+        "duration": "7:18"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "artist": "Michael Mayer",
+    "album": "Immer 2",
+    "slot": 92,
+    "genre": "Electronic",
+    "coverArtUrl": "https://i.discogs.com/PXApg1-cw-uXkD-w_NeXPlMx4LvdiPS7hQqsRf2ZXmY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTky/OS0xMjcwMDc2NTgx/LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Someone Else - Ploosh",
+        "duration": "5:47"
+      },
+      {
+        "number": 2,
+        "title": "Ian Simmonds - The Dog",
+        "duration": "4:29"
+      },
+      {
+        "number": 3,
+        "title": "Brooks - Tell Somebody About The Beat",
+        "duration": "3:52"
+      },
+      {
+        "number": 4,
+        "title": "Frank West - 2nd Booty",
+        "duration": "2:19"
+      },
+      {
+        "number": 5,
+        "title": "Crowdpleaser & St. Plomb - 18 Years",
+        "duration": "4:45"
+      },
+      {
+        "number": 6,
+        "title": "Justus Köhncke - Advance",
+        "duration": "6:45"
+      },
+      {
+        "number": 7,
+        "title": "Lindstrøm - Another Station (Todd Terje Remix)",
+        "duration": "6:45"
+      },
+      {
+        "number": 8,
+        "title": "The Rice Twins - For Dan",
+        "duration": "6:29"
+      },
+      {
+        "number": 9,
+        "title": "SCSI-9 - Morskaya",
+        "duration": "5:50"
+      },
+      {
+        "number": 10,
+        "title": "Jesse Somfay - Lying In A Bed Of Mist",
+        "duration": "6:43"
+      },
+      {
+        "number": 11,
+        "title": "DK7 - Where's The Fun (Sten Remix)",
+        "duration": "7:17"
+      },
+      {
+        "number": 12,
+        "title": "Geiger - Good Evening (SuperMayer Remix)",
+        "duration": "11:28"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "artist": "Michael Mayer",
+    "album": "Immer 3",
+    "slot": 93,
+    "genre": "Electronic",
+    "coverArtUrl": "https://i.discogs.com/qWvrdMtNwo-E6yakjLLN_Aq2HnQ9Qth0udHV5vurRqM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg1/MTAtMTI3NjUzMDE4/OS5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Cortney Tidwell - Don't Let Stars Keep Us Tangled Up (Ewan Pearson's All This Has Happened Before Version)",
+        "duration": "6:08"
+      },
+      {
+        "number": 2,
+        "title": "Closer Musik - Departures",
+        "duration": "7:54"
+      },
+      {
+        "number": 3,
+        "title": "Ben Watt - Guinea Pig / Vocal Variation (DJ Koze Remix)",
+        "duration": "5:51"
+      },
+      {
+        "number": 4,
+        "title": "Tim Paris - Edges Of Corrosion",
+        "duration": "6:27"
+      },
+      {
+        "number": 5,
+        "title": "Smith N Hack - Falling Stars",
+        "duration": "8:00"
+      },
+      {
+        "number": 6,
+        "title": "Raudive - Slave",
+        "duration": "6:05"
+      },
+      {
+        "number": 7,
+        "title": "Massive Attack - Paradise Circus (Gui Boratto Remix)",
+        "duration": "7:19"
+      },
+      {
+        "number": 8,
+        "title": "Popnoname - Hello Gorgeous (Terranova Remix)",
+        "duration": "5:39"
+      },
+      {
+        "number": 9,
+        "title": "Charlotte Gainsbourg - The Operation (Superpitcher Remix)",
+        "duration": "8:30"
+      },
+      {
+        "number": 10,
+        "title": "Culoe De Song - The Bright Forest",
+        "duration": "7:05"
+      },
+      {
+        "number": 11,
+        "title": "Kinky Justice - New Day",
+        "duration": "7:53"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "artist": "Goldie",
+    "album": "Timeless (CD 1)",
+    "slot": 94,
+    "genre": "Electronic",
+    "coverArtUrl": "https://i.discogs.com/bubMPbBIuUpcr63U74KmAbJBUifi8127SKelGw3_0Qo/rs:fit/g:sm/q:90/h:517/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTkt/MTQ1MDgyMTcwMS01/MjcxLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Timeless",
+        "duration": "21:01"
+      },
+      {
+        "number": 2,
+        "title": "Saint Angel",
+        "duration": "7:17"
+      },
+      {
+        "number": 3,
+        "title": "State Of Mind",
+        "duration": "7:05"
+      },
+      {
+        "number": 4,
+        "title": "This Is A Bad",
+        "duration": "6:10"
+      },
+      {
+        "number": 5,
+        "title": "Sea Of Tears",
+        "duration": "12:01"
+      },
+      {
+        "number": 6,
+        "title": "Jah The Seventh Seal",
+        "duration": "6:24"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "artist": "Benji B",
+    "album": "A Space Odyssey",
+    "slot": 95,
+    "genre": "Electronic",
+    "coverArtUrl": "https://i.discogs.com/3BWzucM_fCOZh9Q8v3-0pyDJEOK5SB7cngR2kUt8YXA/rs:fit/g:sm/q:90/h:243/w:270/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTA5/NS0xMTYxNDQ1Nzg5/LmdpZg.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Nico - Petit Chevalier",
+        "duration": ""
+      },
+      {
+        "number": 2,
+        "title": "Brian Bennett - Solstice",
+        "duration": ""
+      },
+      {
+        "number": 3,
+        "title": "Dabrye - Hyped-Up Plus Tax (Outputmessage Remix)",
+        "duration": ""
+      },
+      {
+        "number": 4,
+        "title": "Unknown",
+        "duration": ""
+      },
+      {
+        "number": 5,
+        "title": "J Dilla - City Of Boom",
+        "duration": ""
+      },
+      {
+        "number": 6,
+        "title": "Unknown - Random Batcomputer Noise",
+        "duration": ""
+      },
+      {
+        "number": 7,
+        "title": "Morgan Zarate - M.A.B 4 B.B",
+        "duration": ""
+      },
+      {
+        "number": 8,
+        "title": "The Night of the Hunter Original Soundtrack - Pearl's Dream",
+        "duration": ""
+      },
+      {
+        "number": 9,
+        "title": "David Bowie - Abdulmajid / Jupiter And Beyond - The Bavarian Radio Orchestra - 2001: A Space Odyssey (Original Film Score)",
+        "duration": ""
+      },
+      {
+        "number": 10,
+        "title": "Herbie Hancock - Nobu",
+        "duration": ""
+      },
+      {
+        "number": 11,
+        "title": "David Durrah - Space 1",
+        "duration": ""
+      },
+      {
+        "number": 12,
+        "title": "Theo Parrish - Dan Ryan",
+        "duration": ""
+      },
+      {
+        "number": 13,
+        "title": "Spymusic - Cloaked",
+        "duration": ""
+      },
+      {
+        "number": 14,
+        "title": "Steve Miller Band - Space Intro",
+        "duration": ""
+      },
+      {
+        "number": 15,
+        "title": "Carl Craig - At Les",
+        "duration": ""
+      },
+      {
+        "number": 16,
+        "title": "Niko Marks - Chune",
+        "duration": ""
+      },
+      {
+        "number": 17,
+        "title": "Underground Resistance - Journey Of The Dragons",
+        "duration": ""
+      },
+      {
+        "number": 18,
+        "title": "Cybotron - Clear",
+        "duration": ""
+      },
+      {
+        "number": 19,
+        "title": "Neon Phusion - Timeless Motion",
+        "duration": ""
+      },
+      {
+        "number": 20,
+        "title": "DJ Mitsu - Negative Ion (SARA Remix)",
+        "duration": ""
+      },
+      {
+        "number": 21,
+        "title": "Sun Ra - There Are Other Worlds (I Have Not Told You Of)",
+        "duration": ""
+      },
+      {
+        "number": 22,
+        "title": "Marcus Belgrave - Space Odyssey",
+        "duration": ""
+      },
+      {
+        "number": 23,
+        "title": "Unknown - Random Space Noise",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "artist": "Matthew Dear",
+    "album": "Body Language Vol. 7",
+    "slot": 96,
+    "genre": "Electronic",
+    "coverArtUrl": "https://i.discogs.com/efEV_siNaVCbpBjrVwBA57720BA2u05dHghvkZpi5mQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDgz/NzUtMTI2MjYyMjQx/NS5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "The Green French One (Original Mix)",
+        "duration": "5:30"
+      },
+      {
+        "number": 2,
+        "title": "Cityblues",
+        "duration": "5:36"
+      },
+      {
+        "number": 3,
+        "title": "Street Life (Samuel Davis Dark Groove Remix)",
+        "duration": "3:36"
+      },
+      {
+        "number": 4,
+        "title": "Basement Works Vol 1",
+        "duration": "5:18"
+      },
+      {
+        "number": 5,
+        "title": "Orbitalife",
+        "duration": "5:59"
+      },
+      {
+        "number": 6,
+        "title": "Retrospective",
+        "duration": "1:38"
+      },
+      {
+        "number": 7,
+        "title": "No Way",
+        "duration": "0:47"
+      },
+      {
+        "number": 8,
+        "title": "Tramodyssee",
+        "duration": "4:00"
+      },
+      {
+        "number": 9,
+        "title": "Dead Souls (Radio Slave Long Distance Kiss Mix)",
+        "duration": "5:06"
+      },
+      {
+        "number": 10,
+        "title": "Ambee",
+        "duration": "2:53"
+      },
+      {
+        "number": 11,
+        "title": "Zou Zou",
+        "duration": "4:52"
+      },
+      {
+        "number": 12,
+        "title": "Gtnup",
+        "duration": "3:53"
+      },
+      {
+        "number": 13,
+        "title": "Traffic Lights",
+        "duration": "3:08"
+      },
+      {
+        "number": 14,
+        "title": "Hamlin (Sascha Dive's Secret Dub)",
+        "duration": "2:03"
+      },
+      {
+        "number": 15,
+        "title": "Doctor Of Romance",
+        "duration": "4:27"
+      },
+      {
+        "number": 16,
+        "title": "Untitled B1",
+        "duration": "2:09"
+      },
+      {
+        "number": 17,
+        "title": "I Want To Sleep",
+        "duration": "3:26"
+      },
+      {
+        "number": 18,
+        "title": "Baaa Niii",
+        "duration": "2:45"
+      },
+      {
+        "number": 19,
+        "title": "Free To Ask (Body Language Exclusive Track)",
+        "duration": "3:35"
+      },
+      {
+        "number": 20,
+        "title": "Get Deep",
+        "duration": "4:41"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "artist": "Carl Craig",
+    "album": "Sessions 01",
+    "slot": 97,
+    "genre": "Electronic",
+    "coverArtUrl": "https://i.discogs.com/dnX_H3oo7ZO5XJPEv-H5R8VAceENTl6367K1sPFjXDI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE0/MDUtMTM2Nzk3Mzg4/OS05ODEzLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Directions - Busted Trees (Carl Craig “Sessions” Remix)",
+        "duration": "4:47"
+      },
+      {
+        "number": 2,
+        "title": "Junior Boys - Like A Child (Carl Craig Remix)",
+        "duration": "7:41"
+      },
+      {
+        "number": 3,
+        "title": "Rhythm & Sound - Poor People Must Work (Carl Craig Remix)",
+        "duration": "5:09"
+      },
+      {
+        "number": 4,
+        "title": "Chez Damier - Help Myself (Reconstructed by Carl Craig)",
+        "duration": "3:36"
+      },
+      {
+        "number": 5,
+        "title": "Paperclip People - Throw (Unreleased Version)",
+        "duration": "8:31"
+      },
+      {
+        "number": 6,
+        "title": "Beanfield - Tides (Carl Craig “Sessions” Remix)",
+        "duration": "6:46"
+      },
+      {
+        "number": 7,
+        "title": "Paperclip People - Clear And Present",
+        "duration": "2:56"
+      },
+      {
+        "number": 8,
+        "title": "Theo Parrish - Falling Up (Carl Craig Remix)",
+        "duration": "6:27"
+      },
+      {
+        "number": 9,
+        "title": "Paperclip People - Oscillator (Original Version)",
+        "duration": "3:20"
+      },
+      {
+        "number": 10,
+        "title": "Cesaria Evora - Angola (Carl Craig's Mix)",
+        "duration": "6:48"
+      },
+      {
+        "number": 11,
+        "title": "Francesco Tristano - The Melody (Carl Craig Remix)",
+        "duration": "7:15"
+      },
+      {
+        "number": 12,
+        "title": "Delia Gonzales & Gavin Russom - Relevee (Carl Craig “Sessions” Remix)",
+        "duration": "6:42"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "artist": "Carl Craig",
+    "album": "Sessions 02",
+    "slot": 98,
+    "genre": "Electronic",
+    "coverArtUrl": "https://i.discogs.com/dnX_H3oo7ZO5XJPEv-H5R8VAceENTl6367K1sPFjXDI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTE0/MDUtMTM2Nzk3Mzg4/OS05ODEzLmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "69 - Rushed (Original Version)",
+        "duration": "6:26"
+      },
+      {
+        "number": 2,
+        "title": "69 - Psychobeat (Previously Unreleased)",
+        "duration": "2:25"
+      },
+      {
+        "number": 3,
+        "title": "Xpress2 - Kill 100 (Carl Craig “Sessions” Remix)",
+        "duration": "7:34"
+      },
+      {
+        "number": 4,
+        "title": "Tres Demented - Demented (Or Just Crazy) (Original Version)",
+        "duration": "6:51"
+      },
+      {
+        "number": 5,
+        "title": "Faze Action - In The Trees (Unreleased Carl Craig Remix)",
+        "duration": "8:17"
+      },
+      {
+        "number": 6,
+        "title": "Tres Demented - Brainfreeze (Carl Craig “Sessions” Mix)",
+        "duration": "4:59"
+      },
+      {
+        "number": 7,
+        "title": "Carl Craig - Futurelovetheme (Carl Craig “Sessions” Mix)",
+        "duration": "8:34"
+      },
+      {
+        "number": 8,
+        "title": "Carl Craig - Sandstorms (Original Version)",
+        "duration": "7:42"
+      },
+      {
+        "number": 9,
+        "title": "Innerzone Orchestra - Bug In The Bass Bin (Carl Craig “Sessions” Mix)",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "artist": "Carl Craig & Moritz von Oswald",
+    "album": "ReComposed",
+    "slot": 99,
+    "genre": "Electronic",
+    "coverArtUrl": "https://i.discogs.com/fnqdVHEa_ks5oip4rybFn2qhY3kEEK9qCZYsf4eCcTw/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTIz/MjctMTIyNDgyODU2/My5qcGVn.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Intro",
+        "duration": "6:23"
+      },
+      {
+        "number": 2,
+        "title": "Movement 1",
+        "duration": "2:26"
+      },
+      {
+        "number": 3,
+        "title": "Movement 2",
+        "duration": "7:30"
+      },
+      {
+        "number": 4,
+        "title": "Movement 3",
+        "duration": "8:34"
+      },
+      {
+        "number": 5,
+        "title": "Movement 4",
+        "duration": "8:06"
+      },
+      {
+        "number": 6,
+        "title": "Interlude",
+        "duration": "4:09"
+      },
+      {
+        "number": 7,
+        "title": "Movement 5",
+        "duration": "12:56"
+      },
+      {
+        "number": 8,
+        "title": "Movement 6",
+        "duration": "14:12"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "artist": "Maxence Cyrin",
+    "album": "Novö Piano",
+    "slot": 100,
+    "genre": "Modern Classical",
+    "coverArtUrl": "https://i.discogs.com/lKUzynAKsZk9JDkXMkJqaSl9GAQLjXSI0AHXrL5xKtg/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NDQz/NTAtMTQ2NzgyNzk2/Mi03ODI5LmpwZWc.jpeg",
+    "tracks": [
+      {
+        "number": 1,
+        "title": "Pixies - Where Is My Mind",
+        "duration": "2:45"
+      },
+      {
+        "number": 2,
+        "title": "Justice - D.A.N.C.E.",
+        "duration": "2:49"
+      },
+      {
+        "number": 3,
+        "title": "Cocteau Twins - Ivo",
+        "duration": "3:58"
+      },
+      {
+        "number": 4,
+        "title": "My Bloody Valentine - Only Shallow",
+        "duration": "3:58"
+      },
+      {
+        "number": 5,
+        "title": "Daft Punk - Around The World",
+        "duration": "3:30"
+      },
+      {
+        "number": 6,
+        "title": "Arcade Fire - No Cars Go",
+        "duration": "4:02"
+      },
+      {
+        "number": 7,
+        "title": "Nirvana - Lithium",
+        "duration": "3:54"
+      },
+      {
+        "number": 8,
+        "title": "MGMT - Kids",
+        "duration": "3:00"
+      },
+      {
+        "number": 9,
+        "title": "David Bowie - Sound and Vision (auf dem Album als „Triangle“ geführt)",
+        "duration": "2:52"
+      },
+      {
+        "number": 10,
+        "title": "Beyoncé feat. Jay-Z - Crazy In Love",
+        "duration": "3:52"
+      }
+    ]
+  }
+]
