@@ -85,12 +85,17 @@ export default function App() {
     <div className="min-h-screen bg-jukebox-dark flex flex-col">
       {/* Header */}
       <header className="text-center py-6 px-4">
-        <h1 className="text-3xl md:text-4xl font-bold text-white mb-1">
-          Jukebox
+        <h1 className="text-3xl md:text-5xl text-white mb-2 tracking-tight uppercase" style={{ fontFamily: '"Epilogue", sans-serif', fontWeight: 900 }}>
+          Die Dicke Berta
         </h1>
-        <p className="text-gray-500 text-sm">
-          100 Albums Collection
+        <p className="text-gray-500 text-base md:text-lg mb-5">
+          Härter. Fetter. Berta.
         </p>
+        <div className="flex justify-center gap-2 flex-wrap">
+          <span className="genre-badge text-xs px-3 py-1 rounded-full text-jukebox-amber">Select Music</span>
+          <span className="genre-badge text-xs px-3 py-1 rounded-full text-jukebox-amber">Generate Code</span>
+          <span className="genre-badge text-xs px-3 py-1 rounded-full text-jukebox-amber">Release Sound</span>
+        </div>
       </header>
 
       {/* Coverflow Section */}
