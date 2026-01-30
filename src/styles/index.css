@@ -178,6 +178,96 @@ input[type="range"]::-moz-range-thumb {
   animation: pulse-glow 2s ease-in-out infinite;
 }
 
+/* ===== Splash Screen ===== */
+
+/* Center image entrance */
+.splash-center-enter {
+  animation: splash-fade-in 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@keyframes splash-fade-in {
+  from {
+    opacity: 0;
+    transform: scale(0.5);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Breathing on center image */
+.splash-breathe {
+  animation: splash-breathe 2.5s ease-in-out 0.8s infinite;
+}
+
+@keyframes splash-breathe {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.06); }
+}
+
+/* Echo layers pulsing outward */
+.splash-echo {
+  opacity: 0;
+  will-change: transform, opacity, filter;
+  animation: splash-echo 2.6s cubic-bezier(0.25, 0.46, 0.45, 0.94) infinite;
+}
+
+@keyframes splash-echo {
+  0% {
+    opacity: 0.6;
+    transform: scale(1);
+    filter: blur(0px) brightness(1.1);
+  }
+  40% {
+    opacity: 0.3;
+    filter: blur(1px) brightness(1.2);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(5);
+    filter: blur(6px) brightness(0.6);
+  }
+}
+
+/* Amber glow behind center */
+.splash-glow {
+  background: radial-gradient(
+    circle,
+    rgba(255, 149, 0, 0.45) 0%,
+    rgba(255, 149, 0, 0.15) 40%,
+    transparent 70%
+  );
+  animation: splash-glow-pulse 2.2s ease-in-out infinite;
+}
+
+@keyframes splash-glow-pulse {
+  0%, 100% { opacity: 0.5; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.5); }
+}
+
+/* Shockwave rings */
+.splash-ring {
+  border: 2px solid rgba(255, 149, 0, 0.5);
+  border-radius: 50%;
+  opacity: 0;
+  will-change: transform, opacity;
+  animation: splash-ring 3s cubic-bezier(0.25, 0.46, 0.45, 0.94) infinite;
+}
+
+@keyframes splash-ring {
+  0% {
+    opacity: 0.6;
+    transform: scale(1);
+    border-width: 2px;
+  }
+  100% {
+    opacity: 0;
+    transform: scale(6);
+    border-width: 0.5px;
+  }
+}
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
   .glass-panel {

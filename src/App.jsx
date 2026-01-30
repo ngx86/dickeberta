@@ -3,10 +3,12 @@ import CoverFlow from './components/CoverFlow'
 import AlbumDetail from './components/AlbumDetail'
 import JukeboxDisplay from './components/JukeboxDisplay'
 import Navigation from './components/Navigation'
+import SplashScreen from './components/SplashScreen'
 import useHighlights from './hooks/useHighlights'
 import albumsData from './data/albums.json'
 
 export default function App() {
+  const [showSplash, setShowSplash] = useState(true)
   const [activeIndex, setActiveIndex] = useState(0)
   const [selectedTrack, setSelectedTrack] = useState(null)
   const [selectedGenre, setSelectedGenre] = useState('All')
@@ -78,6 +80,8 @@ export default function App() {
   }, [])
 
   return (
+    <>
+    {showSplash && <SplashScreen onComplete={() => setShowSplash(false)} />}
     <div className="min-h-screen bg-jukebox-dark flex flex-col">
       {/* Header */}
       <header className="text-center py-6 px-4">
@@ -140,5 +144,6 @@ export default function App() {
         <p>Use arrow keys or swipe to browse albums</p>
       </footer>
     </div>
+    </>
   )
 }
